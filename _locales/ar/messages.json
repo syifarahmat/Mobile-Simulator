@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> هواتف أندرويد"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> هواتف آبل"
+   },
+   "button_feedback": {
+      "message": "أضف تقييمًا"
+   },
+   "button_message": {
+      "message": "أرسل لنا رسالة"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "اسم الجهاز"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra، iPhone 17 Pro Max، إلخ."
+   },
+   "contact_title": {
+      "message": "الجهاز الذي تبحث عنه غير موجود في القائمة؟ أخبرنا!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "تفعيل العرض المتجاوب على هذه الصفحة"
+   },
+   "copied": {
+      "message": "تم النسخ"
+   },
+   "custom_device_add": {
+      "message": "إضافة جهاز مخصص"
+   },
+   "custom_device_dpr": {
+      "message": "نسبة بكسل الجهاز"
+   },
+   "custom_device_error_name": {
+      "message": "اسم الجهاز مطلوب."
+   },
+   "custom_device_error_os": {
+      "message": "نظام التشغيل مطلوب."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent مطلوب."
+   },
+   "custom_device_error_viewport": {
+      "message": "يجب أن يكون عرض وارتفاع viewport بين 10 و 4096."
+   },
+   "custom_device_height": {
+      "message": "ارتفاع viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "أقل من الإعدادات"
+   },
+   "custom_device_more": {
+      "message": "المزيد من الإعدادات"
+   },
+   "custom_device_name": {
+      "message": "اسم الجهاز"
+   },
+   "custom_device_network": {
+      "message": "الشبكة"
+   },
+   "custom_device_os_name": {
+      "message": "نظام التشغيل"
+   },
+   "custom_device_os_version": {
+      "message": "إصدار نظام التشغيل"
+   },
+   "custom_device_submit": {
+      "message": "إضافة"
+   },
+   "custom_device_title": {
+      "message": "إضافة جهاز مخصص"
+   },
+   "custom_device_ua": {
+      "message": "سلسلة user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "User agent مخصص"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "عرض viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "تعذر تحميل صورة الجهاز. قد يكون السبب مانع الإعلانات أو سياسة الأمان الخاصة بشركتك. يظل المحاكي قابلاً للاستخدام بالكامل، فقط النموذج غير معروض."
+   },
+   "device_mockup_blocked_title": {
+      "message": "نموذج الجهاز غير متاح"
+   },
+   "device_variant_folded": {
+      "message": "مطوي"
+   },
+   "device_variant_unfolded": {
+      "message": "مفتوح"
+   },
+   "dimensions": {
+      "message": "الأبعاد"
+   },
+   "error": {
+      "message": "خطأ"
+   },
+   "error_contact": {
+      "message": "{يرجى الاتصال بنا} إذا استمرت المشكلة."
+   },
+   "extDescription": {
+      "message": "محاكي الهاتف — إضافة Chrome مجانية لاختبار ومعاينة مواقعك على أكثر من 80 جهازًا"
+   },
+   "extName": {
+      "message": "محاكي الهاتف المحمول - اختبار الموقع المتجاوب"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "عدم الرد"
+   },
+   "feedback_company_type": {
+      "message": "ما هو نوع شركتك؟"
+   },
+   "feedback_company_type_agency": {
+      "message": "شركة صغيرة (10-49 موظفًا)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "مستقل"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "شركة كبيرة جدًا / مجموعة (5000+ موظف)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "شركة صغيرة (1-9 موظفين)"
+   },
+   "feedback_company_type_pme": {
+      "message": "شركة كبيرة (250-4999 موظفًا)"
+   },
+   "feedback_company_type_startup": {
+      "message": "شركة متوسطة (50-249 موظفًا)"
+   },
+   "feedback_error_required": {
+      "message": "جميع الحقول فارغة 🤔"
+   },
+   "feedback_frequency": {
+      "message": "كم مرة تستخدم هذه الإضافة؟"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "أحيانًا"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "عدة مرات في الأسبوع"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "يوميًا"
+   },
+   "feedback_frequency_rare": {
+      "message": "نادرًا"
+   },
+   "feedback_improvements": {
+      "message": "ما التحسينات التي تود رؤيتها؟"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "فكرة، احتكاك، نقص..."
+   },
+   "feedback_profession": {
+      "message": "ما هو قسمك المهني؟"
+   },
+   "feedback_profession_designer": {
+      "message": "تصميم"
+   },
+   "feedback_profession_developer": {
+      "message": "تطوير"
+   },
+   "feedback_profession_marketing": {
+      "message": "تسويق"
+   },
+   "feedback_profession_other": {
+      "message": "آخر"
+   },
+   "feedback_profession_product": {
+      "message": "إدارة المنتج"
+   },
+   "feedback_profession_qa": {
+      "message": "اختبار / ضمان الجودة"
+   },
+   "feedback_profession_sales": {
+      "message": "مبيعات"
+   },
+   "feedback_submit": {
+      "message": "إرسال"
+   },
+   "feedback_submitted": {
+      "message": "شكرًا جزيلاً لتعليقاتك 🤗"
+   },
+   "feedback_title": {
+      "message": "ساعدنا في جعل Mobile FIRST أكثر فائدة لك 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "اختبار موقعي، تقديم عروض للعملاء..."
+   },
+   "feedback_use_cases": {
+      "message": "لماذا تستخدم Mobile FIRST؟"
+   },
+   "get_pro": {
+      "message": "احصل على النسخة PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "آخر التحديثات"
+   },
+   "link": {
+      "message": "رابط"
+   },
+   "logout_modale_button": {
+      "message": "تسجيل الدخول"
+   },
+   "logout_modale_message": {
+      "message": "لم يعد هذا الجهاز جزءًا من أجهزتك المصرح بها. إذا قمت بإزالة هذا الوصول يدويًا، يلزم تسجيل الدخول مرة أخرى."
+   },
+   "logout_modale_message2": {
+      "message": "كإجراء أمني، تم تسجيل خروجك تلقائيًا من حسابك. ولكن يمكنك إعادة تسجيل الدخول بالنقر على الزر أدناه."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ هل ترغب في مشاركة اشتراكك؟ للسماح لأشخاص آخرين، أضفهم ببساطة من قسم \"المستخدمون\" في حسابك."
+   },
+   "logout_modale_title": {
+      "message": "لقد تم تسجيل خروجك تلقائيًا من هذا الجهاز"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "الأجهزة المرئية في علامة التبويب"
+   },
+   "menu_add_window": {
+      "message": "إضافة نافذة"
+   },
+   "menu_change_device": {
+      "message": "تغيير الجهاز أو المقارنة"
+   },
+   "menu_close_alone": {
+      "message": "تعطيل المحاكي"
+   },
+   "menu_close_window": {
+      "message": "إغلاق هذه النافذة"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> الجهاز الذي تبحث عنه غير موجود في القائمة؟ أخبرنا!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;أجهزتي المخصصة"
+   },
+   "menu_custom_devices_banner": {
+      "message": "أضف أجهزتك المخصصة!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "تعطيل وضع المقارنة"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "تفعيل وضع المقارنة"
+   },
+   "menu_extensions": {
+      "message": "اكتشف إضافات Chrome الأخرى الخاصة بنا"
+   },
+   "menu_faq_all": {
+      "message": "عرض جميع الأسئلة الشائعة"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "كيف يمكن تفعيل المحاكي في وضع التصفح الخاص؟"
+   },
+   "menu_faq_media_queries": {
+      "message": "الاستعلامات الإعلامية الخاصة بي غير معترف بها"
+   },
+   "menu_faq_scroll": {
+      "message": "لا يمكن التمرير في المحاكي"
+   },
+   "menu_faq_shortcut": {
+      "message": "كيف يمكن إعداد اختصارات لوحة المفاتيح؟"
+   },
+   "menu_faq_subscription": {
+      "message": "لماذا لا يعمل اشتراكي؟"
+   },
+   "menu_faq_title": {
+      "message": "أسئلة شائعة"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> المفضلة"
+   },
+   "menu_info_device": {
+      "message": "خصائص ونموذج الجهاز"
+   },
+   "menu_info_device_features": {
+      "message": "المواصفات (دقة العرض، إلخ.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "صورة مجانية بصيغة PNG شفافة"
+   },
+   "menu_report": {
+      "message": "الإبلاغ عن خطأ"
+   },
+   "menu_rotate": {
+      "message": "تغيير الاتجاه"
+   },
+   "menu_screencast": {
+      "message": "📹 تسجيل فيديو للشاشة"
+   },
+   "menu_screenshot": {
+      "message": "📷 التقاط لقطة شاشة"
+   },
+   "menu_send_improvement": {
+      "message": "اقتراح تحسين"
+   },
+   "menu_send_message": {
+      "message": "مركز المساعدة"
+   },
+   "menu_settings": {
+      "message": "الإعدادات"
+   },
+   "menu_share": {
+      "message": "مشاركة مع زميل، صديق،..."
+   },
+   "menu_vote_feature": {
+      "message": "صوت للميزات التي ترغب فيها"
+   },
+   "menu_zoom": {
+      "message": "تكبير داخل الجهاز"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "المزيد من الإعدادات"
+   },
+   "new_comparison_feature_h1": {
+      "message": "اكتشف الآن ميزة المقارنة الجديدة بين عدة أجهزة!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "قارن العرض المتزامن لعدة أجهزة في نفس النافذة. التمرير، النقرات، لوحة المفاتيح متزامنة."
+   },
+   "new_video_feature_h1": {
+      "message": "اكتشف الآن ميزة تسجيل الفيديو الجديدة!"
+   },
+   "new_video_feature_h2": {
+      "message": "سجل بجودة أفضل، مع خيارات جديدة وخلفية شفافة"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.14.5\u003C/strong>زيادة كبيرة في \u003Cstrong>دقة وجودة\u003C/strong> لقطات الشاشة \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.15.0\u003C/strong>تفعيل \u003Cstrong>التمرير باللمس\u003C/strong> للهواتف الذكية والأجهزة اللوحية \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.15.0\u003C/strong>تفعيل \u003Cstrong>التمرير باللمس\u003C/strong> للهواتف الذكية والأجهزة اللوحية."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.15.5\u003C/strong>\u003Cul>\u003Cli>تصحيح يتعلق بلقطات الشاشة للصفحة الكاملة على \u003Cstrong>الملفات المحلية\u003C/strong>.\u003C/li>\u003Cli>تصحيح يتعلق بوحدات vh، dhv، lvh، svh على \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.16.0\u003C/strong>إضافة إمكانية إنشاء أجهزة مخصصة \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>تحديث v4.17.0\u003C/strong>إضافة ميزة مقارنة عدة أجهزة في وقت واحد! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>مرحبًا بك في Mobile FIRST 👋\u003C/strong>حاكي الهواتف، الأجهزة اللوحية وأجهزة الكمبيوتر بنقرة واحدة لاختبار وعرض مواقعك بسهولة.\u003Cbr>\u003Cbr>\u003Cstrong>القائمة موجودة على اليمين ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "اختياري"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "تثبيت"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "تتيح لك هذه الإضافة التقاط أي لون على الشاشة."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "منتقي الألوان"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "حدد بنقرة واحدة الخط المستخدم على أي نص في صفحة ويب."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "مكتشف الخطوط"
+   },
+   "other_extensions_h1": {
+      "message": "اكتشف إضافاتنا المجانية الجديدة"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> خاصة"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "تفعيل الخيار"
+   },
+   "popup_activate_local_files_info": {
+      "message": "لا يمكن تفعيل هذا المحاكي افتراضيًا على الملفات المحلية (file:///) ولكن يمكنك تفعيل الخيار يدويًا في إعدادات Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "المحاكي غير قابل للتفعيل على هذه الصفحة الأصلية لمتصفحك. حاول في علامة تبويب أخرى أو تصفح موقعًا ثم أعد المحاولة."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "جميع إعدادات الفيديو"
+   },
+   "pro_modale_avantage_2": {
+      "message": "مقارنة متعددة الأجهزة"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "يتم الفوترة سنويًا"
+   },
+   "pro_modale_button": {
+      "message": "أشترك"
+   },
+   "pro_modale_from": {
+      "message": "ابتداءً من"
+   },
+   "pro_modale_h1": {
+      "message": "كن محترفًا"
+   },
+   "pro_modale_h1_ads": {
+      "message": "إزالة الإعلانات"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "حوّل لقطات الفيديو الخاصة بك إلى صيغ GIF وMP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "حاكي جميع الأجهزة"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "حرر لقطاتك"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "قارن بين أكثر من جهازين في وقت واحد"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "افتح جميع إعدادات تسجيل الفيديو"
+   },
+   "pro_modale_h1_settings": {
+      "message": "افتح جميع الإعدادات"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "التقط لقطات شاشة بلا حدود"
+   },
+   "pro_modale_h2": {
+      "message": "كن محترفًا وساهم بنشاط في تطوير هذه الإضافة بدعم مطورها."
+   },
+   "pro_modale_link_1": {
+      "message": "أو"
+   },
+   "pro_modale_link_2": {
+      "message": "أقوم بتسجيل الدخول"
+   },
+   "pro_modale_link_3": {
+      "message": "إلى حسابي المشترك"
+   },
+   "pro_modale_recurring_month": {
+      "message": "شهر"
+   },
+   "pro_modale_savings": {
+      "message": "وفر"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "سنوي"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "شهري"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "بعد 7 أيام من التجربة المجانية"
+   },
+   "pro_modale_trial_button": {
+      "message": "ابدأ تجربتي المجانية لمدة 7 أيام"
+   },
+   "pro_modale_trial_h1": {
+      "message": "جرب النسخة PRO مجانًا لمدة 7 أيام"
+   },
+   "pro_modale_trial_note": {
+      "message": "لا شيء للدفع اليوم · بدون التزام، يمكن الإلغاء في أي وقت"
+   },
+   "pro_modale_trial_then": {
+      "message": "ثم"
+   },
+   "pro_modale_trial_today": {
+      "message": "اليوم"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "كيف تقيم هذه الإضافة؟"
+   },
+   "review_note_feedback": {
+      "message": "شكرًا لتعليقاتك، لا تتردد في إرسال رسالة لنا حتى نتمكن من تحسين هذه الإضافة."
+   },
+   "review_note_store": {
+      "message": "شكرًا لك على ملاحظاتك، لا تتردد في إضافة تقييم على صفحة الامتداد. سأكون ممتنًا جدًا 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "تم رفض إذن الوصول إلى الكاميرا."
+   },
+   "screencast_error": {
+      "message": "حدث خطأ أثناء التسجيل. {انقر هنا} للحصول على حل بديل."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "إصدار Chrome الخاص بك قديم جدًا لهذه الميزة. يرجى تحديث Chrome إلى إصدار أعلى من 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "يرجى مشاركة النافذة الحالية (وليس الشاشة بأكملها) حتى يتم تسجيل الإطار بشكل صحيح."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "تم رفض إذن الوصول إلى الميكروفون."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "تسجيلات الفيديو محدودة بـ 5 دقائق في النسخة المجانية."
+   },
+   "screencast_modale_contact": {
+      "message": "الإبلاغ عن خطأ، اقتراح تحسين"
+   },
+   "screencast_modale_copy": {
+      "message": "نسخ"
+   },
+   "screencast_modale_download_gif": {
+      "message": "متوافق في كل مكان، لكن بجودة أقل (مع شفافية إذا تم تفعيل الخيار)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "أفضل توافق مع PowerPoint، لكن بدون شفافية"
+   },
+   "screencast_modale_download_webm": {
+      "message": "تنزيل بصيغة WEBM الافتراضية (مع شفافية إذا تم تفعيل الخيار)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "الحد الأقصى لمدة GIF هو 60 ثانية. بعد ذلك سيكون الملف كبيرًا جدًا."
+   },
+   "screencast_modale_texte": {
+      "message": "يمكنك تنزيل هذا الفيديو بصيغ مختلفة أو الحصول على رابط للمشاركة."
+   },
+   "screencast_modale_title": {
+      "message": "تسجيل فيديو"
+   },
+   "screencast_modale_upload": {
+      "message": "الحصول على رابط للمشاركة"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "تؤثر جودة الفيديو على معدل البت، fps ودقة التسجيل. كلما كانت الجودة أعلى، كان الملف أكبر."
+   },
+   "screencast_start_recording": {
+      "message": "بدء التسجيل"
+   },
+   "screencast_tooltip_device": {
+      "message": "تسجيل فيديو للجهاز فقط"
+   },
+   "screencast_tooltip_tab": {
+      "message": "تسجيل فيديو للعلامة مع الجهاز"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "إنشاء لقطة"
+   },
+   "screenshot_editor_arrow": {
+      "message": "رسم سهم"
+   },
+   "screenshot_editor_close": {
+      "message": "إغلاق المحرر"
+   },
+   "screenshot_editor_color": {
+      "message": "لون الخط"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "رسم دائرة"
+   },
+   "screenshot_editor_line": {
+      "message": "رسم خط"
+   },
+   "screenshot_editor_pen": {
+      "message": "رسم حر"
+   },
+   "screenshot_editor_rect": {
+      "message": "رسم مستطيل"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "سمك الخط"
+   },
+   "screenshot_editor_undo": {
+      "message": "إلغاء آخر إجراء"
+   },
+   "screenshot_menu_1": {
+      "message": "التقاط مع الجهاز"
+   },
+   "screenshot_menu_2": {
+      "message": "التقاط الموقع فقط"
+   },
+   "screenshot_menu_3": {
+      "message": "التقاط الصفحة بالكامل"
+   },
+   "screenshot_menu_4": {
+      "message": "التقاط كل العلامة"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "إيقاف قبل نهاية الصفحة"
+   },
+   "screenshot_modale_copy": {
+      "message": "نسخ الصورة إلى الحافظة"
+   },
+   "screenshot_modale_download_png": {
+      "message": "تنزيل بصيغة PNG (بدون ضغط)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "تنزيل بصيغة WEBP، متوافق تقريبًا في كل مكان وضغط محسن (موصى به)"
+   },
+   "screenshot_modale_edit": {
+      "message": "تحرير اللقطة"
+   },
+   "screenshot_modale_help": {
+      "message": "لحفظ الصورة بحجم كبير، يكفي النقر بزر الماوس الأيمن عليها ثم \"نسخ الصورة\" أو \"حفظ\"."
+   },
+   "screenshot_modale_title": {
+      "message": "لقطة شاشة"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "السياق"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "بسبب بعض القيود التقنية، قد تتلقى رسالة خطأ عند التقاط الشاشة."
+   },
+   "screenshot_workaround_solution": {
+      "message": "حل بديل"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "في هذه الحالة، لبدء الالتقاط، يكفي النقر بزر الماوس الأيمن في أي مكان على الصفحة، واختيار الإدخال «محاكي الجوال»، ثم «📷 التقاط لقطة شاشة»"
+   },
+   "screenshot_workaround_title": {
+      "message": "حل بديل لالتقاط الشاشة"
+   },
+   "see_less": {
+      "message": "عرض أقل"
+   },
+   "see_more": {
+      "message": "عرض المزيد"
+   },
+   "select": {
+      "message": "اختر..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "اشترك لفتح النسخة PRO، أو قم بتسجيل الدخول إذا كان لديك حساب بالفعل."
+   },
+   "settings_account_cta_title": {
+      "message": "الوصول إلى حسابك"
+   },
+   "settings_account_greeting": {
+      "message": "مرحبًا $1،"
+   },
+   "settings_batterie_level": {
+      "message": "مستوى البطارية في رأس الجهاز (%)"
+   },
+   "settings_camera": {
+      "message": "كاميرا"
+   },
+   "settings_change_analytics": {
+      "message": "مساعدة المطور في تحسين الامتداد من خلال مشاركة بيانات الاستخدام المجهولة تمامًا وغير الشخصية."
+   },
+   "settings_change_background": {
+      "message": "تغيير لون الخلفية"
+   },
+   "settings_change_cursor": {
+      "message": "التمرير باللمس وعرض مؤشر الهاتف المحمول"
+   },
+   "settings_countdown": {
+      "message": "العد التنازلي (ثواني)"
+   },
+   "settings_default_device": {
+      "message": "الجهاز الافتراضي عند كل تفعيل"
+   },
+   "settings_default_device_placeholder": {
+      "message": "اختر جهازًا"
+   },
+   "settings_device_default_url": {
+      "message": "تعديل عنوان URL المعروض في الجهاز"
+   },
+   "settings_device_forced_time": {
+      "message": "فرض الوقت المعروض في الجهاز"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "العودة إلى الوقت الحالي"
+   },
+   "settings_device_hide": {
+      "message": "إظهار إطار الجهاز"
+   },
+   "settings_fullscreen": {
+      "message": "الموقع في وضع ملء الشاشة في الجهاز"
+   },
+   "settings_h2_customization": {
+      "message": "التخصيص"
+   },
+   "settings_h2_device": {
+      "message": "جهاز"
+   },
+   "settings_h2_display": {
+      "message": "العرض العام"
+   },
+   "settings_h2_global": {
+      "message": "عام"
+   },
+   "settings_h2_multiwindow": {
+      "message": "وضع النوافذ المتعددة"
+   },
+   "settings_h2_pwa": {
+      "message": "تطبيقات الويب التقدمية"
+   },
+   "settings_hide_header_footer": {
+      "message": "إخفاء واجهة متصفح الجهاز (شريط العنوان، إلخ)"
+   },
+   "settings_hide_keyboard": {
+      "message": "محاكاة ظهور لوحة المفاتيح أثناء الكتابة"
+   },
+   "settings_login_button": {
+      "message": "تسجيل الدخول"
+   },
+   "settings_microphone": {
+      "message": "ميكروفون"
+   },
+   "settings_nav_account": {
+      "message": "الحساب"
+   },
+   "settings_nav_appearance": {
+      "message": "المظهر"
+   },
+   "settings_nav_device": {
+      "message": "الجهاز"
+   },
+   "settings_os_display": {
+      "message": "عرض نظام التشغيل"
+   },
+   "settings_os_display_full_desc": {
+      "message": "يعرض شريط حالة نظام التشغيل والمتصفح (شريط العنوان)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "يخفي المتصفح ولكن يحتفظ بشريط حالة نظام التشغيل."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "يخفي شريط حالة نظام التشغيل والمتصفح."
+   },
+   "settings_presenter_mode": {
+      "message": "وضع العرض (القائمة اليمنى مرئية فقط عند التمرير)"
+   },
+   "settings_pro_account": {
+      "message": "إدارة اشتراكي"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "ستنتهي اشتراكك في"
+   },
+   "settings_pro_account_past_due": {
+      "message": "فشل تجديد اشتراكك. يرجى تحديث معلومات الدفع الخاصة بك للحفاظ على النسخة PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "إعادة تفعيل اشتراكي"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "اكتشاف وعرض تطبيقات الويب التقدمية تلقائيًا كتطبيقات جوال."
+   },
+   "settings_scrollbar_show": {
+      "message": "عرض شريط التمرير الأصلي في الجهاز"
+   },
+   "settings_shortcuts": {
+      "message": "تحديد اختصارات لوحة المفاتيح"
+   },
+   "settings_signup_button": {
+      "message": "اشترك"
+   },
+   "settings_subscribe": {
+      "message": "افتح النسخة PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "اشترك"
+   },
+   "settings_sync_events": {
+      "message": "مزامنة الأحداث بين النوافذ (النقر، التمرير، إلخ.)"
+   },
+   "settings_theme": {
+      "message": "الثيم"
+   },
+   "settings_theme_auto": {
+      "message": "تلقائي"
+   },
+   "settings_theme_dark": {
+      "message": "داكن"
+   },
+   "settings_theme_light": {
+      "message": "فاتح"
+   },
+   "settings_title": {
+      "message": "الإعدادات"
+   },
+   "settings_transparent_background": {
+      "message": "خلفية شفافة"
+   },
+   "settings_transparent_background_info": {
+      "message": "يتطلب هذا الخيار حسابات أكثر وبالتالي احتمال تباطؤ العرض بناءً على جهاز الكمبيوتر الخاص بك (متوافق فقط مع صيغ WEBM وGIF)"
+   },
+   "settings_video_quality": {
+      "message": "جودة الفيديو"
+   },
+   "settings_video_quality_high": {
+      "message": "ممتازة"
+   },
+   "settings_video_quality_low": {
+      "message": "متوسطة"
+   },
+   "settings_video_quality_medium": {
+      "message": "جيدة"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "هل هذا المحاكي المحمول مفيد لك؟"
+   },
+   "sharing_h2": {
+      "message": "إذاً شاركه مع زملائك أو أصدقائك"
+   },
+   "sharing_review_1": {
+      "message": "وإذا كان لديك دقيقة ل"
+   },
+   "sharing_review_2": {
+      "message": "إضافة مراجعة"
+   },
+   "sharing_review_3": {
+      "message": "فهذا هو الكرز على الكعكة! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "أضيف مراجعة"
+   },
+   "sharing_txt": {
+      "message": "محاكي لاختبار موقعك على الجوال والجهاز اللوحي"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "هذه مجرد صورة. استخدم لوحة المفاتيح الخاصة بك."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 لا يسمح بعرض صفحاته داخل صفحة أخرى: لا يمكن محاكاة الموقع على Firefox."
+   },
+   "simulator_header_info": {
+      "message": "هذه مجرد صورة. لتغيير URL استخدم الحقل في Chrome أعلاه."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> أجهزة لوحية"
+   },
+   "try_it": {
+      "message": "جرب الآن"
+   },
+   "update_4_14_5_description": {
+      "message": "تحسين كبير في دقة وجودة لقطات الشاشة."
+   },
+   "update_4_14_5_title": {
+      "message": "لقطات أوضح"
+   },
+   "update_4_15_0_description": {
+      "message": "تمكين التمرير باللمس على الهواتف الذكية والأجهزة اللوحية."
+   },
+   "update_4_15_0_title": {
+      "message": "التمرير باللمس"
+   },
+   "update_4_15_5_description": {
+      "message": "لقطات الصفحة الكاملة على الملفات المحلية وتصحيحات وحدات العرض على iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "تصحيحات"
+   },
+   "update_4_16_0_description": {
+      "message": "يمكنك الآن إضافة أجهزتك الخاصة بأبعاد محددة."
+   },
+   "update_4_16_0_title": {
+      "message": "أجهزة مخصصة"
+   },
+   "update_4_17_0_description": {
+      "message": "قارن بين عدة أجهزة جنبًا إلى جنب في نفس الوقت. النقرات، التمرير ولوحة المفاتيح متزامنة."
+   },
+   "update_4_17_0_title": {
+      "message": "مقارنة الأجهزة"
+   },
+   "update_4_19_0_description": {
+      "message": "3 نماذج من Google Pixel 10، Motorola Razr 70 Ultra، Infinix Hot 70 وSamsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 أجهزة أندرويد جديدة"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro، iPhone 18 Pro Max و iPhone Duo القابل للطي، في نسختيه المطوية والمفتوحة."
+   },
+   "update_4_21_0_title": {
+      "message": "4 أجهزة iPhone جديدة"
+   },
+   "update_tag_feature": {
+      "message": "ميزة"
+   },
+   "update_tag_fix": {
+      "message": "تصحيح"
+   },
+   "update_tag_improvement": {
+      "message": "تحسين"
+   },
+   "update_tag_new": {
+      "message": "جديد"
+   }
+}

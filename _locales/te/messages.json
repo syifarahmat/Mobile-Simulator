@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> ఆండ్రాయిడ్ ఫోన్లు"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> ఆపిల్ ఫోన్లు"
+   },
+   "button_feedback": {
+      "message": "రేటింగ్ జోడించండి"
+   },
+   "button_message": {
+      "message": "మాకు సందేశం పంపండి"
+   },
+   "close": {
+      "message": "మూసివేయండి"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "పరికరం పేరు"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, మొదలైనవి."
+   },
+   "contact_title": {
+      "message": "మీరు వెతుకుతున్న పరికరం జాబితాలో లేనట్లయితే మాకు చెప్పండి!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "ఈ ట్యాబ్‌లో మొబైల్ వీక్షణను సక్రియం చేయండి"
+   },
+   "copied": {
+      "message": "కాపీ చేయబడింది"
+   },
+   "custom_device_add": {
+      "message": "కస్టమ్ పరికరాన్ని జోడించండి"
+   },
+   "custom_device_dpr": {
+      "message": "పరికరం పిక్సెల్ నిష్పత్తి"
+   },
+   "custom_device_error_name": {
+      "message": "పరికరం పేరు తప్పనిసరి."
+   },
+   "custom_device_error_os": {
+      "message": "ఆపరేటింగ్ సిస్టమ్ తప్పనిసరి."
+   },
+   "custom_device_error_ua": {
+      "message": "యూజర్ ఏజెంట్ తప్పనిసరి."
+   },
+   "custom_device_error_viewport": {
+      "message": "వ్యూహపటం వెడల్పు మరియు ఎత్తు 10 మరియు 4096 మధ్య ఉండాలి."
+   },
+   "custom_device_height": {
+      "message": "వ్యూహపటం ఎత్తు (px)"
+   },
+   "custom_device_less": {
+      "message": "తక్కువ సెట్టింగులు"
+   },
+   "custom_device_more": {
+      "message": "మరిన్ని సెట్టింగులు"
+   },
+   "custom_device_name": {
+      "message": "పరికరం పేరు"
+   },
+   "custom_device_network": {
+      "message": "నెట్‌వర్క్"
+   },
+   "custom_device_os_name": {
+      "message": "ఆపరేటింగ్ సిస్టమ్"
+   },
+   "custom_device_os_version": {
+      "message": "OS వెర్షన్"
+   },
+   "custom_device_submit": {
+      "message": "జోడించండి"
+   },
+   "custom_device_title": {
+      "message": "కస్టమ్ పరికరాన్ని జోడించండి"
+   },
+   "custom_device_ua": {
+      "message": "యూజర్ ఏజెంట్ స్ట్రింగ్"
+   },
+   "custom_device_ua_custom": {
+      "message": "కస్టమ్ యూజర్ ఏజెంట్"
+   },
+   "custom_device_ua_preset": {
+      "message": "యూజర్ ఏజెంట్"
+   },
+   "custom_device_width": {
+      "message": "వ్యూహపటం వెడల్పు (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "పరికరం విజువల్ లోడ్ చేయబడలేదు. ఇది ప్రకటన బ్లాకర్ లేదా మీ సంస్థ యొక్క భద్రతా విధానం కారణంగా కావచ్చు. సిమ్యులేటర్ పూర్తిగా ఉపయోగించదగినది, కేవలం మాక్‌అప్ మాత్రమే ప్రదర్శించబడదు."
+   },
+   "device_mockup_blocked_title": {
+      "message": "పరికరం మాక్‌అప్ అందుబాటులో లేదు"
+   },
+   "device_variant_folded": {
+      "message": "మడిచిన"
+   },
+   "device_variant_unfolded": {
+      "message": "విప్పిన"
+   },
+   "dimensions": {
+      "message": "కొలతలు"
+   },
+   "error": {
+      "message": "లోపం"
+   },
+   "error_contact": {
+      "message": "సమస్య కొనసాగితే {మమ్మల్ని సంప్రదించండి}."
+   },
+   "extDescription": {
+      "message": "ఫోన్ సిమ్యులేటర్ — 80 కంటే ఎక్కువ పరికరాలపై మీ సైట్లను పరీక్షించడానికి మరియు ముందుగా వీక్షించడానికి ఉచిత Chrome విస్తరణ"
+   },
+   "extName": {
+      "message": "మొబైల్ ఫోన్ అనుకరణ - రెస్పాన్సివ్ సైట్ పరీక్ష"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "సమాధానం ఇవ్వవద్దు"
+   },
+   "feedback_company_type": {
+      "message": "మీ కంపెనీ రకం ఏమిటి?"
+   },
+   "feedback_company_type_agency": {
+      "message": "చిన్న వ్యాపారం (10-49 ఉద్యోగులు)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "ఫ్రీలాన్స్"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "చాలా పెద్ద వ్యాపారం / గ్రూప్ (5000+ ఉద్యోగులు)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "మైక్రో-బిజినెస్ (1-9 ఉద్యోగులు)"
+   },
+   "feedback_company_type_pme": {
+      "message": "పెద్ద వ్యాపారం (250-4999 ఉద్యోగులు)"
+   },
+   "feedback_company_type_startup": {
+      "message": "మధ్యస్థ వ్యాపారం (50-249 ఉద్యోగులు)"
+   },
+   "feedback_error_required": {
+      "message": "అన్ని ఫీల్డ్‌లు ఖాళీగా ఉన్నాయి 🤔"
+   },
+   "feedback_frequency": {
+      "message": "మీరు ఈ పొడిగింపును ఎంత తరచుగా ఉపయోగిస్తారు?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "సాధారణంగా"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "వారానికి అనేక సార్లు"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "రోజువారీ"
+   },
+   "feedback_frequency_rare": {
+      "message": "అరుదుగా"
+   },
+   "feedback_improvements": {
+      "message": "మీరు ఏ మెరుగుదలలను చూడాలనుకుంటున్నారు?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "ఒక ఆలోచన, ఒక ఘర్షణ, ఒక లోపం..."
+   },
+   "feedback_profession": {
+      "message": "మీ ప్రొఫెషనల్ విభాగం ఏమిటి?"
+   },
+   "feedback_profession_designer": {
+      "message": "డిజైన్"
+   },
+   "feedback_profession_developer": {
+      "message": "డెవలప్‌మెంట్"
+   },
+   "feedback_profession_marketing": {
+      "message": "మార్కెటింగ్"
+   },
+   "feedback_profession_other": {
+      "message": "ఇతర"
+   },
+   "feedback_profession_product": {
+      "message": "ఉత్పత్తి నిర్వహణ"
+   },
+   "feedback_profession_qa": {
+      "message": "పరీక్ష / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "అమ్మకాలు"
+   },
+   "feedback_submit": {
+      "message": "పంపండి"
+   },
+   "feedback_submitted": {
+      "message": "మీ అభిప్రాయం కోసం చాలా ధన్యవాదాలు 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRSTను మీకు మరింత ఉపయోగకరంగా చేయడానికి మాకు సహాయం చేయండి 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "నా సైట్‌ను పరీక్షించండి, కస్టమర్ డెమోలను చేయండి..."
+   },
+   "feedback_use_cases": {
+      "message": "మీరు Mobile FIRSTను ఎందుకు ఉపయోగిస్తున్నారు?"
+   },
+   "get_pro": {
+      "message": "PRO వెర్షన్ పొందండి"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "తాజా నవీకరణలు"
+   },
+   "link": {
+      "message": "లింక్"
+   },
+   "logout_modale_button": {
+      "message": "లాగిన్ అవ్వండి"
+   },
+   "logout_modale_message": {
+      "message": "ఈ పరికరం మీ అనుమతించబడిన టెర్మినల్స్‌లో భాగం కాదు. మీరు ఈ యాక్సెస్‌ను మాన్యువల్‌గా తొలగించినట్లయితే, మళ్లీ లాగిన్ అవ్వాలి."
+   },
+   "logout_modale_message2": {
+      "message": "భద్రతా కారణాల రీత్యా, మీరు మీ ఖాతా నుండి ఆటోమేటిక్‌గా లాగ్ అవుట్ చేయబడ్డారు. కానీ మీరు క్రింద ఉన్న బటన్‌పై క్లిక్ చేయడం ద్వారా మళ్లీ లాగిన్ అవ్వవచ్చు."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ మీరు మీ చందాను పంచుకోవాలనుకుంటున్నారా? ఇతరులను అనుమతించడానికి, వారిని మీ ఖాతాలోని \"వినియోగదారులు\" విభాగం నుండి జోడించండి."
+   },
+   "logout_modale_title": {
+      "message": "మీరు ఈ పరికరంలో ఆటోమేటిక్‌గా లాగ్ అవుట్ చేయబడ్డారు"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "టాబ్‌లో కనిపించే పరికరాలు"
+   },
+   "menu_add_window": {
+      "message": "విండో జోడించండి"
+   },
+   "menu_change_device": {
+      "message": "పరికరాన్ని మార్చండి లేదా పోల్చండి"
+   },
+   "menu_close_alone": {
+      "message": "అనుకరణను నిలిపివేయండి"
+   },
+   "menu_close_window": {
+      "message": "ఈ విండోను మూసివేయండి"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> మీరు వెతుకుతున్న పరికరం జాబితాలో లేనట్లయితే మాకు చెప్పండి!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;నా కస్టమ్ పరికరాలు"
+   },
+   "menu_custom_devices_banner": {
+      "message": "మీ స్వంత కస్టమ్ పరికరాలను జోడించండి!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "తులనాత్మక మోడ్‌ను ఆపివేయండి"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "తులనాత్మక మోడ్‌ను ప్రారంభించండి"
+   },
+   "menu_extensions": {
+      "message": "మా ఇతర Chrome పొడిగింపులను కనుగొనండి"
+   },
+   "menu_faq_all": {
+      "message": "అన్ని తరచుగా అడిగే ప్రశ్నలను చూడండి"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "గోప్యంగా బ్రౌజింగ్‌లో అనుకరణను ఎలా సక్రియం చేయాలి?"
+   },
+   "menu_faq_media_queries": {
+      "message": "నా మీడియా క్వెరీస్ పరిగణించబడడం లేదు"
+   },
+   "menu_faq_scroll": {
+      "message": "అనుకరణలో స్క్రోల్ చేయడం సాధ్యం కాదు"
+   },
+   "menu_faq_shortcut": {
+      "message": "కీబోర్డ్ షార్ట్‌కట్‌లను ఎలా సెటప్ చేయాలి?"
+   },
+   "menu_faq_subscription": {
+      "message": "నా సబ్‌స్క్రిప్షన్ ఎందుకు పనిచేయడం లేదు?"
+   },
+   "menu_faq_title": {
+      "message": "తరచుగా అడిగే ప్రశ్నలు"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> ఇష్టాలు"
+   },
+   "menu_info_device": {
+      "message": "ఈ పరికరం యొక్క లక్షణాలు మరియు మాక్‌అప్"
+   },
+   "menu_info_device_features": {
+      "message": "లక్షణాలు (వ్యూహపోర్ట్ రిజల్యూషన్, మొదలైనవి)"
+   },
+   "menu_info_device_mockup": {
+      "message": "ఉచిత PNG పారదర్శక మాక్‌అప్"
+   },
+   "menu_report": {
+      "message": "బగ్ నివేదించండి"
+   },
+   "menu_rotate": {
+      "message": "దిశ మార్చండి"
+   },
+   "menu_screencast": {
+      "message": "📹 స్క్రీన్ వీడియో రికార్డ్ చేయండి"
+   },
+   "menu_screenshot": {
+      "message": "📷 స్క్రీన్‌షాట్ తీసుకోండి"
+   },
+   "menu_send_improvement": {
+      "message": "మెరుగుదల ప్రతిపాదించండి"
+   },
+   "menu_send_message": {
+      "message": "సహాయ కేంద్రం"
+   },
+   "menu_settings": {
+      "message": "కాన్ఫిగరేషన్"
+   },
+   "menu_share": {
+      "message": "సహచరుడు, స్నేహితుడు,...కు పంచుకోండి"
+   },
+   "menu_vote_feature": {
+      "message": "మీరు కోరుకునే ఫీచర్‌లకు ఓటు వేయండి"
+   },
+   "menu_zoom": {
+      "message": "పరికరంలో జూమ్ చేయండి"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "మరిన్ని సెట్టింగ్‌లు"
+   },
+   "new_comparison_feature_h1": {
+      "message": "ఇప్పుడు అనేక పరికరాలను పోల్చే కొత్త ఫీచర్‌ను కనుగొనండి!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "ఒకే విండోలో అనేక పరికరాల ప్రదర్శనను ఒకేసారి పోల్చండి. స్క్రోల్, క్లిక్స్, కీబోర్డ్ సమకాలీకరించబడ్డాయి."
+   },
+   "new_video_feature_h1": {
+      "message": "వీడియో క్యాప్చర్ యొక్క కొత్త ఫీచర్‌ను ఇప్పుడు కనుగొనండి!"
+   },
+   "new_video_feature_h2": {
+      "message": "మంచి నాణ్యతతో, కొత్త ఆప్షన్‌లతో మరియు పారదర్శక నేపథ్యంతో రికార్డ్ చేయండి"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.14.5\u003C/strong>స్క్రీన్‌షాట్‌ల \u003Cstrong>రిజల్యూషన్ మరియు నాణ్యత\u003C/strong>లో గణనీయమైన పెరుగుదల \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>అప్డేట్ v4.15.0\u003C/strong>స్మార్ట్‌ఫోన్‌లు మరియు టాబ్లెట్‌ల కోసం \u003Cstrong>టచ్ స్క్రోల్\u003C/strong>ను ప్రారంభించడం \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>v4.15.0 నవీకరణ\u003C/strong>స్మార్ట్‌ఫోన్‌లు మరియు టాబ్లెట్‌ల కోసం \u003Cstrong>టచ్ స్క్రోల్\u003C/strong> ప్రారంభించబడింది."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>అప్డేట్ v4.15.5\u003C/strong>\u003Cul>\u003Cli>\u003Cstrong>స్థానిక ఫైళ్ళ\u003C/strong>పై పూర్తి పేజీ స్క్రీన్‌షాట్‌లకు సంబంధించిన దిద్దుబాటు.\u003C/li>\u003Cli>\u003Cstrong>iOS&nbsp;26\u003C/strong>పై vh, dhv, lvh, svh యూనిట్లకు సంబంధించిన దిద్దుబాటు.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>అప్డేట్ v4.16.0\u003C/strong>కస్టమ్ పరికరాలను సృష్టించే సామర్థ్యం జోడించబడింది \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>v4.17.0 నవీకరణ\u003C/strong>ఒకేసారి అనేక పరికరాల పోలిక ఫీచర్ జోడించబడింది! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mobile FIRSTకు స్వాగతం 👋\u003C/strong>మీ సైట్‌లను సులభంగా పరీక్షించడానికి మరియు వీక్షించడానికి ఫోన్‌లు, టాబ్లెట్‌లు మరియు కంప్యూటర్‌లను ఒక క్లిక్‌తో అనుకరించండి.\u003Cbr>\u003Cbr>\u003Cstrong>మెనూ కుడి వైపున ఉంది ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "ఐచ్చికం"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "ఇన్‌స్టాల్ చేయండి"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "ఈ పొడిగింపు మీకు స్క్రీన్‌పై ఏ రంగును అయినా క్యాప్చర్ చేయడానికి అనుమతిస్తుంది."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "రంగు ఎంపిక"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "వెబ్‌పేజీలో ఏదైనా టెక్స్ట్‌పై ఉపయోగించిన ఫాంట్‌ను ఒక క్లిక్‌తో గుర్తించండి."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "ఫాంట్ ఫైండర్"
+   },
+   "other_extensions_h1": {
+      "message": "మా తాజా ఉచిత పొడిగింపులను కనుగొనండి"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> ప్రత్యేకాలు"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "ఆప్షన్‌ను సక్రియం చేయండి"
+   },
+   "popup_activate_local_files_info": {
+      "message": "ఈ అనుకరణను స్థానిక ఫైళ్లపై (file:///) డిఫాల్ట్‌గా సక్రియం చేయలేము కానీ మీరు Chrome సెట్టింగ్‌లలో ఆప్షన్‌ను మాన్యువల్‌గా సక్రియం చేయవచ్చు."
+   },
+   "popup_site_incompatible": {
+      "message": "మీ బ్రౌజర్ యొక్క ఈ స్థానిక పేజీలో అనుకరణను సక్రియం చేయలేము. ఇతర ట్యాబ్‌లో ప్రయత్నించండి లేదా సైట్‌ను బ్రౌజ్ చేసి మళ్లీ ప్రారంభించండి."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "అన్ని వీడియో సెట్టింగ్‌లు"
+   },
+   "pro_modale_avantage_2": {
+      "message": "బహుళ పరికరాల పోలిక"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "వార్షికంగా బిల్లింగ్ చేయబడింది"
+   },
+   "pro_modale_button": {
+      "message": "నేను సబ్‌స్క్రైబ్ చేస్తున్నాను"
+   },
+   "pro_modale_from": {
+      "message": "నుండి"
+   },
+   "pro_modale_h1": {
+      "message": "PRO అవ్వండి"
+   },
+   "pro_modale_h1_ads": {
+      "message": "జాహిరాతలను తొలగించండి"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "మీ వీడియో క్యాప్చర్‌లను GIF మరియు MP4 ఫార్మాట్‌లకు మార్చండి"
+   },
+   "pro_modale_h1_devices": {
+      "message": "అన్ని పరికరాలను అనుకరించండి"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "మీ క్యాప్చర్‌లను ఎడిట్ చేయండి"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "ఒకేసారి రెండు కంటే ఎక్కువ పరికరాలను పోల్చండి"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "అన్ని వీడియో రికార్డింగ్ సెట్టింగ్‌లను అన్‌లాక్ చేయండి"
+   },
+   "pro_modale_h1_settings": {
+      "message": "అన్ని సెట్టింగ్‌లను అన్‌లాక్ చేయండి"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "అనంత స్క్రీన్‌షాట్‌లు తీసుకోండి"
+   },
+   "pro_modale_h2": {
+      "message": "PRO అవ్వండి మరియు ఈ పొడిగింపును అభివృద్ధి చేయడానికి దాని డెవలపర్‌ను మద్దతు ఇవ్వడం ద్వారా చురుకుగా సహకరించండి."
+   },
+   "pro_modale_link_1": {
+      "message": "లేదా"
+   },
+   "pro_modale_link_2": {
+      "message": "నేను లాగిన్ అవుతున్నాను"
+   },
+   "pro_modale_link_3": {
+      "message": "నా సబ్‌స్క్రైబర్ ఖాతాకు"
+   },
+   "pro_modale_recurring_month": {
+      "message": "నెల"
+   },
+   "pro_modale_savings": {
+      "message": "సేవ్ చేయండి"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "వార్షిక"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "నెలవారీ"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "మీ 7 రోజుల ఉచిత ట్రయల్ తర్వాత"
+   },
+   "pro_modale_trial_button": {
+      "message": "నా 7 రోజుల ఉచిత ట్రయల్ ప్రారంభించండి"
+   },
+   "pro_modale_trial_h1": {
+      "message": "PRO వెర్షన్‌ను 7 రోజుల పాటు ఉచితంగా ప్రయత్నించండి"
+   },
+   "pro_modale_trial_note": {
+      "message": "ఈ రోజు చెల్లించాల్సిన అవసరం లేదు · ఎలాంటి బంధనాలు లేవు, ఎప్పుడైనా రద్దు చేసుకోవచ్చు"
+   },
+   "pro_modale_trial_then": {
+      "message": "తర్వాత"
+   },
+   "pro_modale_trial_today": {
+      "message": "ఈ రోజు"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "ఈ పొడిగింపును మీరు ఎలా రేట్ చేస్తారు?"
+   },
+   "review_note_feedback": {
+      "message": "మీ అభిప్రాయం కోసం ధన్యవాదాలు, ఈ పొడిగింపును మెరుగుపరచడానికి మాకు సందేశం పంపడానికి సంకోచించకండి."
+   },
+   "review_note_store": {
+      "message": "మీ అభిప్రాయానికి ధన్యవాదాలు, దయచేసి ఎక్స్‌టెన్షన్ పేజీపై ఒక నోట్ను జోడించడానికి సంకోచించకండి. నేను మీకు చాలా కృతజ్ఞతలు తెలుపుతాను 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "కెమెరా యాక్సెస్ అనుమతి నిరాకరించబడింది."
+   },
+   "screencast_error": {
+      "message": "రికార్డింగ్ సమయంలో లోపం సంభవించింది. పరిష్కార మార్గం కోసం {ఇక్కడ క్లిక్ చేయండి}."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "ఈ ఫీచర్ కోసం మీ Chrome వెర్షన్ చాలా పాతది. 94.0 కంటే ఎక్కువ వెర్షన్‌కు Chrome‌ను అప్‌డేట్ చేయండి"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "దయచేసి రికార్డింగ్ సరిగ్గా ఫ్రేమ్ చేయబడేందుకు ప్రస్తుత విండోను (మొత్తం స్క్రీన్‌ను కాకుండా) పంచుకోండి."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "మైక్రోఫోన్ యాక్సెస్ అనుమతి నిరాకరించబడింది."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "ఉచిత వెర్షన్‌లో వీడియో రికార్డింగ్‌లు 5 నిమిషాలకు పరిమితం చేయబడ్డాయి."
+   },
+   "screencast_modale_contact": {
+      "message": "బగ్ నివేదించండి, మెరుగుదల ప్రతిపాదించండి"
+   },
+   "screencast_modale_copy": {
+      "message": "కాపీ చేయండి"
+   },
+   "screencast_modale_download_gif": {
+      "message": "ఎక్కడైనా అనుకూలంగా ఉంటుంది, కానీ తక్కువ నాణ్యత (ఆప్షన్ సక్రియం చేయబడినట్లయితే పారదర్శకతతో)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "PowerPointతో మంచి అనుకూలత, కానీ పారదర్శకత లేదు"
+   },
+   "screencast_modale_download_webm": {
+      "message": "డిఫాల్ట్ WEBM ఫార్మాట్‌లో డౌన్‌లోడ్ చేయండి (ఆప్షన్ సక్రియం చేయబడినట్లయితే పారదర్శకతతో)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF యొక్క గరిష్ట వ్యవధి 60 సెకన్లు. దానిని మించి ఫైల్ చాలా పెద్దదిగా ఉంటుంది."
+   },
+   "screencast_modale_texte": {
+      "message": "మీరు ఈ వీడియోను వివిధ ఫార్మాట్‌లలో డౌన్‌లోడ్ చేయవచ్చు లేదా షేరింగ్ లింక్ పొందవచ్చు."
+   },
+   "screencast_modale_title": {
+      "message": "వీడియో క్యాప్చర్"
+   },
+   "screencast_modale_upload": {
+      "message": "షేరింగ్ లింక్ పొందండి"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "వీడియో నాణ్యత బిట్‌రేట్, fps & రికార్డింగ్ రిజల్యూషన్‌పై ప్రభావం చూపుతుంది. నాణ్యత ఎక్కువగా ఉంటే ఫైల్ పెద్దదిగా ఉంటుంది."
+   },
+   "screencast_start_recording": {
+      "message": "రికార్డింగ్ ప్రారంభించండి"
+   },
+   "screencast_tooltip_device": {
+      "message": "కేవలం పరికరం యొక్క వీడియోను క్యాప్చర్ చేయండి"
+   },
+   "screencast_tooltip_tab": {
+      "message": "పరికరంతో ట్యాబ్ యొక్క వీడియోను క్యాప్చర్ చేయండి"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "క్యాప్చర్ ఉత్పత్తి చేయండి"
+   },
+   "screenshot_editor_arrow": {
+      "message": "బాణం గీయండి"
+   },
+   "screenshot_editor_close": {
+      "message": "ఎడిటర్‌ను మూసివేయండి"
+   },
+   "screenshot_editor_color": {
+      "message": "గీత రంగు"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "వృత్తం గీయండి"
+   },
+   "screenshot_editor_line": {
+      "message": "గీత గీయండి"
+   },
+   "screenshot_editor_pen": {
+      "message": "స్వేచ్ఛా డ్రాయింగ్"
+   },
+   "screenshot_editor_rect": {
+      "message": "చతురస్రం గీయండి"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "గీత వెడల్పు"
+   },
+   "screenshot_editor_undo": {
+      "message": "చివరి చర్యను రద్దు చేయండి"
+   },
+   "screenshot_menu_1": {
+      "message": "పరికరంతో క్యాప్చర్ చేయండి"
+   },
+   "screenshot_menu_2": {
+      "message": "కేవలం సైట్ క్యాప్చర్"
+   },
+   "screenshot_menu_3": {
+      "message": "మొత్తం పేజీ క్యాప్చర్"
+   },
+   "screenshot_menu_4": {
+      "message": "మొత్తం ట్యాబ్ క్యాప్చర్"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "పేజీ ముగిసే ముందు ఆపండి"
+   },
+   "screenshot_modale_copy": {
+      "message": "చిత్రాన్ని క్లిప్‌బోర్డ్‌లో కాపీ చేయండి"
+   },
+   "screenshot_modale_download_png": {
+      "message": "PNG ఫార్మాట్‌లో డౌన్‌లోడ్ చేయండి (కంప్రెషన్ లేదు)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "WEBP ఫార్మాట్‌లో డౌన్‌లోడ్ చేయండి, దాదాపు ఎక్కడైనా అనుకూలంగా ఉంటుంది మరియు ఆప్టిమైజ్డ్ కంప్రెషన్ (సిఫార్సు చేయబడింది)"
+   },
+   "screenshot_modale_edit": {
+      "message": "క్యాప్చర్‌ను ఎడిట్ చేయండి"
+   },
+   "screenshot_modale_help": {
+      "message": "చిత్రాన్ని పెద్ద ఫార్మాట్‌లో సేవ్ చేయడానికి దానిపై రైట్ క్లిక్ చేసి \"చిత్రాన్ని కాపీ చేయండి\" లేదా \"సేవ్ చేయండి\" అని ఎంచుకోవాలి."
+   },
+   "screenshot_modale_title": {
+      "message": "స్క్రీన్‌షాట్"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "సందర్భం"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "కొన్ని సాంకేతిక పరిమితుల కారణంగా, స్క్రీన్‌షాట్ తీసేటప్పుడు మీరు ఈ లోపం సందేశాన్ని అందుకోవచ్చు."
+   },
+   "screenshot_workaround_solution": {
+      "message": "పరిష్కార మార్గం"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "ఈ సందర్భంలో క్యాప్చర్ ప్రారంభించడానికి, పేజీలో ఎక్కడైనా రైట్ క్లిక్ చేసి, \"మొబైల్ అనుకరణ\" ఎంట్రీని ఎంచుకుని, \"📷 స్క్రీన్‌షాట్ తీసుకోండి\" అని ఎంచుకోవాలి."
+   },
+   "screenshot_workaround_title": {
+      "message": "స్క్రీన్‌షాట్ కోసం పరిష్కార మార్గం"
+   },
+   "see_less": {
+      "message": "తక్కువ చూడండి"
+   },
+   "see_more": {
+      "message": "మరింత చూడండి"
+   },
+   "select": {
+      "message": "ఎంచుకోండి..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "PRO వెర్షన్‌ను అన్‌లాక్ చేయడానికి సైన్ అప్ చేయండి, లేదా మీకు ఇప్పటికే ఖాతా ఉంటే లాగిన్ అవ్వండి."
+   },
+   "settings_account_cta_title": {
+      "message": "మీ ఖాతాకు ప్రాప్తి పొందండి"
+   },
+   "settings_account_greeting": {
+      "message": "హలో $1,"
+   },
+   "settings_batterie_level": {
+      "message": "పరికరం హెడ్డర్‌లో బ్యాటరీ స్థాయి (%)"
+   },
+   "settings_camera": {
+      "message": "కెమెరా"
+   },
+   "settings_change_analytics": {
+      "message": "100% అనామక మరియు వ్యక్తిగతం కాని వినియోగ డేటాను పంచుకోవడం ద్వారా డెవలపర్‌కు విస్తరణను మెరుగుపరచడంలో సహాయపడండి."
+   },
+   "settings_change_background": {
+      "message": "బ్యాక్‌గ్రౌండ్ రంగును మార్చండి"
+   },
+   "settings_change_cursor": {
+      "message": "టచ్ స్క్రోల్ & మొబైల్ కర్సర్ ప్రదర్శన"
+   },
+   "settings_countdown": {
+      "message": "కౌంట్‌డౌన్ (సెకన్లు)"
+   },
+   "settings_default_device": {
+      "message": "ప్రతి సక్రియతకు డిఫాల్ట్ టెర్మినల్"
+   },
+   "settings_default_device_placeholder": {
+      "message": "ఒక పరికరాన్ని ఎంచుకోండి"
+   },
+   "settings_device_default_url": {
+      "message": "పరికరంలో చూపించబడే URLను మార్చండి"
+   },
+   "settings_device_forced_time": {
+      "message": "పరికరంలో చూపించిన సమయాన్ని బలవంతంగా అమర్చు"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "ప్రస్తుత సమయానికి తిరిగి వెళ్ళు"
+   },
+   "settings_device_hide": {
+      "message": "పరికరం ఫ్రేమ్‌ను చూపించు"
+   },
+   "settings_fullscreen": {
+      "message": "పరికరంలో పూర్తి స్క్రీన్‌లో సైట్"
+   },
+   "settings_h2_customization": {
+      "message": "అనుకూలీకరణ"
+   },
+   "settings_h2_device": {
+      "message": "పరికరం"
+   },
+   "settings_h2_display": {
+      "message": "సామాన్య ప్రదర్శన"
+   },
+   "settings_h2_global": {
+      "message": "సామాన్య"
+   },
+   "settings_h2_multiwindow": {
+      "message": "బహుళ విండో మోడ్"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "పరికరం బ్రౌజర్ ఇంటర్‌ఫేస్‌ను దాచండి (చిరునామా పట్టీ, మొదలైనవి)"
+   },
+   "settings_hide_keyboard": {
+      "message": "టైపింగ్ సమయంలో కీబోర్డ్ ప్రదర్శనను అనుకరించు"
+   },
+   "settings_login_button": {
+      "message": "లాగిన్ అవ్వండి"
+   },
+   "settings_microphone": {
+      "message": "మైక్రోఫోన్"
+   },
+   "settings_nav_account": {
+      "message": "ఖాతా"
+   },
+   "settings_nav_appearance": {
+      "message": "ప్రదర్శన"
+   },
+   "settings_nav_device": {
+      "message": "పరికరం"
+   },
+   "settings_os_display": {
+      "message": "OS ప్రదర్శన"
+   },
+   "settings_os_display_full_desc": {
+      "message": "OS స్థితి పట్టీ మరియు బ్రౌజర్ (చిరునామా పట్టీ)ని ప్రదర్శిస్తుంది."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "OS స్థితి పట్టీని ఉంచి బ్రౌజర్‌ను దాచుతుంది."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "OS స్థితి పట్టీ మరియు బ్రౌజర్‌ను దాచుతుంది."
+   },
+   "settings_presenter_mode": {
+      "message": "ప్రదర్శన మోడ్ (కుడి మెనూ కేవలం హోవర్‌పై కనిపిస్తుంది)"
+   },
+   "settings_pro_account": {
+      "message": "నా సబ్‌స్క్రిప్షన్‌ను నిర్వహించండి"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "మీ చందా ముగింపు తేదీ"
+   },
+   "settings_pro_account_past_due": {
+      "message": "మీ సభ్యత్వాన్ని పునరుద్ధరించడం విఫలమైంది. PRO వెర్షన్‌ను కొనసాగించడానికి మీ చెల్లింపు సమాచారాన్ని నవీకరించండి."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "నా చందాను మళ్లీ ప్రారంభించండి"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "PWAలను ఆటోమేటిక్‌గా గుర్తించి మొబైల్ యాప్‌గా ప్రదర్శించండి."
+   },
+   "settings_scrollbar_show": {
+      "message": "పరికరంలో స్థానిక స్క్రోల్‌బార్‌ను చూపించు"
+   },
+   "settings_shortcuts": {
+      "message": "కీబోర్డ్ షార్ట్‌కట్‌లను నిర్వచించండి"
+   },
+   "settings_signup_button": {
+      "message": "సైన్ అప్ చేయండి"
+   },
+   "settings_subscribe": {
+      "message": "PRO వెర్షన్‌ను అన్‌లాక్ చేయండి"
+   },
+   "settings_subscribe_button": {
+      "message": "చందా పొందండి"
+   },
+   "settings_sync_events": {
+      "message": "విండోస్ మధ్య ఈవెంట్‌లను సమకాలీకరించండి (క్లిక్, స్క్రోల్, మొదలైనవి)"
+   },
+   "settings_theme": {
+      "message": "థీమ్"
+   },
+   "settings_theme_auto": {
+      "message": "ఆటో"
+   },
+   "settings_theme_dark": {
+      "message": "చీకటి"
+   },
+   "settings_theme_light": {
+      "message": "కాంతి"
+   },
+   "settings_title": {
+      "message": "సెట్టింగ్‌లు"
+   },
+   "settings_transparent_background": {
+      "message": "పారదర్శక నేపథ్యం"
+   },
+   "settings_transparent_background_info": {
+      "message": "ఈ ఆప్షన్ మరింత లెక్కింపులను సూచిస్తుంది మరియు అందువల్ల మీ కంప్యూటర్ ఆధారంగా ప్రదర్శనలో మెల్లగా ఉండే అవకాశం ఉంది (కేవలం WEBM మరియు GIF ఫార్మాట్‌లతో అనుకూలంగా ఉంటుంది)"
+   },
+   "settings_video_quality": {
+      "message": "వీడియో నాణ్యత"
+   },
+   "settings_video_quality_high": {
+      "message": "అద్భుతం"
+   },
+   "settings_video_quality_low": {
+      "message": "మధ్యస్థ"
+   },
+   "settings_video_quality_medium": {
+      "message": "మంచిది"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "ఈ మొబైల్ అనుకరణ మీకు ఉపయోగకరంగా ఉందా?"
+   },
+   "sharing_h2": {
+      "message": "అయితే మీ సహచరులు లేదా స్నేహితులతో పంచుకోండి"
+   },
+   "sharing_review_1": {
+      "message": "మీకు ఒక నిమిషం ఉంటే"
+   },
+   "sharing_review_2": {
+      "message": "ఒక సమీక్షను జోడించండి"
+   },
+   "sharing_review_3": {
+      "message": "అయితే అది కేక్‌పై చెర్రీ! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "నేను సమీక్షను జోడిస్తున్నాను"
+   },
+   "sharing_txt": {
+      "message": "మొబైల్ & టాబ్లెట్‌పై మీ సైట్‌ను పరీక్షించడానికి అనుకరణ"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "ఇది కేవలం ఒక చిత్రం. మీ స్వంత కీబోర్డ్‌ను ఉపయోగించండి."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 తన పేజీలను మరొక పేజీ లోపల ప్రదర్శించడానికి అనుమతించదు: సైట్‌ను Firefox లో అనుకరించలేరు."
+   },
+   "simulator_header_info": {
+      "message": "ఇది కేవలం ఒక చిత్రం. URL మార్చడానికి పై Chrome ఫీల్డ్‌ను ఉపయోగించండి."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> టాబ్లెట్లు"
+   },
+   "try_it": {
+      "message": "ఇప్పుడు ప్రయత్నించండి"
+   },
+   "update_4_14_5_description": {
+      "message": "స్క్రీన్‌షాట్‌ల రిజల్యూషన్ మరియు నాణ్యతలో గణనీయమైన మెరుగుదల."
+   },
+   "update_4_14_5_title": {
+      "message": "ప్రముఖమైన స్క్రీన్‌షాట్‌లు"
+   },
+   "update_4_15_0_description": {
+      "message": "స్మార్ట్‌ఫోన్‌లు మరియు టాబ్లెట్‌లపై టచ్ స్క్రోల్‌ను ప్రారంభించండి."
+   },
+   "update_4_15_0_title": {
+      "message": "టచ్ స్క్రోల్"
+   },
+   "update_4_15_5_description": {
+      "message": "స్థానిక ఫైళ్లపై పూర్తి పేజీ స్క్రీన్‌షాట్‌లు మరియు iOS 26 (vh, dhv, lvh, svh)లో ప్రదర్శన యూనిట్ల సరిదిద్దులు."
+   },
+   "update_4_15_5_title": {
+      "message": "సరిదిద్దులు"
+   },
+   "update_4_16_0_description": {
+      "message": "మీరు ఇప్పుడు నిర్దిష్ట కొలతలతో మీ స్వంత పరికరాలను జోడించవచ్చు."
+   },
+   "update_4_16_0_title": {
+      "message": "అనుకూల పరికరాలు"
+   },
+   "update_4_17_0_description": {
+      "message": "అనేక పరికరాలను ఒకే సమయంలో పక్కపక్కన పోల్చండి. క్లిక్స్, స్క్రోల్స్ మరియు కీబోర్డ్ సమకాలీకరించబడతాయి."
+   },
+   "update_4_17_0_title": {
+      "message": "పరికరాల పోలిక"
+   },
+   "update_4_19_0_description": {
+      "message": "3 Google Pixel 10 మోడల్స్, Motorola Razr 70 Ultra, Infinix Hot 70 మరియు Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 కొత్త Android పరికరాలు"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max మరియు మడత iPhone Duo, మడత మరియు విప్పిన వెర్షన్లలో."
+   },
+   "update_4_21_0_title": {
+      "message": "4 కొత్త iPhones"
+   },
+   "update_tag_feature": {
+      "message": "ఫీచర్"
+   },
+   "update_tag_fix": {
+      "message": "సరిదిద్దు"
+   },
+   "update_tag_improvement": {
+      "message": "మెరుగుదల"
+   },
+   "update_tag_new": {
+      "message": "కొత్తది"
+   }
+}

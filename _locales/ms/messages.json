@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Telefon Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Telefon Apple"
+   },
+   "button_feedback": {
+      "message": "Tambah penilaian"
+   },
+   "button_message": {
+      "message": "Hantar mesej kepada kami"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Nama peranti"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, dll."
+   },
+   "contact_title": {
+      "message": "Peranti yang anda cari tidak ada dalam senarai? Beritahu kami!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktifkan pandangan mudah alih pada tab ini"
+   },
+   "copied": {
+      "message": "Disalin"
+   },
+   "custom_device_add": {
+      "message": "Tambah Peranti Tersuai"
+   },
+   "custom_device_dpr": {
+      "message": "Nisbah piksel peranti"
+   },
+   "custom_device_error_name": {
+      "message": "Nama peranti diperlukan."
+   },
+   "custom_device_error_os": {
+      "message": "Sistem pengendalian diperlukan."
+   },
+   "custom_device_error_ua": {
+      "message": "Ejen pengguna diperlukan."
+   },
+   "custom_device_error_viewport": {
+      "message": "Lebar dan tinggi viewport mesti antara 10 dan 4096."
+   },
+   "custom_device_height": {
+      "message": "Tinggi viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Kurang tetapan"
+   },
+   "custom_device_more": {
+      "message": "Lebih banyak tetapan"
+   },
+   "custom_device_name": {
+      "message": "Nama Peranti"
+   },
+   "custom_device_network": {
+      "message": "Rangkaian"
+   },
+   "custom_device_os_name": {
+      "message": "Sistem pengendalian"
+   },
+   "custom_device_os_version": {
+      "message": "Versi OS"
+   },
+   "custom_device_submit": {
+      "message": "Tambah"
+   },
+   "custom_device_title": {
+      "message": "Tambah Peranti Tersuai"
+   },
+   "custom_device_ua": {
+      "message": "Rantai ejen pengguna"
+   },
+   "custom_device_ua_custom": {
+      "message": "Ejen pengguna tersuai"
+   },
+   "custom_device_ua_preset": {
+      "message": "Ejen pengguna"
+   },
+   "custom_device_width": {
+      "message": "Lebar viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Visual peranti tidak dapat dimuat. Ini mungkin disebabkan oleh penyekat iklan atau dasar keselamatan syarikat anda. Simulator tetap boleh digunakan sepenuhnya, hanya mockup yang tidak dipaparkan."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Mockup peranti tidak tersedia"
+   },
+   "device_variant_folded": {
+      "message": "Dilipat"
+   },
+   "device_variant_unfolded": {
+      "message": "Dibuka"
+   },
+   "dimensions": {
+      "message": "Dimensi"
+   },
+   "error": {
+      "message": "Ralat"
+   },
+   "error_contact": {
+      "message": "{Sila hubungi kami} jika masalah berterusan."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Sambungan Chrome percuma untuk menguji dan pratonton laman web anda pada lebih daripada 80 peranti"
+   },
+   "extName": {
+      "message": "Simulasi telefon mudah alih - ujian tapak responsif"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Jangan jawab"
+   },
+   "feedback_company_type": {
+      "message": "Apakah jenis syarikat anda?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Perniagaan kecil (10-49 pekerja)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Bebas"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Perniagaan sangat besar / kumpulan (5000+ pekerja)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Perniagaan mikro (1-9 pekerja)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Perniagaan besar (250-4999 pekerja)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Perniagaan sederhana (50-249 pekerja)"
+   },
+   "feedback_error_required": {
+      "message": "Semua medan kosong 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Seberapa kerap anda menggunakan sambungan ini?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Kadang-kadang"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Beberapa kali seminggu"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Harian"
+   },
+   "feedback_frequency_rare": {
+      "message": "Jarang"
+   },
+   "feedback_improvements": {
+      "message": "Apakah penambahbaikan yang anda ingin lihat?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Idea, geseran, kekurangan..."
+   },
+   "feedback_profession": {
+      "message": "Apakah jabatan profesional anda?"
+   },
+   "feedback_profession_designer": {
+      "message": "Reka bentuk"
+   },
+   "feedback_profession_developer": {
+      "message": "Pembangunan"
+   },
+   "feedback_profession_marketing": {
+      "message": "Pemasaran"
+   },
+   "feedback_profession_other": {
+      "message": "Lain-lain"
+   },
+   "feedback_profession_product": {
+      "message": "Pengurusan produk"
+   },
+   "feedback_profession_qa": {
+      "message": "Ujian / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Jualan"
+   },
+   "feedback_submit": {
+      "message": "Hantar"
+   },
+   "feedback_submitted": {
+      "message": "Terima kasih banyak atas maklum balas anda 🤗"
+   },
+   "feedback_title": {
+      "message": "Bantu kami menjadikan Mobile FIRST lebih berguna untuk anda 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Uji tapak saya, buat demo pelanggan..."
+   },
+   "feedback_use_cases": {
+      "message": "Kenapa anda menggunakan Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Dapatkan versi PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Kemas kini terkini"
+   },
+   "link": {
+      "message": "Pautan"
+   },
+   "logout_modale_button": {
+      "message": "Log masuk"
+   },
+   "logout_modale_message": {
+      "message": "Peranti ini tidak lagi menjadi sebahagian daripada terminal yang dibenarkan. Jika anda telah memadamkan akses ini secara manual, sambungan baru diperlukan."
+   },
+   "logout_modale_message2": {
+      "message": "Untuk keselamatan, anda telah log keluar secara automatik dari akaun anda. Tetapi anda boleh log masuk semula dengan mengklik butang di bawah."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Anda ingin berkongsi langganan anda? Untuk membenarkan orang lain, tambahkan mereka sahaja dari bahagian \"Pengguna\" dalam akaun anda."
+   },
+   "logout_modale_title": {
+      "message": "Anda telah log keluar secara automatik pada peranti ini"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Peranti kelihatan dalam tab"
+   },
+   "menu_add_window": {
+      "message": "Tambah tetingkap"
+   },
+   "menu_change_device": {
+      "message": "Tukar peranti atau bandingkan"
+   },
+   "menu_close_alone": {
+      "message": "Nyahaktifkan simulasi"
+   },
+   "menu_close_window": {
+      "message": "Tutup tetingkap ini"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Peranti yang anda cari tidak ada dalam senarai? Beritahu kami!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Peranti Tersuai Saya"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Tambah peranti tersuai anda sendiri!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Nyahaktifkan mod perbandingan"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Aktifkan mod perbandingan"
+   },
+   "menu_extensions": {
+      "message": "Temui sambungan Chrome kami yang lain"
+   },
+   "menu_faq_all": {
+      "message": "Lihat semua soalan lazim"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Bagaimana untuk mengaktifkan simulasi dalam mod penyamaran?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Media queries saya tidak diambil kira"
+   },
+   "menu_faq_scroll": {
+      "message": "Tidak boleh menatal dalam simulasi"
+   },
+   "menu_faq_shortcut": {
+      "message": "Bagaimana untuk menetapkan pintasan papan kekunci?"
+   },
+   "menu_faq_subscription": {
+      "message": "Kenapa langganan saya tidak berfungsi?"
+   },
+   "menu_faq_title": {
+      "message": "Soalan lazim"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Kegemaran"
+   },
+   "menu_info_device": {
+      "message": "Ciri dan mockup peranti ini"
+   },
+   "menu_info_device_features": {
+      "message": "Ciri (resolusi viewport, dll.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Mockup percuma dalam PNG telus"
+   },
+   "menu_report": {
+      "message": "Laporkan pepijat"
+   },
+   "menu_rotate": {
+      "message": "Tukar orientasi"
+   },
+   "menu_screencast": {
+      "message": "📹 Rakam video skrin"
+   },
+   "menu_screenshot": {
+      "message": "📷 Ambil tangkapan skrin"
+   },
+   "menu_send_improvement": {
+      "message": "Cadangkan penambahbaikan"
+   },
+   "menu_send_message": {
+      "message": "Pusat bantuan"
+   },
+   "menu_settings": {
+      "message": "Konfigurasi"
+   },
+   "menu_share": {
+      "message": "Kongsi kepada rakan sekerja, rakan,..."
+   },
+   "menu_vote_feature": {
+      "message": "Undi untuk ciri yang anda inginkan"
+   },
+   "menu_zoom": {
+      "message": "Zum dalam peranti"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Lebih banyak tetapan"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Temui sekarang ciri perbandingan peranti berganda yang baharu!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Bandingkan paparan serentak beberapa peranti dalam tetingkap yang sama. Tatal, klik, papan kekunci diselaraskan."
+   },
+   "new_video_feature_h1": {
+      "message": "Temui sekarang ciri rakaman video baru!"
+   },
+   "new_video_feature_h2": {
+      "message": "Rakam dengan kualiti lebih baik, dengan pilihan baru dan dengan latar belakang telus"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.14.5\u003C/strong>Peningkatan ketara dalam \u003Cstrong>resolusi dan kualiti\u003C/strong> tangkapan skrin \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.15.0\u003C/strong>Pengaktifan \u003Cstrong>tatalan sentuh\u003C/strong> untuk telefon pintar dan tablet \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.15.0\u003C/strong>Pengaktifan \u003Cstrong>skrol sentuh\u003C/strong> untuk telefon pintar dan tablet."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.15.5\u003C/strong>\u003Cul>\u003Cli>Pembetulan untuk tangkapan skrin halaman penuh pada \u003Cstrong>fail tempatan\u003C/strong>.\u003C/li>\u003Cli>Pembetulan untuk unit vh, dhv, lvh, svh pada \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.16.0\u003C/strong>Penambahan keupayaan untuk mencipta peranti tersuai \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Kemas kini v4.17.0\u003C/strong>Penambahan ciri perbandingan berbilang peranti serentak! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Selamat datang ke Mobile FIRST 👋\u003C/strong>Simulasikan dengan satu klik telefon, tablet dan komputer untuk menguji dan melihat tapak anda dengan mudah.\u003Cbr>\u003Cbr>\u003Cstrong>Menu berada di sebelah kanan ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Pilihan"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Pasang"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Sambungan ini membolehkan anda menangkap sebarang warna pada skrin."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Pemilih warna"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Kenal pasti dengan satu klik font yang digunakan pada mana-mana teks halaman web."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Pencari font"
+   },
+   "other_extensions_h1": {
+      "message": "Temui sambungan percuma terbaru kami"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Istimewa"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktifkan pilihan"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Simulasi ini tidak boleh diaktifkan secara lalai pada fail tempatan (file:///) tetapi anda boleh mengaktifkan pilihan ini secara manual dalam tetapan Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulasi tidak boleh diaktifkan pada halaman asli pelayar anda ini. Cuba pada tab lain atau layari tapak dan cuba lagi."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Semua tetapan video"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Perbandingan berbilang peranti"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Dibilkan setiap tahun"
+   },
+   "pro_modale_button": {
+      "message": "Saya melanggan"
+   },
+   "pro_modale_from": {
+      "message": "Dari"
+   },
+   "pro_modale_h1": {
+      "message": "Jadi PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Buang iklan"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Tukar tangkapan video anda kepada format GIF dan MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulasikan semua peranti"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Edit tangkapan anda"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Bandingkan lebih daripada dua peranti serentak"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Buka kunci semua tetapan rakaman video"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Buka kunci semua tetapan"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Ambil tangkapan skrin tanpa had"
+   },
+   "pro_modale_h2": {
+      "message": "Jadi PRO dan sumbang secara aktif kepada pembangunan sambungan ini dengan menyokong pembangunnya."
+   },
+   "pro_modale_link_1": {
+      "message": "Atau"
+   },
+   "pro_modale_link_2": {
+      "message": "saya log masuk"
+   },
+   "pro_modale_link_3": {
+      "message": "ke akaun langganan saya"
+   },
+   "pro_modale_recurring_month": {
+      "message": "bulan"
+   },
+   "pro_modale_savings": {
+      "message": "Jimat"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Tahunan"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Bulanan"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "selepas 7 hari percubaan percuma anda"
+   },
+   "pro_modale_trial_button": {
+      "message": "Mulakan percubaan percuma 7 hari saya"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Cuba versi PRO secara percuma selama 7 hari"
+   },
+   "pro_modale_trial_note": {
+      "message": "Tiada bayaran hari ini · Tiada komitmen, boleh dibatalkan pada bila-bila masa"
+   },
+   "pro_modale_trial_then": {
+      "message": "kemudian"
+   },
+   "pro_modale_trial_today": {
+      "message": "hari ini"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Bagaimana anda menilai sambungan ini?"
+   },
+   "review_note_feedback": {
+      "message": "Terima kasih atas maklum balas anda, jangan ragu untuk menghantar mesej kepada kami supaya kami dapat memperbaiki sambungan ini."
+   },
+   "review_note_store": {
+      "message": "Terima kasih atas maklum balas anda, jangan ragu untuk menambah ulasan di halaman sambungan. Saya akan sangat menghargainya 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Kebenaran akses kamera ditolak."
+   },
+   "screencast_error": {
+      "message": "Ralat berlaku semasa rakaman. {Klik di sini} untuk penyelesaian alternatif."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Versi Chrome anda terlalu lama untuk ciri ini. Sila kemas kini Chrome kepada versi lebih tinggi daripada 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Sila kongsi tetingkap semasa (dan bukan keseluruhan skrin) supaya rakaman dibingkai dengan betul."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Kebenaran akses mikrofon ditolak."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Rakaman video dihadkan kepada 5 minit dalam versi percuma."
+   },
+   "screencast_modale_contact": {
+      "message": "Laporkan pepijat, cadangkan penambahbaikan"
+   },
+   "screencast_modale_copy": {
+      "message": "Salin"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Serasi di mana-mana, tetapi kualiti lebih rendah (dengan ketelusan jika pilihan diaktifkan)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Keserasian terbaik dengan PowerPoint, tetapi tiada ketelusan"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Muat turun dalam format lalai WEBM (dengan ketelusan jika pilihan diaktifkan)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Tempoh maksimum GIF ialah 60 saat. Lebih dari itu, fail akan menjadi terlalu besar."
+   },
+   "screencast_modale_texte": {
+      "message": "Anda boleh memuat turun video ini dalam pelbagai format atau mendapatkan pautan perkongsian."
+   },
+   "screencast_modale_title": {
+      "message": "Rakaman video"
+   },
+   "screencast_modale_upload": {
+      "message": "Dapatkan pautan perkongsian"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Kualiti video mempengaruhi bitrate, fps & resolusi rakaman. Lebih tinggi kualiti lebih besar fail."
+   },
+   "screencast_start_recording": {
+      "message": "Mulakan rakaman"
+   },
+   "screencast_tooltip_device": {
+      "message": "Tangkap video peranti sahaja"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Tangkap video tab dengan peranti"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Hasilkan tangkapan"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Lukis anak panah"
+   },
+   "screenshot_editor_close": {
+      "message": "Tutup editor"
+   },
+   "screenshot_editor_color": {
+      "message": "Warna garisan"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Lukis bulatan"
+   },
+   "screenshot_editor_line": {
+      "message": "Lukis garisan"
+   },
+   "screenshot_editor_pen": {
+      "message": "Lukisan bebas"
+   },
+   "screenshot_editor_rect": {
+      "message": "Lukis segi empat tepat"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Ketebalan garisan"
+   },
+   "screenshot_editor_undo": {
+      "message": "Batalkan tindakan terakhir"
+   },
+   "screenshot_menu_1": {
+      "message": "Tangkap dengan peranti"
+   },
+   "screenshot_menu_2": {
+      "message": "Tangkapan tapak sahaja"
+   },
+   "screenshot_menu_3": {
+      "message": "Tangkapan seluruh halaman"
+   },
+   "screenshot_menu_4": {
+      "message": "Tangkapan seluruh tab"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Berhenti sebelum akhir halaman"
+   },
+   "screenshot_modale_copy": {
+      "message": "Salin imej ke papan klip"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Muat turun dalam format PNG (tiada pemampatan)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Muat turun dalam format WEBP, serasi hampir di mana-mana dan pemampatan dioptimumkan (disyorkan)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Edit tangkapan"
+   },
+   "screenshot_modale_help": {
+      "message": "Untuk menyimpan imej dalam format besar, cukup klik kanan padanya kemudian \"Salin imej\" atau \"Simpan\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Tangkap layar"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Konteks"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Disebabkan oleh beberapa batasan teknikal, mungkin semasa tangkapan skrin, anda menerima mesej ralat ini."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Penyelesaian alternatif"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Dalam kes ini untuk memulakan tangkapan, cukup klik kanan di mana-mana pada halaman, pilih entri \"Simulasi mudah alih\", kemudian \"📷 Ambil tangkapan skrin\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Penyelesaian alternatif untuk tangkapan skrin"
+   },
+   "see_less": {
+      "message": "Lihat kurang"
+   },
+   "see_more": {
+      "message": "Lihat lagi"
+   },
+   "select": {
+      "message": "Pilih..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Daftar untuk membuka kunci versi PRO, atau log masuk jika anda sudah mempunyai akaun."
+   },
+   "settings_account_cta_title": {
+      "message": "Akses akaun anda"
+   },
+   "settings_account_greeting": {
+      "message": "Halo $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Tahap bateri dalam header peranti (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Bantu pembangun meningkatkan sambungan dengan berkongsi data penggunaan yang 100% tanpa nama dan bukan peribadi."
+   },
+   "settings_change_background": {
+      "message": "Tukar warna latar belakang"
+   },
+   "settings_change_cursor": {
+      "message": "Tatal skrol & paparan kursor mudah alih"
+   },
+   "settings_countdown": {
+      "message": "Kira detik (saat)"
+   },
+   "settings_default_device": {
+      "message": "Terminal lalai pada setiap pengaktifan"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Pilih peranti"
+   },
+   "settings_device_default_url": {
+      "message": "Ubah URL yang dipaparkan dalam peranti"
+   },
+   "settings_device_forced_time": {
+      "message": "Paksa masa yang dipaparkan dalam peranti"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Kembali ke masa semasa"
+   },
+   "settings_device_hide": {
+      "message": "Tunjukkan bingkai peranti"
+   },
+   "settings_fullscreen": {
+      "message": "Laman penuh skrin dalam peranti"
+   },
+   "settings_h2_customization": {
+      "message": "Penyesuaian"
+   },
+   "settings_h2_device": {
+      "message": "Peranti"
+   },
+   "settings_h2_display": {
+      "message": "Paparan global"
+   },
+   "settings_h2_global": {
+      "message": "Umum"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Mod multi-tetingkap"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Sembunyikan antara muka penyemak imbas peranti (bar alamat, dll.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simulasikan kemunculan papan kekunci semasa menaip"
+   },
+   "settings_login_button": {
+      "message": "Log masuk"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_nav_account": {
+      "message": "Akaun"
+   },
+   "settings_nav_appearance": {
+      "message": "Penampilan"
+   },
+   "settings_nav_device": {
+      "message": "Peranti"
+   },
+   "settings_os_display": {
+      "message": "Paparan OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Paparkan bar status OS dan pelayar (bar alamat)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Sembunyikan pelayar tetapi kekalkan bar status OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Sembunyikan bar status OS dan pelayar."
+   },
+   "settings_presenter_mode": {
+      "message": "Mod pembentangan (menu kanan hanya kelihatan apabila dihover)"
+   },
+   "settings_pro_account": {
+      "message": "Urus langganan saya"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Langganan anda akan berakhir pada"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Pembaharuan langganan anda gagal. Sila kemas kini maklumat pembayaran anda untuk mengekalkan versi PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Aktifkan semula langganan saya"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Kesan dan paparkan PWA secara automatik sebagai aplikasi mudah alih."
+   },
+   "settings_scrollbar_show": {
+      "message": "Tunjukkan bar skrol asli dalam peranti"
+   },
+   "settings_shortcuts": {
+      "message": "Tetapkan pintasan papan kekunci"
+   },
+   "settings_signup_button": {
+      "message": "Daftar"
+   },
+   "settings_subscribe": {
+      "message": "Buka kunci versi PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Langgan"
+   },
+   "settings_sync_events": {
+      "message": "Menyegerakkan acara antara tetingkap (klik, tatal, dll.)"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Auto"
+   },
+   "settings_theme_dark": {
+      "message": "Gelap"
+   },
+   "settings_theme_light": {
+      "message": "Cerah"
+   },
+   "settings_title": {
+      "message": "Tetapan"
+   },
+   "settings_transparent_background": {
+      "message": "Latar belakang telus"
+   },
+   "settings_transparent_background_info": {
+      "message": "Pilihan ini melibatkan lebih banyak pengiraan dan oleh itu potensi perlambatan paparan bergantung pada komputer anda (hanya serasi dengan format WEBM dan GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Kualiti video"
+   },
+   "settings_video_quality_high": {
+      "message": "Cemerlang"
+   },
+   "settings_video_quality_low": {
+      "message": "Sederhana"
+   },
+   "settings_video_quality_medium": {
+      "message": "Baik"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Adakah simulasi mudah alih ini berguna untuk anda?"
+   },
+   "sharing_h2": {
+      "message": "Jadi kongsi dengan rakan sekerja atau rakan anda"
+   },
+   "sharing_review_1": {
+      "message": "Dan jika anda mempunyai satu minit untuk"
+   },
+   "sharing_review_2": {
+      "message": "menambah ulasan"
+   },
+   "sharing_review_3": {
+      "message": "maka itu adalah ceri di atas kek! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Saya tambah ulasan"
+   },
+   "sharing_txt": {
+      "message": "Simulasi untuk menguji tapak anda pada mudah alih & tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Ini hanyalah imej. Gunakan papan kekunci anda sendiri."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 tidak membenarkan paparan halamannya di dalam halaman lain: laman web tidak dapat disimulasikan pada Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Ini hanyalah imej. Untuk menukar URL gunakan medan Chrome di atas."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablet"
+   },
+   "try_it": {
+      "message": "Cuba sekarang"
+   },
+   "update_4_14_5_description": {
+      "message": "Peningkatan ketara dalam resolusi dan kualiti tangkapan skrin."
+   },
+   "update_4_14_5_title": {
+      "message": "Tangkap lebih jelas"
+   },
+   "update_4_15_0_description": {
+      "message": "Pengaktifan tatal sentuh pada telefon pintar dan tablet."
+   },
+   "update_4_15_0_title": {
+      "message": "Tatal sentuh"
+   },
+   "update_4_15_5_description": {
+      "message": "Tangkap halaman penuh pada fail tempatan dan pembetulan unit paparan pada iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Pembetulan"
+   },
+   "update_4_16_0_description": {
+      "message": "Anda kini boleh menambah peranti anda sendiri dengan dimensi khusus."
+   },
+   "update_4_16_0_title": {
+      "message": "Peranti tersuai"
+   },
+   "update_4_17_0_description": {
+      "message": "Bandingkan beberapa peranti secara serentak. Klik, tatal dan papan kekunci diselaraskan."
+   },
+   "update_4_17_0_title": {
+      "message": "Perbandingan peranti"
+   },
+   "update_4_19_0_description": {
+      "message": "3 model Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 dan Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 peranti Android baharu"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max dan iPhone Duo boleh lipat, dalam versi dilipat dan tidak dilipat."
+   },
+   "update_4_21_0_title": {
+      "message": "4 iPhone baharu"
+   },
+   "update_tag_feature": {
+      "message": "CIRI"
+   },
+   "update_tag_fix": {
+      "message": "PEMBAIKAN"
+   },
+   "update_tag_improvement": {
+      "message": "PENAMBAHBAIKAN"
+   },
+   "update_tag_new": {
+      "message": "BARU"
+   }
+}

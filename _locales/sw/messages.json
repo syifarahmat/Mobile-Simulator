@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Simu za Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Simu za Apple"
+   },
+   "button_feedback": {
+      "message": "Ongeza alama"
+   },
+   "button_message": {
+      "message": "Tutumie ujumbe"
+   },
+   "close": {
+      "message": "Funga"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Jina la kifaa"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, nk."
+   },
+   "contact_title": {
+      "message": "Kifaa unachotafuta hakipo kwenye orodha? Tuambie!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Washa mtazamo wa simu kwenye kichupo hiki"
+   },
+   "copied": {
+      "message": "Imenakiliwa"
+   },
+   "custom_device_add": {
+      "message": "Ongeza kifaa maalum"
+   },
+   "custom_device_dpr": {
+      "message": "Uwiano wa pikseli za kifaa"
+   },
+   "custom_device_error_name": {
+      "message": "Jina la kifaa linahitajika."
+   },
+   "custom_device_error_os": {
+      "message": "Mfumo wa uendeshaji unahitajika."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent inahitajika."
+   },
+   "custom_device_error_viewport": {
+      "message": "Upana na urefu wa viewport lazima uwe kati ya 10 na 4096."
+   },
+   "custom_device_height": {
+      "message": "Urefu wa viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Mipangilio kidogo"
+   },
+   "custom_device_more": {
+      "message": "Mipangilio zaidi"
+   },
+   "custom_device_name": {
+      "message": "Jina la kifaa"
+   },
+   "custom_device_network": {
+      "message": "Mtandao"
+   },
+   "custom_device_os_name": {
+      "message": "Mfumo wa uendeshaji"
+   },
+   "custom_device_os_version": {
+      "message": "Toleo la OS"
+   },
+   "custom_device_submit": {
+      "message": "Ongeza"
+   },
+   "custom_device_title": {
+      "message": "Ongeza kifaa maalum"
+   },
+   "custom_device_ua": {
+      "message": "Mstari wa user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "User agent maalum"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Upana wa viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Picha ya kifaa haikuweza kupakiwa. Hii inaweza kutokana na kizuizi cha matangazo au sera ya usalama ya kampuni yako. Kisimulizi bado kinaweza kutumika kikamilifu, ni mockup tu ambayo haijaonyeshwa."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Mockup ya kifaa haipatikani"
+   },
+   "device_variant_folded": {
+      "message": "Imefungwa"
+   },
+   "device_variant_unfolded": {
+      "message": "Imegawanyika"
+   },
+   "dimensions": {
+      "message": "Vipimo"
+   },
+   "error": {
+      "message": "Hitilafu"
+   },
+   "error_contact": {
+      "message": "{Tafadhali wasiliana nasi} ikiwa tatizo litaendelea."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Kiendelezi cha Chrome cha bure cha kujaribu na kutazama tovuti zako kwenye vifaa zaidi ya 80"
+   },
+   "extName": {
+      "message": "Simulatore ya Simu ya Mkononi - jaribu tovuti inayojibadilisha"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Usijibu"
+   },
+   "feedback_company_type": {
+      "message": "Aina yako ya kampuni ni ipi?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Biashara ndogo (10-49 wafanyakazi)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Huru"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Biashara kubwa sana / kundi (5000+ wafanyakazi)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Biashara ndogo (1-9 wafanyakazi)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Biashara kubwa (250-4999 wafanyakazi)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Biashara ya kati (50-249 wafanyakazi)"
+   },
+   "feedback_error_required": {
+      "message": "Sehemu zote ziko wazi 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Unatumia kiendelezi hiki mara ngapi?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Mara kwa mara"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Mara kadhaa kwa wiki"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Kila siku"
+   },
+   "feedback_frequency_rare": {
+      "message": "Nadrare"
+   },
+   "feedback_improvements": {
+      "message": "Ni maboresho gani ungependa kuona?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Wazo, msuguano, upungufu..."
+   },
+   "feedback_profession": {
+      "message": "Idara yako ya kitaaluma ni ipi?"
+   },
+   "feedback_profession_designer": {
+      "message": "Ubunifu"
+   },
+   "feedback_profession_developer": {
+      "message": "Maendeleo"
+   },
+   "feedback_profession_marketing": {
+      "message": "Masoko"
+   },
+   "feedback_profession_other": {
+      "message": "Nyingine"
+   },
+   "feedback_profession_product": {
+      "message": "Usimamizi wa bidhaa"
+   },
+   "feedback_profession_qa": {
+      "message": "Jaribio / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Mauzo"
+   },
+   "feedback_submit": {
+      "message": "Tuma"
+   },
+   "feedback_submitted": {
+      "message": "Asante sana kwa maoni yako 🤗"
+   },
+   "feedback_title": {
+      "message": "Tusaidie kufanya Mobile FIRST kuwa na manufaa zaidi kwako 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Jaribu tovuti yangu, fanya maonyesho ya wateja..."
+   },
+   "feedback_use_cases": {
+      "message": "Kwa nini unatumia Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Pata toleo la PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Sasisho za Hivi Karibuni"
+   },
+   "link": {
+      "message": "Kiungo"
+   },
+   "logout_modale_button": {
+      "message": "Ingia"
+   },
+   "logout_modale_message": {
+      "message": "Kifaa hiki si sehemu ya vifaa vyako vilivyoidhinishwa tena. Ikiwa umeondoa ufikiaji huu mwenyewe, unahitaji kuingia tena."
+   },
+   "logout_modale_message2": {
+      "message": "Kwa sababu za usalama, umeondolewa kiotomatiki kutoka kwenye akaunti yako. Lakini unaweza kuingia tena kwa kubofya kitufe hapa chini."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Unataka kushiriki usajili wako? Ili kuruhusu watu wengine, waongeze tu kutoka sehemu ya \"Watumiaji\" ya akaunti yako."
+   },
+   "logout_modale_title": {
+      "message": "Umetolewa kiotomatiki kwenye kifaa hiki"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Vifaa vinavyoonekana kwenye kichupo"
+   },
+   "menu_add_window": {
+      "message": "Ongeza dirisha"
+   },
+   "menu_change_device": {
+      "message": "Badilisha kifaa au linganisha"
+   },
+   "menu_close_alone": {
+      "message": "Zima simulatore"
+   },
+   "menu_close_window": {
+      "message": "Funga dirisha hili"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Kifaa unachotafuta hakipo kwenye orodha? Tuambie!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Vifaa Vyangu Maalum"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Ongeza vifaa vyako maalum!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Zima hali ya kulinganisha"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Washa hali ya kulinganisha"
+   },
+   "menu_extensions": {
+      "message": "Gundua viendelezi vingine vya Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Tazama maswali yote yanayoulizwa mara kwa mara"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Jinsi ya kuwasha simulatore katika kuvinjari kwa faragha?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Maswali yangu ya media hayazingatiwi"
+   },
+   "menu_faq_scroll": {
+      "message": "Haiwezekani kusogeza katika simulatore"
+   },
+   "menu_faq_shortcut": {
+      "message": "Jinsi ya kuweka njia za mkato za kibodi?"
+   },
+   "menu_faq_subscription": {
+      "message": "Kwa nini usajili wangu haufanyi kazi?"
+   },
+   "menu_faq_title": {
+      "message": "Maswali yanayoulizwa mara kwa mara"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Vipendwa"
+   },
+   "menu_info_device": {
+      "message": "Vipengele na mockup ya kifaa hiki"
+   },
+   "menu_info_device_features": {
+      "message": "Vipengele (azimio la viewport, nk.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Mockup ya bure katika PNG yenye uwazi"
+   },
+   "menu_report": {
+      "message": "Ripoti hitilafu"
+   },
+   "menu_rotate": {
+      "message": "Badilisha mwelekeo"
+   },
+   "menu_screencast": {
+      "message": "📹 Rekodi video ya skrini"
+   },
+   "menu_screenshot": {
+      "message": "📷 Piga picha ya skrini"
+   },
+   "menu_send_improvement": {
+      "message": "Pendekeza uboreshaji"
+   },
+   "menu_send_message": {
+      "message": "Kituo cha msaada"
+   },
+   "menu_settings": {
+      "message": "Usanidi"
+   },
+   "menu_share": {
+      "message": "Shiriki na mwenzako, rafiki,..."
+   },
+   "menu_vote_feature": {
+      "message": "Piga kura kwa vipengele unavyotaka"
+   },
+   "menu_zoom": {
+      "message": "Kuza ndani ya kifaa"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Mipangilio zaidi"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Gundua sasa kipengele kipya cha kulinganisha vifaa vingi!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Linganisha maonyesho ya vifaa vingi kwa wakati mmoja katika dirisha moja. Skrini, mibofyo, kibodi vimesawazishwa."
+   },
+   "new_video_feature_h1": {
+      "message": "Gundua sasa kipengele kipya cha kurekodi video!"
+   },
+   "new_video_feature_h2": {
+      "message": "Rekodi kwa ubora bora, na chaguo mpya na mandharinyuma yenye uwazi"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.14.5\u003C/strong>Kuongezeka kwa kiasi kikubwa kwa \u003Cstrong>azimio na ubora\u003C/strong> wa picha za skrini \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.15.0\u003C/strong>Uwezeshaji wa \u003Cstrong>touch scroll\u003C/strong> kwa simu za mkononi na vidonge \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.15.0\u003C/strong>Uwezeshaji wa \u003Cstrong>touch scroll\u003C/strong> kwa simu za mkononi na vidonge."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.15.5\u003C/strong>\u003Cul>\u003Cli>Marekebisho kuhusu picha za skrini za ukurasa mzima kwenye \u003Cstrong>faili za ndani\u003C/strong>.\u003C/li>\u003Cli>Marekebisho kuhusu vitengo vya vh, dhv, lvh, svh kwenye \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.16.0\u003C/strong>Imeongezwa uwezo wa kuunda vifaa maalum \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Sasisho v4.17.0\u003C/strong>Imeongezwa kipengele cha kulinganisha vifaa vingi kwa wakati mmoja! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Karibu kwenye Mobile FIRST 👋\u003C/strong>Simulizi kwa kubofya simu, vidonge na kompyuta ili kujaribu na kuona kwa urahisi tovuti zako.\u003Cbr>\u003Cbr>\u003Cstrong>Menyu iko upande wa kulia ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Hiari"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Sakinisha"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Kiendelezi hiki kinakuruhusu kunasa rangi yoyote kwenye skrini."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Kichagua rangi"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Tambua kwa kubofya fonti inayotumika kwenye maandishi yoyote ya ukurasa wa wavuti."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Kipata fonti"
+   },
+   "other_extensions_h1": {
+      "message": "Gundua viendelezi vyetu vipya vya bure"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Maalum"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Washa chaguo"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Simulatore hii haiwezi kuwashwa kwa chaguo-msingi kwenye faili za ndani (file:///) lakini unaweza kuwasha chaguo hilo kwa mikono kwenye mipangilio ya Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulatore haiwezi kuwashwa kwenye ukurasa huu wa asili wa kivinjari chako. Jaribu kwenye kichupo kingine au tembelea tovuti kisha uanzishe tena."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Mipangilio yote ya video"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Ulinganisho wa vifaa vingi"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Inatozwa kila mwaka"
+   },
+   "pro_modale_button": {
+      "message": "Najiandikisha"
+   },
+   "pro_modale_from": {
+      "message": "Kuanzia"
+   },
+   "pro_modale_h1": {
+      "message": "Kuwa PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Ondoa matangazo"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Badilisha picha zako za video kuwa GIF na MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulizi vifaa vyote"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Hariri picha zako"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Linganisheni vifaa zaidi ya viwili kwa wakati mmoja"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Fungua mipangilio yote ya kurekodi video"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Fungua mipangilio yote"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Piga picha za skrini bila kikomo"
+   },
+   "pro_modale_h2": {
+      "message": "Kuwa PRO na changia kikamilifu katika maendeleo ya kiendelezi hiki kwa kumsaidia msanidi wake."
+   },
+   "pro_modale_link_1": {
+      "message": "Au"
+   },
+   "pro_modale_link_2": {
+      "message": "naingia"
+   },
+   "pro_modale_link_3": {
+      "message": "katika akaunti yangu ya usajili"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mwezi"
+   },
+   "pro_modale_savings": {
+      "message": "Okoa"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Mwaka"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Mwezi"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "baada ya siku zako 7 za majaribio ya bure"
+   },
+   "pro_modale_trial_button": {
+      "message": "Anza majaribio yangu ya bure ya siku 7"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Jaribu toleo la PRO bure kwa siku 7"
+   },
+   "pro_modale_trial_note": {
+      "message": "Hakuna cha kulipa leo · Bila kujitolea, inaweza kufutwa wakati wowote"
+   },
+   "pro_modale_trial_then": {
+      "message": "kisha"
+   },
+   "pro_modale_trial_today": {
+      "message": "leo"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Ungeipaje alama kiendelezi hiki?"
+   },
+   "review_note_feedback": {
+      "message": "Asante kwa maoni yako, usisite kututumia ujumbe ili tuweze kuboresha kiendelezi hiki."
+   },
+   "review_note_store": {
+      "message": "Asante kwa maoni yako, usisite kuongeza alama kwenye ukurasa wa kiendelezi. Nitashukuru sana 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Ruhusa ya kufikia kamera imekataliwa."
+   },
+   "screencast_error": {
+      "message": "Hitilafu ilitokea wakati wa kurekodi. {Bonyeza hapa} kwa suluhisho la muda."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Toleo lako la Chrome ni la zamani sana kwa kipengele hiki. Tafadhali sasisha Chrome ili kuboresha hadi toleo zaidi ya 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Tafadhali shiriki dirisha la sasa (na si skrini nzima) ili kurekodi kuwe na muafaka sahihi."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Ruhusa ya kufikia kipaza sauti imekataliwa."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Rekodi za video zimepunguzwa hadi dakika 5 katika toleo la bure."
+   },
+   "screencast_modale_contact": {
+      "message": "Ripoti hitilafu, pendekeza uboreshaji"
+   },
+   "screencast_modale_copy": {
+      "message": "Nakili"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Inalingana kila mahali, lakini ubora wa chini (na uwazi ikiwa chaguo limewashwa)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Ulinganifu bora na PowerPoint, lakini hakuna uwazi"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Pakua katika fomati ya chaguo-msingi WEBM (na uwazi ikiwa chaguo limewashwa)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Muda wa juu wa GIF ni sekunde 60. Zaidi ya hapo faili itakuwa kubwa sana."
+   },
+   "screencast_modale_texte": {
+      "message": "Unaweza kupakua video hii katika fomati tofauti au kupata kiungo cha kushiriki."
+   },
+   "screencast_modale_title": {
+      "message": "Rekodi video"
+   },
+   "screencast_modale_upload": {
+      "message": "Pata kiungo cha kushiriki"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Ubora wa video huathiri bitrate, fps & azimio la kurekodi. Kadri ubora unavyokuwa juu zaidi, faili itakuwa kubwa zaidi."
+   },
+   "screencast_start_recording": {
+      "message": "Anza kurekodi"
+   },
+   "screencast_tooltip_device": {
+      "message": "Rekodi video ya kifaa pekee"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Rekodi video ya kichupo na kifaa"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Tengeneza picha"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Chora mshale"
+   },
+   "screenshot_editor_close": {
+      "message": "Funga mhariri"
+   },
+   "screenshot_editor_color": {
+      "message": "Rangi ya mstari"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Chora duara"
+   },
+   "screenshot_editor_line": {
+      "message": "Chora mstari"
+   },
+   "screenshot_editor_pen": {
+      "message": "Mchoro huru"
+   },
+   "screenshot_editor_rect": {
+      "message": "Chora mstatili"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Unene wa mstari"
+   },
+   "screenshot_editor_undo": {
+      "message": "Ghairi hatua ya mwisho"
+   },
+   "screenshot_menu_1": {
+      "message": "Piga picha na kifaa"
+   },
+   "screenshot_menu_2": {
+      "message": "Picha ya tovuti pekee"
+   },
+   "screenshot_menu_3": {
+      "message": "Picha ya ukurasa mzima"
+   },
+   "screenshot_menu_4": {
+      "message": "Picha ya kichupo kizima"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Acha kabla ya mwisho wa ukurasa"
+   },
+   "screenshot_modale_copy": {
+      "message": "Nakili picha kwenye ubao wa kunakili"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Pakua katika fomati ya PNG (hakuna compression)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Pakua katika fomati ya WEBP, inalingana karibu kila mahali na compression iliyoboreshwa (inapendekezwa)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Hariri picha"
+   },
+   "screenshot_modale_help": {
+      "message": "Ili kuhifadhi picha katika fomati kubwa, bonyeza kulia juu yake kisha \"Nakili picha\" au \"Hifadhi\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Picha ya skrini"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Muktadha"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Kwa sababu ya baadhi ya vikwazo vya kiufundi, inawezekana kwamba, wakati wa kuchukua picha ya skrini, utapokea ujumbe huu wa hitilafu."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Suluhisho la muda"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Katika kesi hii ili kuanzisha picha, bonyeza kulia popote kwenye ukurasa, chagua kipengele \"Simulatore ya simu\", kisha \"📷 Piga picha ya skrini\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Suluhisho la muda kwa picha ya skrini"
+   },
+   "see_less": {
+      "message": "Tazama kidogo"
+   },
+   "see_more": {
+      "message": "Tazama zaidi"
+   },
+   "select": {
+      "message": "Chagua..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Jisajili ili kufungua toleo la PRO, au ingia ikiwa tayari una akaunti."
+   },
+   "settings_account_cta_title": {
+      "message": "Fikia akaunti yako"
+   },
+   "settings_account_greeting": {
+      "message": "Habari $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Kiwango cha betri kwenye kichwa cha kifaa (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Saidia msanidi kuboresha kiendelezi kwa kushiriki data za matumizi ambazo ni 100% bila majina na zisizo za kibinafsi."
+   },
+   "settings_change_background": {
+      "message": "Badilisha rangi ya mandharinyuma"
+   },
+   "settings_change_cursor": {
+      "message": "Kugusa skrini & onyesho la kishale cha simu"
+   },
+   "settings_countdown": {
+      "message": "Hesabu ya kurudi nyuma (sekunde)"
+   },
+   "settings_default_device": {
+      "message": "Kifaa cha chaguo-msingi kila uanzishaji"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Chagua kifaa"
+   },
+   "settings_device_default_url": {
+      "message": "Badilisha URL inayoonyeshwa kwenye kifaa"
+   },
+   "settings_device_forced_time": {
+      "message": "Lazimisha saa inayoonyeshwa kwenye kifaa"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Rudi kwenye saa ya sasa"
+   },
+   "settings_device_hide": {
+      "message": "Onyesha fremu ya kifaa"
+   },
+   "settings_fullscreen": {
+      "message": "Tovuti katika skrini nzima kwenye kifaa"
+   },
+   "settings_h2_customization": {
+      "message": "Ubinafsishaji"
+   },
+   "settings_h2_device": {
+      "message": "Kifaa"
+   },
+   "settings_h2_display": {
+      "message": "Mwonekano wa jumla"
+   },
+   "settings_h2_global": {
+      "message": "Jumla"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Hali ya dirisha nyingi"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Ficha kiolesura cha kivinjari cha kifaa (mwambaa wa anwani, n.k.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simulate kuonekana kwa kibodi wakati wa kuandika"
+   },
+   "settings_login_button": {
+      "message": "Ingia"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_nav_account": {
+      "message": "Akaunti"
+   },
+   "settings_nav_appearance": {
+      "message": "Mwonekano"
+   },
+   "settings_nav_device": {
+      "message": "Kifaa"
+   },
+   "settings_os_display": {
+      "message": "Mwonekano wa OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Onyesha upau wa hali wa OS na kivinjari (upau wa anwani)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Ficha kivinjari lakini weka upau wa hali wa OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Ficha upau wa hali wa OS na kivinjari."
+   },
+   "settings_presenter_mode": {
+      "message": "Hali ya uwasilishaji (menyu ya kulia inayoonekana tu wakati wa kusogeza)"
+   },
+   "settings_pro_account": {
+      "message": "Dhibiti usajili wangu"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Usajili wako utaisha tarehe"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Upyaji wa usajili wako umeshindikana. Tafadhali sasisha maelezo yako ya malipo ili kuhifadhi toleo la PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Rejesha usajili wangu"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Tambua na kuonyesha moja kwa moja PWA kama programu ya simu."
+   },
+   "settings_scrollbar_show": {
+      "message": "Onyesha upau wa kusogeza asilia kwenye kifaa"
+   },
+   "settings_shortcuts": {
+      "message": "Weka njia za mkato za kibodi"
+   },
+   "settings_signup_button": {
+      "message": "Jisajili"
+   },
+   "settings_subscribe": {
+      "message": "Fungua toleo la PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Jiandikishe"
+   },
+   "settings_sync_events": {
+      "message": "Synchroniser les événements entre les fenêtres (click, scroll, etc.)"
+   },
+   "settings_theme": {
+      "message": "Mandhari"
+   },
+   "settings_theme_auto": {
+      "message": "Otomatiki"
+   },
+   "settings_theme_dark": {
+      "message": "Giza"
+   },
+   "settings_theme_light": {
+      "message": "Nuru"
+   },
+   "settings_title": {
+      "message": "Mipangilio"
+   },
+   "settings_transparent_background": {
+      "message": "Mandharinyuma yenye uwazi"
+   },
+   "settings_transparent_background_info": {
+      "message": "Chaguo hili linahusisha mahesabu zaidi na hivyo uwezekano wa kupunguza kasi ya onyesho kulingana na kompyuta yako (inayolingana tu na fomati za WEBM na GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Ubora wa video"
+   },
+   "settings_video_quality_high": {
+      "message": "Bora"
+   },
+   "settings_video_quality_low": {
+      "message": "Wastani"
+   },
+   "settings_video_quality_medium": {
+      "message": "Nzuri"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Simulatore hii ya simu ni muhimu kwako?"
+   },
+   "sharing_h2": {
+      "message": "Basi shiriki na wenzako au marafiki"
+   },
+   "sharing_review_1": {
+      "message": "Na ikiwa una dakika moja kwa"
+   },
+   "sharing_review_2": {
+      "message": "kuongeza maoni"
+   },
+   "sharing_review_3": {
+      "message": "basi ni kama cherry juu ya keki! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Ninaongeza maoni"
+   },
+   "sharing_txt": {
+      "message": "Simulatore ya kujaribu tovuti yako kwenye simu na vidonge"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Hii ni picha tu. Tumia kibodi yako mwenyewe."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 hairuhusu kuonyesha kurasa zake ndani ya ukurasa mwingine: tovuti haiwezi kusimuliwa kwenye Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Hii ni picha tu. Ili kubadilisha URL tumia uwanja wa Chrome hapo juu."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Vidonge"
+   },
+   "try_it": {
+      "message": "Jaribu sasa"
+   },
+   "update_4_14_5_description": {
+      "message": "Uboreshaji mkubwa wa azimio na ubora wa picha za skrini."
+   },
+   "update_4_14_5_title": {
+      "message": "Picha za wazi zaidi"
+   },
+   "update_4_15_0_description": {
+      "message": "Uwezeshaji wa kuteleza kwa kugusa kwenye simu za mkononi na vidonge."
+   },
+   "update_4_15_0_title": {
+      "message": "Kuteleza kwa kugusa"
+   },
+   "update_4_15_5_description": {
+      "message": "Picha za ukurasa mzima kwenye faili za ndani na marekebisho ya vitengo vya kuonyesha kwenye iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Marekebisho"
+   },
+   "update_4_16_0_description": {
+      "message": "Sasa unaweza kuongeza vifaa vyako mwenyewe na vipimo maalum."
+   },
+   "update_4_16_0_title": {
+      "message": "Vifaa vilivyobinafsishwa"
+   },
+   "update_4_17_0_description": {
+      "message": "Linganisha vifaa kadhaa kwa wakati mmoja. Mibonyezo, skrini na kibodi zinasawazishwa."
+   },
+   "update_4_17_0_title": {
+      "message": "Ulinganisho wa vifaa"
+   },
+   "update_4_19_0_description": {
+      "message": "Miundo 3 ya Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 na Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "Vifaa 6 vipya vya Android"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max na iPhone Duo inayokunjwa, katika matoleo yaliyokunjwa na yasiyokunjwa."
+   },
+   "update_4_21_0_title": {
+      "message": "iPhones 4 mpya"
+   },
+   "update_tag_feature": {
+      "message": "KIPENGELE"
+   },
+   "update_tag_fix": {
+      "message": "MAREKEBISHO"
+   },
+   "update_tag_improvement": {
+      "message": "UBORESHAJI"
+   },
+   "update_tag_new": {
+      "message": "MPYA"
+   }
+}

@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android телефони"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple телефони"
+   },
+   "button_feedback": {
+      "message": "Добавете оценка"
+   },
+   "button_message": {
+      "message": "Изпратете ни съобщение"
+   },
+   "close": {
+      "message": "Затвори"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Име на устройството"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max и др."
+   },
+   "contact_title": {
+      "message": "Устройството, което търсите, не е в списъка? Кажете ни!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Активирайте мобилния изглед на този раздел"
+   },
+   "copied": {
+      "message": "Копирано"
+   },
+   "custom_device_add": {
+      "message": "Добавяне на персонализирано устройство"
+   },
+   "custom_device_dpr": {
+      "message": "Device pixel ratio"
+   },
+   "custom_device_error_name": {
+      "message": "Името на устройството е задължително."
+   },
+   "custom_device_error_os": {
+      "message": "Операционната система е задължителна."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent е задължителен."
+   },
+   "custom_device_error_viewport": {
+      "message": "Ширината и височината на viewport трябва да бъдат между 10 и 4096."
+   },
+   "custom_device_height": {
+      "message": "Височина на viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "По-малко настройки"
+   },
+   "custom_device_more": {
+      "message": "Повече настройки"
+   },
+   "custom_device_name": {
+      "message": "Име на устройството"
+   },
+   "custom_device_network": {
+      "message": "Мрежа"
+   },
+   "custom_device_os_name": {
+      "message": "Операционна система"
+   },
+   "custom_device_os_version": {
+      "message": "Версия на ОС"
+   },
+   "custom_device_submit": {
+      "message": "Добавяне"
+   },
+   "custom_device_title": {
+      "message": "Добавяне на персонализирано устройство"
+   },
+   "custom_device_ua": {
+      "message": "User agent низ"
+   },
+   "custom_device_ua_custom": {
+      "message": "Персонализиран user agent"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Ширина на viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Визуализацията на устройството не можа да бъде заредена. Това може да се дължи на блокиращ реклами или на политиката за сигурност на вашата компания. Симулаторът остава напълно използваем, само макетът не се показва."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Макетът на устройството е недостъпен"
+   },
+   "device_variant_folded": {
+      "message": "Сгънат"
+   },
+   "device_variant_unfolded": {
+      "message": "Разгънат"
+   },
+   "dimensions": {
+      "message": "Размери"
+   },
+   "error": {
+      "message": "Грешка"
+   },
+   "error_contact": {
+      "message": "{Свържете се с нас}, ако проблемът продължава."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Безплатно разширение за Chrome за тестване и предварителен преглед на вашите сайтове на повече от 80 устройства"
+   },
+   "extName": {
+      "message": "Симулатор за мобилни телефони - тест на отзивчив сайт"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Не отговаряйте"
+   },
+   "feedback_company_type": {
+      "message": "Какъв е вашият тип компания?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Малко предприятие (10-49 служители)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Фрийланс"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Много голямо предприятие / група (5000+ служители)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Микро предприятие (1-9 служители)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Голямо предприятие (250-4999 служители)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Средно предприятие (50-249 служители)"
+   },
+   "feedback_error_required": {
+      "message": "Всички полета са празни 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Колко често използвате това разширение?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Понякога"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Няколко пъти седмично"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Ежедневно"
+   },
+   "feedback_frequency_rare": {
+      "message": "Рядко"
+   },
+   "feedback_improvements": {
+      "message": "Какви подобрения бихте искали да видите?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Идея, затруднение, липса..."
+   },
+   "feedback_profession": {
+      "message": "Какъв е вашият професионален отдел?"
+   },
+   "feedback_profession_designer": {
+      "message": "Дизайн"
+   },
+   "feedback_profession_developer": {
+      "message": "Разработка"
+   },
+   "feedback_profession_marketing": {
+      "message": "Маркетинг"
+   },
+   "feedback_profession_other": {
+      "message": "Друго"
+   },
+   "feedback_profession_product": {
+      "message": "Управление на продукти"
+   },
+   "feedback_profession_qa": {
+      "message": "Тест / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Продажби"
+   },
+   "feedback_submit": {
+      "message": "Изпращане"
+   },
+   "feedback_submitted": {
+      "message": "Много ви благодарим за обратната връзка 🤗"
+   },
+   "feedback_title": {
+      "message": "Помогнете ни да направим Mobile FIRST още по-полезен за вас 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Тестване на моя сайт, правене на клиентски демонстрации..."
+   },
+   "feedback_use_cases": {
+      "message": "Защо използвате Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Вземете PRO версията"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Последни актуализации"
+   },
+   "link": {
+      "message": "Линк"
+   },
+   "logout_modale_button": {
+      "message": "Вход"
+   },
+   "logout_modale_message": {
+      "message": "Това устройство вече не е част от вашите разрешени терминали. Ако сте премахнали този достъп ръчно, е необходимо ново влизане."
+   },
+   "logout_modale_message2": {
+      "message": "От съображения за сигурност, бяхте автоматично излезли от вашия акаунт. Но можете да влезете отново, като кликнете върху бутона по-долу."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Искате да споделите абонамента си? За да разрешите на други хора, просто ги добавете от секцията \"Потребители\" на вашия акаунт."
+   },
+   "logout_modale_title": {
+      "message": "Бяхте автоматично излезли от това устройство"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Устройства, видими в раздела"
+   },
+   "menu_add_window": {
+      "message": "Добавяне на прозорец"
+   },
+   "menu_change_device": {
+      "message": "Смяна на устройство или сравнение"
+   },
+   "menu_close_alone": {
+      "message": "Деактивирайте симулатора"
+   },
+   "menu_close_window": {
+      "message": "Затвори този прозорец"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Устройството, което търсите, не е в списъка? Кажете ни!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Моите персонализирани устройства"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Добавете свои собствени персонализирани устройства!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Деактивиране на режим за сравнение"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Активиране на режим за сравнение"
+   },
+   "menu_extensions": {
+      "message": "Открийте нашите други разширения за Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Вижте всички често задавани въпроси"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Как да активирам симулатора в инкогнито режим?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Моите медийни заявки не се вземат предвид"
+   },
+   "menu_faq_scroll": {
+      "message": "Невъзможно е да се скролира в симулатора"
+   },
+   "menu_faq_shortcut": {
+      "message": "Как да настроя клавишни комбинации?"
+   },
+   "menu_faq_subscription": {
+      "message": "Защо абонаментът ми не работи?"
+   },
+   "menu_faq_title": {
+      "message": "Често задавани въпроси"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Любими"
+   },
+   "menu_info_device": {
+      "message": "Характеристики и макет на това устройство"
+   },
+   "menu_info_device_features": {
+      "message": "Характеристики (разделителна способност на изгледа и др.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Безплатен макет в прозрачен PNG"
+   },
+   "menu_report": {
+      "message": "Докладвайте за грешка"
+   },
+   "menu_rotate": {
+      "message": "Смяна на ориентацията"
+   },
+   "menu_screencast": {
+      "message": "📹 Запис на видео от екрана"
+   },
+   "menu_screenshot": {
+      "message": "📷 Направете екранна снимка"
+   },
+   "menu_send_improvement": {
+      "message": "Предложете подобрение"
+   },
+   "menu_send_message": {
+      "message": "Център за помощ"
+   },
+   "menu_settings": {
+      "message": "Конфигурация"
+   },
+   "menu_share": {
+      "message": "Споделете с колега, приятел,..."
+   },
+   "menu_vote_feature": {
+      "message": "Гласувайте за функциите, които искате"
+   },
+   "menu_zoom": {
+      "message": "Увеличаване в устройството"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Още настройки"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Открийте сега новата функция за сравнение на няколко устройства!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Сравнете едновременното показване на няколко устройства в един и същ прозорец. Превъртане, кликвания, клавиатура синхронизирани."
+   },
+   "new_video_feature_h1": {
+      "message": "Открийте сега новата функция за видео запис!"
+   },
+   "new_video_feature_h2": {
+      "message": "Записвайте с по-добро качество, с нови опции и с прозрачен фон"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.14.5\u003C/strong>Значително увеличение на \u003Cstrong>резолюцията и качеството\u003C/strong> на екранните снимки \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.15.0\u003C/strong>Активиране на \u003Cstrong>touch scroll\u003C/strong> за смартфони и таблети \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.15.0\u003C/strong>Активиране на \u003Cstrong>превъртане с докосване\u003C/strong> за смартфони и таблети."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.15.5\u003C/strong>\u003Cul>\u003Cli>Корекция относно заснемането на цялата страница на \u003Cstrong>локални файлове\u003C/strong>.\u003C/li>\u003Cli>Корекция относно единиците vh, dhv, lvh, svh на \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.16.0\u003C/strong>Добавена е възможност за създаване на персонализирани устройства \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Актуализация v4.17.0\u003C/strong>Добавена е функция за сравнение на няколко устройства едновременно! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Добре дошли в Mobile FIRST 👋\u003C/strong>Симулирайте с едно кликване телефони, таблети и компютри, за да тествате и визуализирате лесно вашите сайтове.\u003Cbr>\u003Cbr>\u003Cstrong>Менюто се намира вдясно ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "По избор"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Инсталирайте"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Това разширение ви позволява да улавяте всеки цвят на екрана."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Избор на цвят"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Идентифицирайте с едно кликване шрифта, използван на всеки текст на уеб страница."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Търсач на шрифтове"
+   },
+   "other_extensions_h1": {
+      "message": "Открийте нашите нови безплатни разширения"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Специални"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Активирайте опцията"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Този симулатор не може да бъде активиран по подразбиране на локални файлове (file:///) но можете ръчно да активирате опцията в настройките на Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Симулаторът не може да бъде активиран на тази родна страница на вашия браузър. Опитайте на друг раздел или навигирайте до сайт и опитайте отново."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Всички видео настройки"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Сравнение на множество устройства"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Фактурирано годишно"
+   },
+   "pro_modale_button": {
+      "message": "Абонирам се"
+   },
+   "pro_modale_from": {
+      "message": "От"
+   },
+   "pro_modale_h1": {
+      "message": "Станете PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Премахнете рекламите"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Конвертирайте вашите видео записи във формати GIF и MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Симулирайте всички устройства"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Редактирайте вашите снимки"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Сравнете повече от две устройства едновременно"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Отключете всички настройки за видео запис"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Отключете всички настройки"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Правете неограничени екранни снимки"
+   },
+   "pro_modale_h2": {
+      "message": "Станете PRO и активно допринасяйте за развитието на това разширение, като подкрепяте неговия разработчик."
+   },
+   "pro_modale_link_1": {
+      "message": "Или"
+   },
+   "pro_modale_link_2": {
+      "message": "влизам"
+   },
+   "pro_modale_link_3": {
+      "message": "в моя абонатен акаунт"
+   },
+   "pro_modale_recurring_month": {
+      "message": "месец"
+   },
+   "pro_modale_savings": {
+      "message": "Спестете"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Годишен"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Месечен"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "след вашите 7 дни безплатен пробен период"
+   },
+   "pro_modale_trial_button": {
+      "message": "Започнете моя 7-дневен безплатен пробен период"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Опитайте PRO версията безплатно за 7 дни"
+   },
+   "pro_modale_trial_note": {
+      "message": "Нищо за плащане днес · Без ангажимент, може да се анулира по всяко време"
+   },
+   "pro_modale_trial_then": {
+      "message": "след това"
+   },
+   "pro_modale_trial_today": {
+      "message": "днес"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Как бихте оценили това разширение?"
+   },
+   "review_note_feedback": {
+      "message": "Благодаря ви за обратната връзка, не се колебайте да ни изпратите съобщение, за да можем да подобрим това разширение."
+   },
+   "review_note_store": {
+      "message": "Благодаря за вашето мнение, не се колебайте да добавите оценка на страницата на разширението. Ще съм ви много благодарен 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Достъпът до камерата е отказан."
+   },
+   "screencast_error": {
+      "message": "Възникна грешка при записването. {Кликнете тук} за решение."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Вашата версия на Chrome е твърде стара за тази функция. Моля, актуализирайте Chrome до версия над 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Моля, споделете текущия прозорец (а не целия екран), за да бъде записът правилно кадриран."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Достъпът до микрофона е отказан."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Видео записите са ограничени до 5 минути в безплатната версия."
+   },
+   "screencast_modale_contact": {
+      "message": "Докладвайте за грешка, предложете подобрение"
+   },
+   "screencast_modale_copy": {
+      "message": "Копиране"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Съвместим навсякъде, но с по-ниско качество (с прозрачност, ако опцията е активирана)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "По-добра съвместимост с PowerPoint, но без прозрачност"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Изтеглете в стандартен формат WEBM (с прозрачност, ако опцията е активирана)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Максималната продължителност на GIF е 60 секунди. След това файлът би бил твърде голям."
+   },
+   "screencast_modale_texte": {
+      "message": "Можете да изтеглите това видео в различни формати или да получите линк за споделяне."
+   },
+   "screencast_modale_title": {
+      "message": "Видео запис"
+   },
+   "screencast_modale_upload": {
+      "message": "Получаване на линк за споделяне"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Качеството на видеото влияе на битрейта, fps и резолюцията на записа. Колкото по-високо е качеството, толкова по-голям ще бъде файлът."
+   },
+   "screencast_start_recording": {
+      "message": "Започнете записването"
+   },
+   "screencast_tooltip_device": {
+      "message": "Видео запис само на устройството"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Видео запис на раздела с устройството"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Генерирайте снимка"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Начертайте стрелка"
+   },
+   "screenshot_editor_close": {
+      "message": "Затворете редактора"
+   },
+   "screenshot_editor_color": {
+      "message": "Цвят на линията"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Начертайте кръг"
+   },
+   "screenshot_editor_line": {
+      "message": "Начертайте линия"
+   },
+   "screenshot_editor_pen": {
+      "message": "Свободно рисуване"
+   },
+   "screenshot_editor_rect": {
+      "message": "Начертайте правоъгълник"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Дебелина на линията"
+   },
+   "screenshot_editor_undo": {
+      "message": "Отмяна на последното действие"
+   },
+   "screenshot_menu_1": {
+      "message": "Снимка с устройството"
+   },
+   "screenshot_menu_2": {
+      "message": "Снимка само на сайта"
+   },
+   "screenshot_menu_3": {
+      "message": "Снимка на цялата страница"
+   },
+   "screenshot_menu_4": {
+      "message": "Снимка на целия раздел"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Спиране преди края на страницата"
+   },
+   "screenshot_modale_copy": {
+      "message": "Копирайте изображението в клипборда"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Изтеглете в PNG формат (без компресия)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Изтеглете в WEBP формат, съвместим почти навсякъде и с оптимизирана компресия (препоръчително)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Редактирайте снимката"
+   },
+   "screenshot_modale_help": {
+      "message": "За да запазите изображението в голям формат, просто кликнете с десния бутон върху него и изберете \"Копиране на изображението\" или \"Запазване\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Екранна снимка"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Контекст"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Поради някои технически ограничения, възможно е при заснемане на екранна снимка да получите това съобщение за грешка."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Решение за заобикаляне"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "В този случай, за да стартирате заснемането, просто кликнете с десния бутон някъде на страницата, изберете записа „Мобилен симулатор“, след това „📷 Направете екранна снимка“"
+   },
+   "screenshot_workaround_title": {
+      "message": "Решение за заобикаляне на проблема с екранната снимка"
+   },
+   "see_less": {
+      "message": "Виж по-малко"
+   },
+   "see_more": {
+      "message": "Виж повече"
+   },
+   "select": {
+      "message": "Изберете..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Регистрирайте се, за да отключите PRO версията, или влезте, ако вече имате акаунт."
+   },
+   "settings_account_cta_title": {
+      "message": "Достъп до вашия акаунт"
+   },
+   "settings_account_greeting": {
+      "message": "Здравейте $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Ниво на батерията в заглавката на устройството (%)"
+   },
+   "settings_camera": {
+      "message": "Камера"
+   },
+   "settings_change_analytics": {
+      "message": "Помогнете на разработчика да подобри разширението, като споделяте 100% анонимни и неперсонални данни за използване."
+   },
+   "settings_change_background": {
+      "message": "Промяна на цвета на фона"
+   },
+   "settings_change_cursor": {
+      "message": "Докосване за превъртане и показване на мобилен курсор"
+   },
+   "settings_countdown": {
+      "message": "Обратно броене (секунди)"
+   },
+   "settings_default_device": {
+      "message": "Терминал по подразбиране при всяко активиране"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Изберете устройство"
+   },
+   "settings_device_default_url": {
+      "message": "Промяна на URL адреса, показан в устройството"
+   },
+   "settings_device_forced_time": {
+      "message": "Принудително задаване на часа, показан на устройството"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Връщане към текущото време"
+   },
+   "settings_device_hide": {
+      "message": "Показване на рамката на устройството"
+   },
+   "settings_fullscreen": {
+      "message": "Сайт на цял екран в устройството"
+   },
+   "settings_h2_customization": {
+      "message": "Персонализиране"
+   },
+   "settings_h2_device": {
+      "message": "Устройство"
+   },
+   "settings_h2_display": {
+      "message": "Общо показване"
+   },
+   "settings_h2_global": {
+      "message": "Общи"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Режим на много прозорци"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Скриване на интерфейса на браузъра на устройството (адресна лента и др.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Симулиране на появата на клавиатурата при въвеждане"
+   },
+   "settings_login_button": {
+      "message": "Вход"
+   },
+   "settings_microphone": {
+      "message": "Микрофон"
+   },
+   "settings_nav_account": {
+      "message": "Акаунт"
+   },
+   "settings_nav_appearance": {
+      "message": "Външен вид"
+   },
+   "settings_nav_device": {
+      "message": "Устройство"
+   },
+   "settings_os_display": {
+      "message": "Показване на ОС"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Показва лентата за състояние на ОС и браузъра (адресната лента)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Скрива браузъра, но запазва лентата за състояние на ОС."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Скрива лентата за състояние на ОС и браузъра."
+   },
+   "settings_presenter_mode": {
+      "message": "Режим на представяне (менюто вдясно е видимо само при задържане)"
+   },
+   "settings_pro_account": {
+      "message": "Управление на абонамента ми"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Вашият абонамент ще приключи на"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Подновяването на абонамента ви не бе успешно. Моля, актуализирайте информацията си за плащане, за да запазите PRO версията."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Активирайте отново абонамента ми"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Автоматично откриване и показване на PWA като мобилно приложение."
+   },
+   "settings_scrollbar_show": {
+      "message": "Показване на родния скролбар в устройството"
+   },
+   "settings_shortcuts": {
+      "message": "Задайте клавишни комбинации"
+   },
+   "settings_signup_button": {
+      "message": "Регистрация"
+   },
+   "settings_subscribe": {
+      "message": "Отключете PRO версията"
+   },
+   "settings_subscribe_button": {
+      "message": "Абониране"
+   },
+   "settings_sync_events": {
+      "message": "Синхронизиране на събитията между прозорците (кликване, превъртане и т.н.)"
+   },
+   "settings_theme": {
+      "message": "Тема"
+   },
+   "settings_theme_auto": {
+      "message": "Автоматично"
+   },
+   "settings_theme_dark": {
+      "message": "Тъмна"
+   },
+   "settings_theme_light": {
+      "message": "Светла"
+   },
+   "settings_title": {
+      "message": "Настройки"
+   },
+   "settings_transparent_background": {
+      "message": "Прозрачен фон"
+   },
+   "settings_transparent_background_info": {
+      "message": "Тази опция изисква повече изчисления и може да забави показването в зависимост от вашия компютър (съвместимо само с формати WEBM и GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Качество на видеото"
+   },
+   "settings_video_quality_high": {
+      "message": "Отлично"
+   },
+   "settings_video_quality_low": {
+      "message": "Средно"
+   },
+   "settings_video_quality_medium": {
+      "message": "Добро"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Този мобилен симулатор полезен ли е за вас?"
+   },
+   "sharing_h2": {
+      "message": "Тогава го споделете с вашите колеги или приятели"
+   },
+   "sharing_review_1": {
+      "message": "Ако имате минута за"
+   },
+   "sharing_review_2": {
+      "message": "добавяне на отзив"
+   },
+   "sharing_review_3": {
+      "message": "това ще бъде черешката на тортата! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Добавям отзив"
+   },
+   "sharing_txt": {
+      "message": "Симулатор за тестване на вашия сайт на мобилни устройства и таблети"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Това е само изображение. Използвайте собствената си клавиатура."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 не позволява показването на своите страници в рамките на друга страница: сайтът не може да бъде симулиран на Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Това е само изображение. За да промените URL, използвайте полето на Chrome по-горе."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Таблети"
+   },
+   "try_it": {
+      "message": "Опитайте сега"
+   },
+   "update_4_14_5_description": {
+      "message": "Значително подобрение на резолюцията и качеството на скрийншотите."
+   },
+   "update_4_14_5_title": {
+      "message": "По-ясни скрийншоти"
+   },
+   "update_4_15_0_description": {
+      "message": "Активиране на докосване за скролиране на смартфони и таблети."
+   },
+   "update_4_15_0_title": {
+      "message": "Докосване за скролиране"
+   },
+   "update_4_15_5_description": {
+      "message": "Цялостни скрийншоти на локални файлове и поправки на дисплейните единици на iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Поправки"
+   },
+   "update_4_16_0_description": {
+      "message": "Вече можете да добавяте свои собствени устройства с конкретни размери."
+   },
+   "update_4_16_0_title": {
+      "message": "Персонализирани устройства"
+   },
+   "update_4_17_0_description": {
+      "message": "Сравнете няколко устройства едновременно едно до друго. Кликванията, скролването и клавиатурата са синхронизирани."
+   },
+   "update_4_17_0_title": {
+      "message": "Сравнение на устройства"
+   },
+   "update_4_19_0_description": {
+      "message": "3 модела Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 и Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 нови Android устройства"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max и сгъваемият iPhone Duo, в сгънат и разгънат вариант."
+   },
+   "update_4_21_0_title": {
+      "message": "4 нови iPhone"
+   },
+   "update_tag_feature": {
+      "message": "ФУНКЦИОНАЛНОСТ"
+   },
+   "update_tag_fix": {
+      "message": "ПОПРАВКА"
+   },
+   "update_tag_improvement": {
+      "message": "ПОДОБРЕНИЕ"
+   },
+   "update_tag_new": {
+      "message": "НОВО"
+   }
+}

@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> ആൻഡ്രോയിഡ് ഫോണുകൾ"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> ആപ്പിൾ ഫോണുകൾ"
+   },
+   "button_feedback": {
+      "message": "ഒരു റേറ്റിംഗ് ചേർക്കുക"
+   },
+   "button_message": {
+      "message": "ഞങ്ങൾക്ക് ഒരു സന്ദേശം അയയ്ക്കുക"
+   },
+   "close": {
+      "message": "അടയ്ക്കുക"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "ഉപകരണത്തിന്റെ പേര്"
+   },
+   "contact_message_field_placeholder": {
+      "message": "സാംസങ് ഗാലക്സി S24 അൾട്രാ, ഐഫോൺ 17 പ്രോ മാക്സ്, തുടങ്ങിയവ."
+   },
+   "contact_title": {
+      "message": "നിങ്ങൾ തിരയുന്ന ഉപകരണം പട്ടികയിൽ ഇല്ലേ? ഞങ്ങളെ അറിയിക്കുക!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "ഈ ടാബിൽ മൊബൈൽ കാഴ്ച സജീവമാക്കുക"
+   },
+   "copied": {
+      "message": "പകർത്തി"
+   },
+   "custom_device_add": {
+      "message": "ഒരു ഇഷ്ടാനുസൃത ഉപകരണം ചേർക്കുക"
+   },
+   "custom_device_dpr": {
+      "message": "ഉപകരണ പിക്സൽ അനുപാതം"
+   },
+   "custom_device_error_name": {
+      "message": "ഉപകരണത്തിന്റെ പേര് ആവശ്യമാണ്."
+   },
+   "custom_device_error_os": {
+      "message": "ഓപ്പറേറ്റിംഗ് സിസ്റ്റം ആവശ്യമാണ്."
+   },
+   "custom_device_error_ua": {
+      "message": "ഉപയോക്തൃ ഏജന്റ് ആവശ്യമാണ്."
+   },
+   "custom_device_error_viewport": {
+      "message": "വ്യൂപോർട്ട് വീതിയും ഉയരവും 10നും 4096നും ഇടയിൽ ആയിരിക്കണം."
+   },
+   "custom_device_height": {
+      "message": "വ്യൂപോർട്ട് ഉയരം (px)"
+   },
+   "custom_device_less": {
+      "message": "കുറഞ്ഞ ക്രമീകരണങ്ങൾ"
+   },
+   "custom_device_more": {
+      "message": "കൂടുതൽ ക്രമീകരണങ്ങൾ"
+   },
+   "custom_device_name": {
+      "message": "ഉപകരണത്തിന്റെ പേര്"
+   },
+   "custom_device_network": {
+      "message": "നെറ്റ്വർക്ക്"
+   },
+   "custom_device_os_name": {
+      "message": "ഓപ്പറേറ്റിംഗ് സിസ്റ്റം"
+   },
+   "custom_device_os_version": {
+      "message": "ഓ.എസ് പതിപ്പ്"
+   },
+   "custom_device_submit": {
+      "message": "ചേർക്കുക"
+   },
+   "custom_device_title": {
+      "message": "ഒരു ഇഷ്ടാനുസൃത ഉപകരണം ചേർക്കുക"
+   },
+   "custom_device_ua": {
+      "message": "ഉപയോക്തൃ ഏജന്റ് സ്ട്രിംഗ്"
+   },
+   "custom_device_ua_custom": {
+      "message": "ഇഷ്ടാനുസൃത ഉപയോക്തൃ ഏജന്റ്"
+   },
+   "custom_device_ua_preset": {
+      "message": "ഉപയോക്തൃ ഏജന്റ്"
+   },
+   "custom_device_width": {
+      "message": "വ്യൂപോർട്ട് വീതി (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "ഉപകരണത്തിന്റെ കാഴ്ചപ്പാട് ലോഡ് ചെയ്യാനായില്ല. ഇത് ഒരു പരസ്യ തടയൽ ഉപകരണത്തിൽ നിന്നോ നിങ്ങളുടെ സ്ഥാപനത്തിന്റെ സുരക്ഷാ നയത്തിൽ നിന്നോ ഉണ്ടായിരിക്കാം. സിമുലേറ്റർ പൂർണ്ണമായും ഉപയോഗിക്കാൻ കഴിയുന്നതാണ്, മോക്കപ്പ് മാത്രം പ്രദർശിപ്പിക്കുന്നില്ല."
+   },
+   "device_mockup_blocked_title": {
+      "message": "ഉപകരണ മോക്കപ്പ് ലഭ്യമല്ല"
+   },
+   "device_variant_folded": {
+      "message": "മടക്കിയ"
+   },
+   "device_variant_unfolded": {
+      "message": "വീഴ്ത്തിയ"
+   },
+   "dimensions": {
+      "message": "അളവുകൾ"
+   },
+   "error": {
+      "message": "പിശക്"
+   },
+   "error_contact": {
+      "message": "പ്രശ്നം തുടരുകയാണെങ്കിൽ {ഞങ്ങളെ ബന്ധപ്പെടുക}."
+   },
+   "extDescription": {
+      "message": "ഫോൺ സിമുലേറ്റർ — 80-ലധികം ഉപകരണങ്ങളിൽ നിങ്ങളുടെ സൈറ്റുകൾ പരിശോധിക്കുകയും മുൻകൂട്ടി കാണുകയും ചെയ്യുന്നതിനുള്ള സൗജന്യ ക്രോം വിപുലീകരണം"
+   },
+   "extName": {
+      "message": "മൊബൈൽ ഫോൺ സിമുലേറ്റർ - റെസ്പോൺസീവ് സൈറ്റ് ടെസ്റ്റ് ചെയ്യുക"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "മറുപടി നൽകരുത്"
+   },
+   "feedback_company_type": {
+      "message": "നിങ്ങളുടെ കമ്പനി തരം ഏതാണ്?"
+   },
+   "feedback_company_type_agency": {
+      "message": "ചെറിയ ബിസിനസ് (10-49 ജീവനക്കാർ)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "സ്വതന്ത്ര"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "വളരെ വലിയ ബിസിനസ് / ഗ്രൂപ്പ് (5000+ ജീവനക്കാർ)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "മൈക്രോ-ബിസിനസ് (1-9 ജീവനക്കാർ)"
+   },
+   "feedback_company_type_pme": {
+      "message": "വലിയ ബിസിനസ് (250-4999 ജീവനക്കാർ)"
+   },
+   "feedback_company_type_startup": {
+      "message": "ഇടത്തരം ബിസിനസ് (50-249 ജീവനക്കാർ)"
+   },
+   "feedback_error_required": {
+      "message": "എല്ലാ ഫീൽഡുകളും ശൂന്യമാണ് 🤔"
+   },
+   "feedback_frequency": {
+      "message": "നിങ്ങൾ ഈ വിപുലീകരണം എത്ര തവണ ഉപയോഗിക്കുന്നു?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "അവസരങ്ങൾ"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "ആഴ്ചയിൽ പല തവണ"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "ദൈനംദിനം"
+   },
+   "feedback_frequency_rare": {
+      "message": "അപൂർവ്വം"
+   },
+   "feedback_improvements": {
+      "message": "നിങ്ങൾക്ക് കാണാൻ ആഗ്രഹിക്കുന്ന മെച്ചപ്പെടുത്തലുകൾ എന്തൊക്കെയാണ്?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "ഒരു ആശയം, ഒരു തടസം, ഒരു കുറവ്..."
+   },
+   "feedback_profession": {
+      "message": "നിങ്ങളുടെ പ്രൊഫഷണൽ വിഭാഗം ഏതാണ്?"
+   },
+   "feedback_profession_designer": {
+      "message": "ഡിസൈൻ"
+   },
+   "feedback_profession_developer": {
+      "message": "ഡെവലപ്മെന്റ്"
+   },
+   "feedback_profession_marketing": {
+      "message": "മാർക്കറ്റിംഗ്"
+   },
+   "feedback_profession_other": {
+      "message": "മറ്റുള്ളവ"
+   },
+   "feedback_profession_product": {
+      "message": "ഉൽപ്പന്ന മാനേജ്മെന്റ്"
+   },
+   "feedback_profession_qa": {
+      "message": "ടെസ്റ്റ് / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "വിപണനം"
+   },
+   "feedback_submit": {
+      "message": "അയയ്ക്കുക"
+   },
+   "feedback_submitted": {
+      "message": "നിങ്ങളുടെ പ്രതികരണത്തിന് വളരെ നന്ദി 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRST നിങ്ങള്ക്ക് കൂടുതൽ ഉപകാരപ്രദമാക്കാൻ ഞങ്ങളെ സഹായിക്കുക 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "എന്റെ സൈറ്റ് ടെസ്റ്റ് ചെയ്യുക, ക്ലയന്റ് ഡെമോകൾ ചെയ്യുക..."
+   },
+   "feedback_use_cases": {
+      "message": "നിങ്ങൾ Mobile FIRST എന്തിനാണ് ഉപയോഗിക്കുന്നത്?"
+   },
+   "get_pro": {
+      "message": "PRO പതിപ്പ് നേടുക"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "പുതിയ അപ്ഡേറ്റുകൾ"
+   },
+   "link": {
+      "message": "ലിങ്ക്"
+   },
+   "logout_modale_button": {
+      "message": "ലോഗിൻ ചെയ്യുക"
+   },
+   "logout_modale_message": {
+      "message": "ഈ ഉപകരണം ഇനി നിങ്ങളുടെ അംഗീകൃത ഉപകരണങ്ങളിൽ ഉൾപ്പെടുന്നില്ല. നിങ്ങൾ ഈ ആക്സസ് കൈമാറി നീക്കം ചെയ്തിട്ടുണ്ടെങ്കിൽ, വീണ്ടും ലോഗിൻ ചെയ്യേണ്ടതുണ്ട്."
+   },
+   "logout_modale_message2": {
+      "message": "സുരക്ഷാ കാരണങ്ങളാൽ, നിങ്ങൾ സ്വയം നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്ന് പുറത്താക്കപ്പെട്ടു. എന്നാൽ താഴെയുള്ള ബട്ടൺ ക്ലിക്കുചെയ്ത് നിങ്ങൾക്ക് വീണ്ടും ലോഗിൻ ചെയ്യാം."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ നിങ്ങൾ നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ പങ്കിടാൻ ആഗ്രഹിക്കുന്നുണ്ടോ? മറ്റ് ആളുകളെ അനുവദിക്കാൻ, നിങ്ങളുടെ അക്കൗണ്ടിലെ \"ഉപയോക്താക്കൾ\" വിഭാഗത്തിൽ നിന്ന് അവരെ ചേർക്കുക."
+   },
+   "logout_modale_title": {
+      "message": "ഈ ഉപകരണത്തിൽ നിന്ന് നിങ്ങൾ സ്വയം ലോഗ് ഔട്ട് ചെയ്യപ്പെട്ടു"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "ടാബിൽ ദൃശ്യമാകുന്ന ഉപകരണങ്ങൾ"
+   },
+   "menu_add_window": {
+      "message": "വിൻഡോ ചേർക്കുക"
+   },
+   "menu_change_device": {
+      "message": "ഉപകരണം മാറ്റുക അല്ലെങ്കിൽ താരതമ്യം ചെയ്യുക"
+   },
+   "menu_close_alone": {
+      "message": "സിമുലേറ്റർ അപ്രാപ്തമാക്കുക"
+   },
+   "menu_close_window": {
+      "message": "ഈ വിൻഡോ അടയ്ക്കുക"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> നിങ്ങൾ തിരയുന്ന ഉപകരണം പട്ടികയിൽ ഇല്ലേ? ഞങ്ങളെ അറിയിക്കുക!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;എന്റെ ഇഷ്ടാനുസൃത ഉപകരണങ്ങൾ"
+   },
+   "menu_custom_devices_banner": {
+      "message": "നിങ്ങളുടെ സ്വന്തം ഇഷ്ടാനുസൃത ഉപകരണങ്ങൾ ചേർക്കൂ!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "തത്സമയ താരതമ്യ മോഡ് അപ്രാപ്തമാക്കുക"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "തത്സമയ താരതമ്യ മോഡ് സജീവമാക്കുക"
+   },
+   "menu_extensions": {
+      "message": "ഞങ്ങളുടെ മറ്റ് Chrome വിപുലീകരണങ്ങൾ കണ്ടെത്തുക"
+   },
+   "menu_faq_all": {
+      "message": "എല്ലാ അടിസ്ഥാന ചോദ്യങ്ങളും കാണുക"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "സ്വകാര്യ ബ്രൗസിംഗിൽ സിമുലേറ്റർ എങ്ങനെ സജീവമാക്കാം?"
+   },
+   "menu_faq_media_queries": {
+      "message": "എന്റെ മീഡിയ ക്വെറികൾ പരിഗണിക്കപ്പെടുന്നില്ല"
+   },
+   "menu_faq_scroll": {
+      "message": "സിമുലേറ്ററിൽ സ്ക്രോൾ ചെയ്യാൻ കഴിയുന്നില്ല"
+   },
+   "menu_faq_shortcut": {
+      "message": "കീബോർഡ് ഷോർട്ട്കട്ടുകൾ എങ്ങനെ ക്രമീകരിക്കാം?"
+   },
+   "menu_faq_subscription": {
+      "message": "എന്റെ സബ്സ്ക്രിപ്ഷൻ പ്രവർത്തിക്കാത്തതെന്തുകൊണ്ട്?"
+   },
+   "menu_faq_title": {
+      "message": "അടിസ്ഥാന ചോദ്യങ്ങൾ"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> ഇഷ്ടപ്പെട്ടവ"
+   },
+   "menu_info_device": {
+      "message": "ഈ ഉപകരണത്തിന്റെ സവിശേഷതകളും മോക്കപ്പും"
+   },
+   "menu_info_device_features": {
+      "message": "സവിശേഷതകൾ (വ്യൂപോർട്ട് റെസല്യൂഷൻ, തുടങ്ങിയവ)"
+   },
+   "menu_info_device_mockup": {
+      "message": "പുതുക്കിയ PNG മോക്കപ്പ്"
+   },
+   "menu_report": {
+      "message": "ഒരു ബഗ് റിപ്പോർട്ട് ചെയ്യുക"
+   },
+   "menu_rotate": {
+      "message": "ഓറിയന്റേഷൻ മാറ്റുക"
+   },
+   "menu_screencast": {
+      "message": "📹 സ്ക്രീൻ വീഡിയോ റെക്കോർഡ് ചെയ്യുക"
+   },
+   "menu_screenshot": {
+      "message": "📷 സ്ക്രീൻഷോട്ട് എടുക്കുക"
+   },
+   "menu_send_improvement": {
+      "message": "ഒരു മെച്ചപ്പെടുത്തൽ നിർദ്ദേശിക്കുക"
+   },
+   "menu_send_message": {
+      "message": "സഹായ കേന്ദ്രം"
+   },
+   "menu_settings": {
+      "message": "ക്രമീകരണം"
+   },
+   "menu_share": {
+      "message": "ഒരു സഹപ്രവർത്തകനോ, സുഹൃത്തിനോ പങ്കിടുക,..."
+   },
+   "menu_vote_feature": {
+      "message": "നിങ്ങൾ ആഗ്രഹിക്കുന്ന സവിശേഷതകൾക്ക് വോട്ട് ചെയ്യുക"
+   },
+   "menu_zoom": {
+      "message": "ഉപകരണത്തിൽ സൂം ചെയ്യുക"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "കൂടുതൽ ക്രമീകരണങ്ങൾ"
+   },
+   "new_comparison_feature_h1": {
+      "message": "പല ഉപകരണങ്ങളുടെ താരതമ്യത്തിനുള്ള പുതിയ സവിശേഷത ഇപ്പോൾ തന്നെ കണ്ടെത്തുക!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "ഒരു വിൻഡോയിൽ തന്നെ നിരവധി ഉപകരണങ്ങളുടെ പ്രദർശനം ഒരേ സമയം താരതമ്യം ചെയ്യുക. സ്ക്രോൾ, ക്ലിക്കുകൾ, കീബോർഡ് സിങ്ക്രണൈസ് ചെയ്തിരിക്കുന്നു."
+   },
+   "new_video_feature_h1": {
+      "message": "പുതിയ വീഡിയോ ക്യാപ്ചർ സവിശേഷത ഇപ്പോൾ കണ്ടെത്തുക!"
+   },
+   "new_video_feature_h2": {
+      "message": "മികച്ച ഗുണനിലവാരത്തിൽ, പുതിയ ഓപ്ഷനുകളോടെ, സുതാര്യ പശ്ചാത്തലത്തോടുകൂടി റെക്കോർഡ് ചെയ്യുക"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>അപ്ഡേറ്റ് v4.14.5\u003C/strong>സ്ക്രീൻഷോട്ടുകളുടെ \u003Cstrong>റെസല്യൂഷനും ഗുണനിലവാരവും\u003C/strong> കാര്യമായ വർദ്ധനവ് \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>അപ്ഡേറ്റ് v4.15.0\u003C/strong>സ്മാർട്ട്ഫോണുകൾക്കും ടാബ്ലറ്റുകൾക്കും \u003Cstrong>ടച്ച് സ്ക്രോൾ\u003C/strong> സജീവമാക്കുക \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>അപ്ഡേറ്റ് v4.15.0\u003C/strong>സ്മാർട്ട്ഫോണുകൾക്കും ടാബ്ലറ്റുകൾക്കും \u003Cstrong>ടച്ച് സ്ക്രോൾ\u003C/strong> സജീവമാക്കൽ."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>അപ്‌ഡേറ്റ് v4.15.5\u003C/strong>\u003Cul>\u003Cli>\u003Cstrong>പ്രാദേശിക ഫയലുകൾ\u003C/strong> എന്നതിൽ പൂർണ്ണ പേജ് സ്ക്രീൻഷോട്ടുകളുമായി ബന്ധപ്പെട്ട പ്രശ്ന പരിഹാരം.\u003C/li>\u003Cli>\u003Cstrong>iOS&nbsp;26\u003C/strong> എന്നതിൽ vh, dhv, lvh, svh യൂണിറ്റുകളുമായി ബന്ധപ്പെട്ട പ്രശ്ന പരിഹാരം.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>അപ്ഡേറ്റ് v4.16.0\u003C/strong> ഇഷ്ടാനുസൃത ഉപകരണങ്ങൾ സൃഷ്ടിക്കുന്നതിനുള്ള കഴിവ് ചേർത്തു \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>പുതുക്കൽ v4.17.0\u003C/strong>ഒരേ സമയം നിരവധി ഉപകരണങ്ങളെ താരതമ്യം ചെയ്യാനുള്ള സവിശേഷത ചേർത്തിരിക്കുന്നു! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mobile FIRST-ലേക്ക് സ്വാഗതം 👋\u003C/strong>നിങ്ങളുടെ സൈറ്റുകൾ എളുപ്പത്തിൽ ടെസ്റ്റ് ചെയ്യാനും കാണാനും ഫോണുകൾ, ടാബ്ലറ്റുകൾ, കമ്പ്യൂട്ടറുകൾ ഒരു ക്ലിക്കിൽ സിമുലേറ്റ് ചെയ്യുക.\u003Cbr>\u003Cbr>\u003Cstrong>മെനു വലതുവശത്താണ് ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "ഐച്ഛികം"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "ഇൻസ്റ്റാൾ ചെയ്യുക"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "ഈ വിപുലീകരണം നിങ്ങൾക്ക് സ്ക്രീനിലെ ഏതെങ്കിലും നിറം പിടിക്കാൻ അനുവദിക്കുന്നു."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "നിറം തിരഞ്ഞെടുക്കുക"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "ഒരു വെബ് പേജിലെ ഏതെങ്കിലും ടെക്സ്റ്റിൽ ഉപയോഗിക്കുന്ന ഫോണ്ട് ഒരു ക്ലിക്കിൽ തിരിച്ചറിയുക."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "ഫോണ്ട് ഫൈൻഡർ"
+   },
+   "other_extensions_h1": {
+      "message": "ഞങ്ങളുടെ ഏറ്റവും പുതിയ സൗജന്യ വിപുലീകരണങ്ങൾ കണ്ടെത്തുക"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> പ്രത്യേകങ്ങൾ"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "ഓപ്ഷൻ സജീവമാക്കുക"
+   },
+   "popup_activate_local_files_info": {
+      "message": "ഈ സിമുലേറ്റർ പ്രാദേശിക ഫയലുകളിൽ (file:///) സ്വതവേ സജീവമാക്കാൻ കഴിയില്ല, പക്ഷേ Chrome ക്രമീകരണങ്ങളിൽ നിങ്ങൾക്ക് ഓപ്ഷൻ മാനുവലായി സജീവമാക്കാം."
+   },
+   "popup_site_incompatible": {
+      "message": "നിങ്ങളുടെ ബ്രൗസറിന്റെ ഈ നേറ്റീവ് പേജിൽ സിമുലേറ്റർ സജീവമാക്കാൻ കഴിയില്ല. മറ്റൊരു ടാബിൽ ശ്രമിക്കുക അല്ലെങ്കിൽ ഒരു സൈറ്റിൽ നാവിഗേറ്റ് ചെയ്ത് വീണ്ടും പ്രവർത്തിപ്പിക്കുക."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "എല്ലാ വീഡിയോ ക്രമീകരണങ്ങളും"
+   },
+   "pro_modale_avantage_2": {
+      "message": "മൾട്ടി-ഡിവൈസ് താരതമ്യം"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "വാർഷികമായി ബില്ല് ചെയ്യുന്നു"
+   },
+   "pro_modale_button": {
+      "message": "ഞാൻ സബ്സ്ക്രൈബ് ചെയ്യുന്നു"
+   },
+   "pro_modale_from": {
+      "message": "മുതൽ"
+   },
+   "pro_modale_h1": {
+      "message": "PRO ആകുക"
+   },
+   "pro_modale_h1_ads": {
+      "message": "പരസ്യങ്ങൾ നീക്കം ചെയ്യുക"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "നിങ്ങളുടെ വീഡിയോ ക്യാപ്ചറുകൾ GIF, MP4 ഫോർമാറ്റുകളിലേക്ക് മാറ്റുക"
+   },
+   "pro_modale_h1_devices": {
+      "message": "എല്ലാ ഉപകരണങ്ങളും സിമുലേറ്റ് ചെയ്യുക"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "നിങ്ങളുടെ ക്യാപ്ചറുകൾ എഡിറ്റ് ചെയ്യുക"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "ഒരേസമയം രണ്ട് ഉപകരണങ്ങളിലധികം താരതമ്യം ചെയ്യുക"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "എല്ലാ വീഡിയോ റെക്കോർഡിംഗ് ക്രമീകരണങ്ങളും അൺലോക്ക് ചെയ്യുക"
+   },
+   "pro_modale_h1_settings": {
+      "message": "എല്ലാ ക്രമീകരണങ്ങളും അൺലോക്ക് ചെയ്യുക"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "പരിമിതിയില്ലാതെ സ്ക്രീൻഷോട്ടുകൾ എടുക്കുക"
+   },
+   "pro_modale_h2": {
+      "message": "PRO ആകുക, ഈ വിപുലീകരണത്തിന്റെ വികസനത്തിൽ സജീവമായി സംഭാവന ചെയ്യുക, അതിന്റെ ഡെവലപ്പറെ പിന്തുണയ്ക്കുക."
+   },
+   "pro_modale_link_1": {
+      "message": "അല്ലെങ്കിൽ"
+   },
+   "pro_modale_link_2": {
+      "message": "ഞാൻ ലോഗിൻ ചെയ്യുന്നു"
+   },
+   "pro_modale_link_3": {
+      "message": "എന്റെ സബ്സ്ക്രൈബർ അക്കൗണ്ടിലേക്ക്"
+   },
+   "pro_modale_recurring_month": {
+      "message": "മാസം"
+   },
+   "pro_modale_savings": {
+      "message": "സംരക്ഷിക്കുക"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "വാർഷികം"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "മാസാന്ത്യം"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "നിങ്ങളുടെ 7 ദിവസത്തെ സൗജന്യ പരീക്ഷണത്തിന് ശേഷം"
+   },
+   "pro_modale_trial_button": {
+      "message": "എന്റെ 7 ദിവസത്തെ സൗജന്യ പരീക്ഷണം ആരംഭിക്കുക"
+   },
+   "pro_modale_trial_h1": {
+      "message": "7 ദിവസത്തേക്ക് PRO പതിപ്പ് സൗജന്യമായി പരീക്ഷിക്കുക"
+   },
+   "pro_modale_trial_note": {
+      "message": "ഇന്ന് ഒന്നും നൽകേണ്ടതില്ല · ബദ്ധതയില്ല, ഏത് സമയത്തും റദ്ദാക്കാം"
+   },
+   "pro_modale_trial_then": {
+      "message": "പിന്നീട്"
+   },
+   "pro_modale_trial_today": {
+      "message": "ഇന്ന്"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "ഈ വിപുലീകരണത്തെ നിങ്ങൾ എങ്ങനെ റേറ്റുചെയ്യും?"
+   },
+   "review_note_feedback": {
+      "message": "നിങ്ങളുടെ പ്രതികരണത്തിന് നന്ദി, ഈ വിപുലീകരണം മെച്ചപ്പെടുത്താൻ ഞങ്ങൾക്ക് ഒരു സന്ദേശം അയക്കാൻ മടിക്കേണ്ടതില്ല."
+   },
+   "review_note_store": {
+      "message": "നിങ്ങളുടെ പ്രതികരണത്തിന് നന്ദി, ദയവായി എക്സ്റ്റൻഷൻ പേജിൽ ഒരു കുറിപ്പ് ചേർക്കാൻ മടിക്കേണ്ട. ഞാൻ അതിന് വളരെ നന്ദിയുള്ളവനാകും 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "ക്യാമറ ആക്സസ് അനുമതി നിഷേധിച്ചു."
+   },
+   "screencast_error": {
+      "message": "റെക്കോർഡിംഗിനിടെ ഒരു പിശക് സംഭവിച്ചു. {പരിഹാരത്തിന് ഇവിടെ ക്ലിക്ക് ചെയ്യുക}."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "ഈ സവിശേഷതയ്ക്ക് നിങ്ങളുടെ Chrome പതിപ്പ് വളരെ പഴയതാണ്. 94.0-ൽ കൂടുതൽ പുതിയ പതിപ്പിലേക്ക് Chrome അപ്ഡേറ്റ് ചെയ്യുക"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "ദയവായി റെക്കോർഡിംഗ് ശരിയായി ഫ്രെയിം ചെയ്യാൻ നിലവിലെ വിൻഡോ (മുഴുവൻ സ്‌ക്രീൻ അല്ല) പങ്കിടുക."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "മൈക്രോഫോൺ ആക്സസ് അനുമതി നിഷേധിച്ചു."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "വീഡിയോ റെക്കോർഡിംഗുകൾ സൗജന്യ പതിപ്പിൽ 5 മിനിറ്റ് വരെ പരിമിതപ്പെടുത്തിയിരിക്കുന്നു."
+   },
+   "screencast_modale_contact": {
+      "message": "ഒരു ബഗ് റിപ്പോർട്ട് ചെയ്യുക, ഒരു മെച്ചപ്പെടുത്തൽ നിർദ്ദേശിക്കുക"
+   },
+   "screencast_modale_copy": {
+      "message": "പകർത്തുക"
+   },
+   "screencast_modale_download_gif": {
+      "message": "എവിടെയും അനുയോജ്യമാണ്, പക്ഷേ കുറഞ്ഞ ഗുണനിലവാരം (ഓപ്ഷൻ സജീവമാക്കിയാൽ സുതാര്യതയോടുകൂടി)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "PowerPoint-നൊപ്പം മികച്ച അനുയോജ്യത, പക്ഷേ സുതാര്യത ഇല്ല"
+   },
+   "screencast_modale_download_webm": {
+      "message": "സ്വതവേയുള്ള WEBM ഫോർമാറ്റിൽ ഡൗൺലോഡ് ചെയ്യുക (ഓപ്ഷൻ സജീവമാക്കിയാൽ സുതാര്യതയോടുകൂടി)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF-ന്റെ പരമാവധി ദൈർഘ്യം 60 സെക്കൻഡാണ്. അതിനപ്പുറം ഫയൽ വളരെ വലുതായിരിക്കും."
+   },
+   "screencast_modale_texte": {
+      "message": "നിങ്ങൾക്ക് ഈ വീഡിയോ വിവിധ ഫോർമാറ്റുകളിൽ ഡൗൺലോഡ് ചെയ്യാനോ അല്ലെങ്കിൽ ഒരു പങ്കിടൽ ലിങ്ക് നേടാനോ കഴിയും."
+   },
+   "screencast_modale_title": {
+      "message": "വീഡിയോ ക്യാപ്ചർ"
+   },
+   "screencast_modale_upload": {
+      "message": "ഒരു പങ്കിടൽ ലിങ്ക് നേടുക"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "വീഡിയോ ഗുണനിലവാരം ബിറ്റ്റേറ്റ്, fps & റെക്കോർഡിംഗിന്റെ റെസല്യൂഷനെ ബാധിക്കുന്നു. ഗുണനിലവാരം ഉയർന്നതാകുമ്പോൾ ഫയൽ വലുതായിരിക്കും."
+   },
+   "screencast_start_recording": {
+      "message": "റെക്കോർഡിംഗ് ആരംഭിക്കുക"
+   },
+   "screencast_tooltip_device": {
+      "message": "ഉപകരണത്തിന്റെ മാത്രം വീഡിയോ പകർത്തൽ"
+   },
+   "screencast_tooltip_tab": {
+      "message": "ഉപകരണത്തോടൊപ്പം ടാബിന്റെ വീഡിയോ പകർത്തൽ"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "ഒരു ക്യാപ്ചർ സൃഷ്ടിക്കുക"
+   },
+   "screenshot_editor_arrow": {
+      "message": "ഒരു അമ്പ് വരയ്ക്കുക"
+   },
+   "screenshot_editor_close": {
+      "message": "എഡിറ്റർ അടയ്ക്കുക"
+   },
+   "screenshot_editor_color": {
+      "message": "വരിയുടെ നിറം"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "ഒരു വൃത്തം വരയ്ക്കുക"
+   },
+   "screenshot_editor_line": {
+      "message": "ഒരു വരി വരയ്ക്കുക"
+   },
+   "screenshot_editor_pen": {
+      "message": "സ്വതന്ത്ര വരയ്ക്കൽ"
+   },
+   "screenshot_editor_rect": {
+      "message": "ഒരു ചതുരം വരയ്ക്കുക"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "വരിയുടെ കനം"
+   },
+   "screenshot_editor_undo": {
+      "message": "അവസാന പ്രവർത്തി റദ്ദാക്കുക"
+   },
+   "screenshot_menu_1": {
+      "message": "ഉപകരണത്തോടൊപ്പം പകർത്തുക"
+   },
+   "screenshot_menu_2": {
+      "message": "സൈറ്റ് മാത്രം ക്യാപ്ചർ"
+   },
+   "screenshot_menu_3": {
+      "message": "പൂർണ്ണ പേജ് ക്യാപ്ചർ"
+   },
+   "screenshot_menu_4": {
+      "message": "പൂർണ്ണ ടാബ് ക്യാപ്ചർ"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "പേജിന്റെ അവസാനം എത്തുന്നതിന് മുമ്പ് നിർത്തുക"
+   },
+   "screenshot_modale_copy": {
+      "message": "ചിത്രം ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തുക"
+   },
+   "screenshot_modale_download_png": {
+      "message": "PNG ഫോർമാറ്റിൽ ഡൗൺലോഡ് ചെയ്യുക (സംകീർണ്ണത ഇല്ല)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "WEBP ഫോർമാറ്റിൽ ഡൗൺലോഡ് ചെയ്യുക, എവിടെയും അനുയോജ്യമാണ്, ഒപ്റ്റിമൈസ്ഡ് കംപ്രഷൻ (ശുപാർശ ചെയ്യുന്നു)"
+   },
+   "screenshot_modale_edit": {
+      "message": "ക്യാപ്ചർ എഡിറ്റ് ചെയ്യുക"
+   },
+   "screenshot_modale_help": {
+      "message": "ചിത്രം വലിയ ഫോർമാറ്റിൽ സംരക്ഷിക്കാൻ, അതിൽ റൈറ്റ് ക്ലിക്ക് ചെയ്ത് \"ചിത്രം പകർത്തുക\" അല്ലെങ്കിൽ \"സംരക്ഷിക്കുക\" തിരഞ്ഞെടുക്കുക."
+   },
+   "screenshot_modale_title": {
+      "message": "സ്ക്രീൻഷോട്ട്"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "സന്ദർഭം"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "ചില സാങ്കേതിക പരിമിതികൾ കാരണം, സ്ക്രീൻഷോട്ട് എടുക്കുമ്പോൾ നിങ്ങൾക്ക് ഈ പിശക് സന്ദേശം ലഭിക്കാം."
+   },
+   "screenshot_workaround_solution": {
+      "message": "പരിഹാരം"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "ഈ സാഹചര്യത്തിൽ, സ്ക്രീൻഷോട്ട് ആരംഭിക്കാൻ, പേജിലെ എവിടെയെങ്കിലും റൈറ്റ് ക്ലിക്ക് ചെയ്ത് \"മൊബൈൽ സിമുലേറ്റർ\" എന്ന എൻട്രി തിരഞ്ഞെടുക്കുക, തുടർന്ന് \"📷 സ്ക്രീൻഷോട്ട് എടുക്കുക\"."
+   },
+   "screenshot_workaround_title": {
+      "message": "സ്ക്രീൻഷോട്ട് പരിഹാരം"
+   },
+   "see_less": {
+      "message": "കുറച്ച് കാണുക"
+   },
+   "see_more": {
+      "message": "കൂടുതൽ കാണുക"
+   },
+   "select": {
+      "message": "തിരഞ്ഞെടുക്കുക..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "PRO പതിപ്പ് അൺലോക്ക് ചെയ്യാൻ സൈൻ അപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ നിങ്ങൾക്ക് ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടെങ്കിൽ ലോഗിൻ ചെയ്യുക."
+   },
+   "settings_account_cta_title": {
+      "message": "നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് പ്രവേശിക്കുക"
+   },
+   "settings_account_greeting": {
+      "message": "ഹലോ $1,"
+   },
+   "settings_batterie_level": {
+      "message": "ഉപകരണത്തിന്റെ ഹെഡറിൽ ബാറ്ററി നില (%)"
+   },
+   "settings_camera": {
+      "message": "ക്യാമറ"
+   },
+   "settings_change_analytics": {
+      "message": "100% അനാമദായവും വ്യക്തിപരമല്ലാത്തതുമായ ഉപയോക്തൃ ഡാറ്റ പങ്കുവച്ച് വികസകനെ വിപുലീകരണം മെച്ചപ്പെടുത്താൻ സഹായിക്കുക."
+   },
+   "settings_change_background": {
+      "message": "പശ്ചാത്തല നിറം മാറ്റുക"
+   },
+   "settings_change_cursor": {
+      "message": "ടച്ച് സ്ക്രോൾ & മൊബൈൽ കർസർ പ്രദർശനം"
+   },
+   "settings_countdown": {
+      "message": "കൗണ്ട്ഡൗൺ (സെക്കൻഡുകൾ)"
+   },
+   "settings_default_device": {
+      "message": "ഓരോ സജീവമാക്കലിലും സ്വതവേയുള്ള ടെർമിനൽ"
+   },
+   "settings_default_device_placeholder": {
+      "message": "ഒരു ഉപകരണം തിരഞ്ഞെടുക്കുക"
+   },
+   "settings_device_default_url": {
+      "message": "ഉപകരണത്തിൽ പ്രദർശിപ്പിക്കുന്ന URL മാറ്റുക"
+   },
+   "settings_device_forced_time": {
+      "message": "ഉപകരണത്തിൽ പ്രദർശിപ്പിക്കുന്ന സമയം നിർബന്ധിക്കുക"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "നിലവിലെ സമയത്തേക്ക് മടങ്ങുക"
+   },
+   "settings_device_hide": {
+      "message": "ഉപകരണത്തിന്റെ ഫ്രെയിം കാണിക്കുക"
+   },
+   "settings_fullscreen": {
+      "message": "ഉപകരണത്തിൽ പൂർണ്ണസ്ക്രീൻ സൈറ്റ്"
+   },
+   "settings_h2_customization": {
+      "message": "ഇഷ്‌ടാനുസൃതമാക്കൽ"
+   },
+   "settings_h2_device": {
+      "message": "ഉപകരണം"
+   },
+   "settings_h2_display": {
+      "message": "ആഗോള പ്രദർശനം"
+   },
+   "settings_h2_global": {
+      "message": "പൊതു"
+   },
+   "settings_h2_multiwindow": {
+      "message": "മൾട്ടി-വിൻഡോ മോഡ്"
+   },
+   "settings_h2_pwa": {
+      "message": "പി.ഡബ്ല്യു.എ"
+   },
+   "settings_hide_header_footer": {
+      "message": "ഉപകരണത്തിന്റെ ബ്രൗസർ ഇന്റർഫേസ് (വിലാസ ബാർ, മുതലായവ) മറയ്ക്കുക"
+   },
+   "settings_hide_keyboard": {
+      "message": "ടൈപ്പുചെയ്യുമ്പോൾ കീബോർഡ് പ്രത്യക്ഷപ്പെടുന്നത് അനുകരിക്കുക"
+   },
+   "settings_login_button": {
+      "message": "ലോഗിൻ ചെയ്യുക"
+   },
+   "settings_microphone": {
+      "message": "മൈക്രോഫോൺ"
+   },
+   "settings_nav_account": {
+      "message": "അക്കൗണ്ട്"
+   },
+   "settings_nav_appearance": {
+      "message": "ആകൃതി"
+   },
+   "settings_nav_device": {
+      "message": "ഉപകരണം"
+   },
+   "settings_os_display": {
+      "message": "ഓ.എസ്. പ്രദർശനം"
+   },
+   "settings_os_display_full_desc": {
+      "message": "ഓ.എസ്. സ്റ്റാറ്റസ് ബാറും ബ്രൗസറും (വിലാസ ബാർ) പ്രദർശിപ്പിക്കുന്നു."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "ബ്രൗസർ മറയ്ക്കുന്നു, പക്ഷേ ഓ.എസ്. സ്റ്റാറ്റസ് ബാർ നിലനിർത്തുന്നു."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "ഓ.എസ്. സ്റ്റാറ്റസ് ബാറും ബ്രൗസറും മറയ്ക്കുന്നു."
+   },
+   "settings_presenter_mode": {
+      "message": "പ്രസന്റേഷൻ മോഡ് (വലത് മെനു മാത്രം ഹോവർ ചെയ്യുമ്പോൾ ദൃശ്യമാകും)"
+   },
+   "settings_pro_account": {
+      "message": "എന്റെ സബ്സ്ക്രിപ്ഷൻ മാനേജ് ചെയ്യുക"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ അവസാനിക്കും"
+   },
+   "settings_pro_account_past_due": {
+      "message": "നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ പുതുക്കൽ പരാജയപ്പെട്ടു. PRO പതിപ്പ് നിലനിർത്താൻ നിങ്ങളുടെ പേയ്മെന്റ് വിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "എന്റെ സബ്സ്ക്രിപ്ഷൻ വീണ്ടും സജീവമാക്കുക"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "മൊബൈൽ ആപ്ലിക്കേഷനായി PWAകൾ സ്വയമേവ കണ്ടെത്തി പ്രദർശിപ്പിക്കുക."
+   },
+   "settings_scrollbar_show": {
+      "message": "ഉപകരണത്തിൽ സ്വാഭാവിക സ്ക്രോൾബാർ പ്രദർശിപ്പിക്കുക"
+   },
+   "settings_shortcuts": {
+      "message": "കീബോർഡ് ഷോർട്ട്കട്ടുകൾ നിർവ്വചിക്കുക"
+   },
+   "settings_signup_button": {
+      "message": "സൈൻ അപ്പ് ചെയ്യുക"
+   },
+   "settings_subscribe": {
+      "message": "PRO പതിപ്പ് അൺലോക്ക് ചെയ്യുക"
+   },
+   "settings_subscribe_button": {
+      "message": "സബ്സ്ക്രൈബ് ചെയ്യുക"
+   },
+   "settings_sync_events": {
+      "message": "വിൻഡോകളിൽ ഇടയ്ക്കുള്ള സംഭവങ്ങൾ സമന്വയിപ്പിക്കുക (ക്ലിക്ക്, സ്ക്രോൾ, മുതലായവ)"
+   },
+   "settings_theme": {
+      "message": "തീം"
+   },
+   "settings_theme_auto": {
+      "message": "ഓട്ടോ"
+   },
+   "settings_theme_dark": {
+      "message": "ഇരുണ്ടത്"
+   },
+   "settings_theme_light": {
+      "message": "വെളിച്ചം"
+   },
+   "settings_title": {
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "settings_transparent_background": {
+      "message": "സുതാര്യ പശ്ചാത്തലം"
+   },
+   "settings_transparent_background_info": {
+      "message": "ഈ ഓപ്ഷൻ കൂടുതൽ കണക്കുകൾ ഉൾക്കൊള്ളുന്നു, അതിനാൽ നിങ്ങളുടെ കമ്പ്യൂട്ടറിനെ ആശ്രയിച്ച് പ്രദർശനത്തിൽ ഒരു സാധ്യതയുള്ള മന്ദഗതിയുണ്ടാകും (WEBM, GIF ഫോർമാറ്റുകളുമായി മാത്രമേ അനുയോജ്യമാകൂ)"
+   },
+   "settings_video_quality": {
+      "message": "വീഡിയോ ഗുണനിലവാരം"
+   },
+   "settings_video_quality_high": {
+      "message": "അത്യുത്തമം"
+   },
+   "settings_video_quality_low": {
+      "message": "മധ്യസ്ഥം"
+   },
+   "settings_video_quality_medium": {
+      "message": "നല്ലത്"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "ഈ മൊബൈൽ സിമുലേറ്റർ നിങ്ങൾക്ക് ഉപകാരപ്പെടുന്നുണ്ടോ?"
+   },
+   "sharing_h2": {
+      "message": "അപ്പോൾ അത് നിങ്ങളുടെ സഹപ്രവർത്തകരോടോ സുഹൃത്തുക്കളോടോ പങ്കിടുക"
+   },
+   "sharing_review_1": {
+      "message": "നിങ്ങൾക്ക് ഒരു മിനിറ്റ് സമയം ഉണ്ടെങ്കിൽ"
+   },
+   "sharing_review_2": {
+      "message": "ഒരു അവലോകനം ചേർക്കുക"
+   },
+   "sharing_review_3": {
+      "message": "അവിടെ അത് കേക്ക് മുകളിൽ ചേരുന്ന ചേരുവയാണ്! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "ഞാൻ ഒരു അവലോകനം ചേർക്കുന്നു"
+   },
+   "sharing_txt": {
+      "message": "മൊബൈൽ & ടാബ്ലറ്റിൽ നിങ്ങളുടെ സൈറ്റ് ടെസ്റ്റ് ചെയ്യാൻ സിമുലേറ്റർ"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "ഇത് വെറും ഒരു ചിത്രം മാത്രമാണ്. നിങ്ങളുടെ സ്വന്തം കീബോർഡ് ഉപയോഗിക്കുക."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 അതിന്റെ പേജുകൾ മറ്റൊരു പേജിനുള്ളിൽ പ്രദർശിപ്പിക്കുന്നത് അനുവദിക്കുന്നില്ല: സൈറ്റ് Firefox-ൽ അനുകരിക്കാനാവില്ല."
+   },
+   "simulator_header_info": {
+      "message": "ഇത് വെറും ഒരു ചിത്രം മാത്രമാണ്. URL മാറ്റാൻ മുകളിൽ Chrome ഫീൽഡ് ഉപയോഗിക്കുക."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> ടാബ്ലറ്റുകൾ"
+   },
+   "try_it": {
+      "message": "ഇപ്പോൾ പരീക്ഷിക്കുക"
+   },
+   "update_4_14_5_description": {
+      "message": "സ്ക്രീൻഷോട്ടുകളുടെ റെസല്യൂഷനും ഗുണനിലവാരവും ഗണ്യമായി മെച്ചപ്പെടുത്തി."
+   },
+   "update_4_14_5_title": {
+      "message": "കൂടുതൽ തിളക്കമുള്ള സ്ക്രീൻഷോട്ടുകൾ"
+   },
+   "update_4_15_0_description": {
+      "message": "സ്മാർട്ട്ഫോണുകളിലും ടാബ്ലറ്റുകളിലും ടച്ച് സ്ക്രോൾ പ്രാപ്തമാക്കുക."
+   },
+   "update_4_15_0_title": {
+      "message": "ടച്ച് സ്ക്രോൾ"
+   },
+   "update_4_15_5_description": {
+      "message": "പ്രാദേശിക ഫയലുകളിൽ പൂർണ്ണ പേജ് സ്ക്രീൻഷോട്ടുകൾ, iOS 26-ൽ (vh, dhv, lvh, svh) ഡിസ്പ്ലേ യൂണിറ്റുകളുടെ പരിഹാരങ്ങൾ."
+   },
+   "update_4_15_5_title": {
+      "message": "പരിഹാരങ്ങൾ"
+   },
+   "update_4_16_0_description": {
+      "message": "നിങ്ങൾക്ക് ഇപ്പോൾ പ്രത്യേകമായ അളവുകളുള്ള നിങ്ങളുടെ സ്വന്തം ഉപകരണങ്ങൾ ചേർക്കാം."
+   },
+   "update_4_16_0_title": {
+      "message": "ഇഷ്ടാനുസൃത ഉപകരണങ്ങൾ"
+   },
+   "update_4_17_0_description": {
+      "message": "ഒരേ സമയം നിരവധി ഉപകരണങ്ങളെ ഒപ്പം ഒപ്പം താരതമ്യം ചെയ്യുക. ക്ലിക്കുകൾ, സ്ക്രോൾ, കീബോർഡ് എന്നിവ സിങ്ക്രണൈസ് ചെയ്യപ്പെടുന്നു."
+   },
+   "update_4_17_0_title": {
+      "message": "ഉപകരണങ്ങളുടെ താരതമ്യം"
+   },
+   "update_4_19_0_description": {
+      "message": "3 Google Pixel 10 മോഡലുകൾ, Motorola Razr 70 Ultra, Infinix Hot 70, Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 പുതിയ ആൻഡ്രോയിഡ് ഉപകരണങ്ങൾ"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max, കൂടാതെ മടക്കാവുന്ന iPhone Duo, മടക്കിയതും നീട്ടിയതുമായ പതിപ്പുകളിൽ."
+   },
+   "update_4_21_0_title": {
+      "message": "4 പുതിയ iPhoneകൾ"
+   },
+   "update_tag_feature": {
+      "message": "സവിശേഷത"
+   },
+   "update_tag_fix": {
+      "message": "പരിഹാരം"
+   },
+   "update_tag_improvement": {
+      "message": "മെച്ചപ്പെടുത്തൽ"
+   },
+   "update_tag_new": {
+      "message": "പുതിയത്"
+   }
+}

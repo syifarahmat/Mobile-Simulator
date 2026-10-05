@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> ஆண்ட்ராய்டு போன்கள்"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> ஆப்பிள் போன்கள்"
+   },
+   "button_feedback": {
+      "message": "ஒரு மதிப்பீட்டைச் சேர்க்கவும்"
+   },
+   "button_message": {
+      "message": "எங்களுக்கு ஒரு செய்தியை அனுப்பவும்"
+   },
+   "close": {
+      "message": "மூடு"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "சாதனத்தின் பெயர்"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+   },
+   "contact_title": {
+      "message": "நீங்கள் தேடும் சாதனம் பட்டியலில் இல்லை? எங்களுக்கு தெரிவிக்கவும்!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "இந்த தாவலில் மொபைல் காட்சியை செயல்படுத்தவும்"
+   },
+   "copied": {
+      "message": "நகலெடுக்கப்பட்டது"
+   },
+   "custom_device_add": {
+      "message": "தனிப்பயன் சாதனத்தைச் சேர்க்கவும்"
+   },
+   "custom_device_dpr": {
+      "message": "சாதன பிக்சல் விகிதம்"
+   },
+   "custom_device_error_name": {
+      "message": "சாதனத்தின் பெயர் தேவை."
+   },
+   "custom_device_error_os": {
+      "message": "இயங்கு தளம் தேவை."
+   },
+   "custom_device_error_ua": {
+      "message": "பயனர் முகவர் தேவை."
+   },
+   "custom_device_error_viewport": {
+      "message": "வியூப்போர்ட் அகலம் மற்றும் உயரம் 10 மற்றும் 4096 இடையே இருக்க வேண்டும்."
+   },
+   "custom_device_height": {
+      "message": "வியூப்போர்ட் உயரம் (px)"
+   },
+   "custom_device_less": {
+      "message": "குறைந்த அமைப்புகள்"
+   },
+   "custom_device_more": {
+      "message": "மேலும் அமைப்புகள்"
+   },
+   "custom_device_name": {
+      "message": "சாதனத்தின் பெயர்"
+   },
+   "custom_device_network": {
+      "message": "பிணையம்"
+   },
+   "custom_device_os_name": {
+      "message": "இயங்கு தளம்"
+   },
+   "custom_device_os_version": {
+      "message": "OS பதிப்பு"
+   },
+   "custom_device_submit": {
+      "message": "சேர்க்கவும்"
+   },
+   "custom_device_title": {
+      "message": "தனிப்பயன் சாதனத்தைச் சேர்க்கவும்"
+   },
+   "custom_device_ua": {
+      "message": "பயனர் முகவர் சரம்"
+   },
+   "custom_device_ua_custom": {
+      "message": "தனிப்பயன் பயனர் முகவர்"
+   },
+   "custom_device_ua_preset": {
+      "message": "பயனர் முகவர்"
+   },
+   "custom_device_width": {
+      "message": "வியூப்போர்ட் அகலம் (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "சாதனத்தின் காட்சி ஏற்ற முடியவில்லை. இது விளம்பரத் தடுப்பி அல்லது உங்கள் நிறுவனத்தின் பாதுகாப்பு கொள்கையால் ஏற்படலாம். சிமுலேட்டர் முழுமையாக பயன்படுத்தக்கூடியதாகவே இருக்கும், மொக்கப் மட்டும் காட்டப்படாது."
+   },
+   "device_mockup_blocked_title": {
+      "message": "சாதனத்தின் மொக்கப் கிடைக்கவில்லை"
+   },
+   "device_variant_folded": {
+      "message": "மடிக்கப்பட்டது"
+   },
+   "device_variant_unfolded": {
+      "message": "விரிக்கப்பட்டது"
+   },
+   "dimensions": {
+      "message": "அளவுகள்"
+   },
+   "error": {
+      "message": "பிழை"
+   },
+   "error_contact": {
+      "message": "{பிரச்சனை தொடர்ந்தால் எங்களை தொடர்பு கொள்ளவும்}."
+   },
+   "extDescription": {
+      "message": "போன் சிமுலேட்டர் — 80 க்கும் மேற்பட்ட சாதனங்களில் உங்கள் தளங்களை சோதிக்க மற்றும் முன்னோட்டம் பார்க்க இலவச Chrome நீட்டிப்பு"
+   },
+   "extName": {
+      "message": "மொபைல் போன் சிமுலேட்டர் - பதிலளிக்கக்கூடிய தளத்தை சோதிக்கவும்"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "பதில் அளிக்க வேண்டாம்"
+   },
+   "feedback_company_type": {
+      "message": "உங்கள் நிறுவனத்தின் வகை என்ன?"
+   },
+   "feedback_company_type_agency": {
+      "message": "சிறிய நிறுவனம் (10-49 ஊழியர்கள்)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "சுய தொழிலாளர்"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "மிகப் பெரிய நிறுவனம் / குழு (5000+ ஊழியர்கள்)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "மைக்ரோ-நிறுவனம் (1-9 ஊழியர்கள்)"
+   },
+   "feedback_company_type_pme": {
+      "message": "பெரிய நிறுவனம் (250-4999 ஊழியர்கள்)"
+   },
+   "feedback_company_type_startup": {
+      "message": "நடுத்தர நிறுவனம் (50-249 ஊழியர்கள்)"
+   },
+   "feedback_error_required": {
+      "message": "அனைத்து புலங்களும் காலியாக உள்ளன 🤔"
+   },
+   "feedback_frequency": {
+      "message": "இந்த நீட்சியை நீங்கள் எவ்வளவு அடிக்கடி பயன்படுத்துகிறீர்கள்?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "விருப்பம்"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "வாரத்திற்கு பல முறை"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "தினசரி"
+   },
+   "feedback_frequency_rare": {
+      "message": "அரிதாக"
+   },
+   "feedback_improvements": {
+      "message": "நீங்கள் எந்த மேம்பாடுகளை விரும்புகிறீர்கள்?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "ஒரு யோசனை, ஒரு தடுமாற்றம், ஒரு குறைவு..."
+   },
+   "feedback_profession": {
+      "message": "உங்கள் தொழில்நுட்ப துறை என்ன?"
+   },
+   "feedback_profession_designer": {
+      "message": "டிசைன்"
+   },
+   "feedback_profession_developer": {
+      "message": "டெவலப்மெண்ட்"
+   },
+   "feedback_profession_marketing": {
+      "message": "மார்க்கெட்டிங்"
+   },
+   "feedback_profession_other": {
+      "message": "மற்றவை"
+   },
+   "feedback_profession_product": {
+      "message": "தயாரிப்பு மேலாண்மை"
+   },
+   "feedback_profession_qa": {
+      "message": "சோதனை / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "விற்பனை"
+   },
+   "feedback_submit": {
+      "message": "அனுப்பு"
+   },
+   "feedback_submitted": {
+      "message": "உங்கள் கருத்துக்கு மிகுந்த நன்றி 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRST ஐ உங்களுக்கு மேலும் பயனுள்ளதாக மாற்ற எங்களுக்கு உதவுங்கள் 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "என் தளத்தை சோதிக்க, வாடிக்கையாளர் டெமோக்களை செய்ய..."
+   },
+   "feedback_use_cases": {
+      "message": "நீங்கள் Mobile FIRST ஐ ஏன் பயன்படுத்துகிறீர்கள்?"
+   },
+   "get_pro": {
+      "message": "PRO பதிப்பைப் பெறுங்கள்"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "சமீபத்திய புதுப்பிப்புகள்"
+   },
+   "link": {
+      "message": "இணைப்பு"
+   },
+   "logout_modale_button": {
+      "message": "உள்நுழையவும்"
+   },
+   "logout_modale_message": {
+      "message": "இந்த சாதனம் உங்கள் அனுமதிக்கப்பட்ட டெர்மினல்களில் enää இல்லை. நீங்கள் இந்த அணுகலை கைமுறையாக நீக்கியிருந்தால், புதிய உள்நுழைவு தேவை."
+   },
+   "logout_modale_message2": {
+      "message": "பாதுகாப்பு கருதிய, நீங்கள் உங்கள் கணக்கிலிருந்து தானாகவே வெளியேற்றப்பட்டுள்ளீர்கள். ஆனால் கீழே உள்ள பொத்தானை கிளிக் செய்வதன் மூலம் நீங்கள் மீண்டும் உள்நுழையலாம்."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ உங்கள் சந்தாவை பகிர விரும்புகிறீர்களா? பிறவர்களை அனுமதிக்க, உங்கள் கணக்கின் \"பயனர்கள்\" பிரிவில் அவர்களைச் சேர்க்கவும்."
+   },
+   "logout_modale_title": {
+      "message": "இந்த சாதனத்தில் நீங்கள் தானாகவே வெளியேறிவிட்டீர்கள்"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "தாவலில் காணப்படும் சாதனங்கள்"
+   },
+   "menu_add_window": {
+      "message": "சாளரம் சேர்"
+   },
+   "menu_change_device": {
+      "message": "சாதனத்தை மாற்றவும் அல்லது ஒப்பிடவும்"
+   },
+   "menu_close_alone": {
+      "message": "சிமுலேட்டரை முடக்கு"
+   },
+   "menu_close_window": {
+      "message": "இந்த சாளரத்தை மூடு"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> நீங்கள் தேடும் சாதனம் பட்டியலில் இல்லை? எங்களுக்கு தெரிவிக்கவும்!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;எனது தனிப்பயன் சாதனங்கள்"
+   },
+   "menu_custom_devices_banner": {
+      "message": "உங்கள் சொந்த தனிப்பயன் சாதனங்களைச் சேர்க்கவும்!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "ஒப்பீட்டு முறையை முடக்கு"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "ஒப்பீட்டு முறையை இயக்கவும்"
+   },
+   "menu_extensions": {
+      "message": "எங்கள் பிற Chrome நீட்சிகளை கண்டறியவும்"
+   },
+   "menu_faq_all": {
+      "message": "அனைத்து அடிக்கடி கேட்கப்படும் கேள்விகளைப் பார்க்கவும்"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "தனியுரிமை உலாவலில் சிமுலேட்டரை எப்படி செயல்படுத்துவது?"
+   },
+   "menu_faq_media_queries": {
+      "message": "என் மீடியா கோரிகள் கணக்கில் எடுத்துக்கொள்ளப்படவில்லை"
+   },
+   "menu_faq_scroll": {
+      "message": "சிமுலேட்டரில் ஸ்க்ரோல் செய்ய முடியவில்லை"
+   },
+   "menu_faq_shortcut": {
+      "message": "விசைப்பலகை குறுக்குவழிகளை எப்படி அமைப்பது?"
+   },
+   "menu_faq_subscription": {
+      "message": "என் சந்தா ஏன் வேலை செய்யவில்லை?"
+   },
+   "menu_faq_title": {
+      "message": "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> பிடித்தவை"
+   },
+   "menu_info_device": {
+      "message": "இந்த சாதனத்தின் அம்சங்கள் மற்றும் mockup"
+   },
+   "menu_info_device_features": {
+      "message": "அம்சங்கள் (வியூப்போர்ட் தீர்மானம், முதலியன)"
+   },
+   "menu_info_device_mockup": {
+      "message": "PNG தெளிவான மாக்அப் இலவசம்"
+   },
+   "menu_report": {
+      "message": "பிழையை அறிவிக்கவும்"
+   },
+   "menu_rotate": {
+      "message": "திசையை மாற்று"
+   },
+   "menu_screencast": {
+      "message": "📹 திரை வீடியோ பதிவு செய்யவும்"
+   },
+   "menu_screenshot": {
+      "message": "📷 திரைபிடிப்பு எடுக்கவும்"
+   },
+   "menu_send_improvement": {
+      "message": "மேம்படுத்தல் முன்மொழியவும்"
+   },
+   "menu_send_message": {
+      "message": "உதவி மையம்"
+   },
+   "menu_settings": {
+      "message": "அமைப்பு"
+   },
+   "menu_share": {
+      "message": "ஒரு சகோதரர், நண்பர்,... உடன் பகிரவும்"
+   },
+   "menu_vote_feature": {
+      "message": "நீங்கள் விரும்பும் அம்சங்களுக்கு வாக்களிக்கவும்"
+   },
+   "menu_zoom": {
+      "message": "சாதனத்தில் பூட்டவும்"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "மேலும் அமைப்புகள்"
+   },
+   "new_comparison_feature_h1": {
+      "message": "பல சாதனங்களை ஒப்பிடும் புதிய அம்சத்தை இப்போது கண்டறியுங்கள்!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "ஒரே சாளரத்தில் பல சாதனங்களின் ஒரே நேரத்தில் காட்சியை ஒப்பிடுங்கள். ஸ்க்ரோல், கிளிக்குகள், விசைப்பலகை ஒத்திசைக்கப்பட்டுள்ளன."
+   },
+   "new_video_feature_h1": {
+      "message": "புதிய வீடியோ பிடிப்பு அம்சத்தை இப்போது கண்டறியவும்!"
+   },
+   "new_video_feature_h2": {
+      "message": "மேலும் சிறந்த தரத்தில் பதிவு செய்யவும், புதிய விருப்பங்களுடன் மற்றும் தெளிவான பின்புலத்துடன்"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.14.5\u003C/strong>திரைபிடிப்புகளின் \u003Cstrong>தீர்மானம் மற்றும் தரம்\u003C/strong> இல் குறிப்பிடத்தக்க அதிகரிப்பு \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.15.0\u003C/strong>ஸ்மார்ட்போன்கள் மற்றும் டேப்லெட்களுக்கான \u003Cstrong>டச் ஸ்க்ரோல்\u003C/strong> செயல்படுத்தப்பட்டது \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.15.0\u003C/strong>ஸ்மார்ட்போன்கள் மற்றும் டேப்லெட்களுக்கான \u003Cstrong>தொட்டு ஸ்க்ரோல்\u003C/strong> செயல்படுத்தப்பட்டது."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.15.5\u003C/strong>\u003Cul>\u003Cli>\u003Cstrong>உள்ளூர் கோப்புகள்\u003C/strong> மீது முழு பக்க ஸ்கிரீன்ஷாட் திருத்தம்.\u003C/li>\u003Cli>\u003Cstrong>iOS&nbsp;26\u003C/strong> மீது vh, dhv, lvh, svh அலகுகளின் திருத்தம்.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.16.0\u003C/strong>தனிப்பயன் சாதனங்களை உருவாக்கும் திறன் சேர்க்கப்பட்டது \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>புதுப்பிப்பு v4.17.0\u003C/strong>ஒரே நேரத்தில் பல சாதனங்களை ஒப்பிடும் வசதி சேர்க்கப்பட்டது! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mobile FIRST இல் வரவேற்கிறோம் 👋\u003C/strong>உங்கள் தளங்களை சோதிக்க மற்றும் எளிதாக காண்பிக்க, ஒரு கிளிக்கில் போன்கள், டேப்லெட்கள் மற்றும் கணினிகளை சிமுலேட் செய்யவும்.\u003Cbr>\u003Cbr>\u003Cstrong>மெனு வலது பக்கம் உள்ளது ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "விருப்பத்தேர்வு"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "நிறுவவும்"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "இந்த நீட்சி உங்கள் திரையில் எந்த நிறத்தையும் பிடிக்க அனுமதிக்கிறது."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "நிற தேர்வாளர்"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "ஒரு வலைப்பக்கத்தின் எந்த உரையிலும் பயன்படுத்தப்படும் எழுத்துருவை ஒரு கிளிக்கில் கண்டறியவும்."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "எழுத்துரு கண்டுபிடிப்பாளர்"
+   },
+   "other_extensions_h1": {
+      "message": "எங்கள் புதிய இலவச நீட்சிகளை கண்டறியவும்"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> சிறப்பு"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "விருப்பத்தை செயல்படுத்தவும்"
+   },
+   "popup_activate_local_files_info": {
+      "message": "இந்த சிமுலேட்டர் உள்ளூர் கோப்புகளில் (file:///) இயல்பாக செயல்படுத்த முடியாது, ஆனால் நீங்கள் Chrome அமைப்புகளில் விருப்பத்தை கையேடு மூலம் செயல்படுத்தலாம்."
+   },
+   "popup_site_incompatible": {
+      "message": "இந்த பக்கத்தில் சிமுலேட்டரை செயல்படுத்த முடியாது. வேறு ஒரு தாவலில் முயற்சிக்கவும் அல்லது ஒரு தளத்தில் உலாவி மீண்டும் முயற்சிக்கவும்."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "அனைத்து வீடியோ அமைப்புகள்"
+   },
+   "pro_modale_avantage_2": {
+      "message": "பல சாதனங்களை ஒப்பிடுதல்"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "வருடாந்திரமாக கட்டணம் வசூலிக்கப்படுகிறது"
+   },
+   "pro_modale_button": {
+      "message": "நான் சந்தா செய்கிறேன்"
+   },
+   "pro_modale_from": {
+      "message": "இருந்து"
+   },
+   "pro_modale_h1": {
+      "message": "PRO ஆகுங்கள்"
+   },
+   "pro_modale_h1_ads": {
+      "message": "விளம்பரங்களை அகற்றவும்"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "உங்கள் வீடியோ பிடிப்புகளை GIF மற்றும் MP4 வடிவங்களுக்கு மாற்றவும்"
+   },
+   "pro_modale_h1_devices": {
+      "message": "அனைத்து சாதனங்களையும் சிமுலேட் செய்யவும்"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "உங்கள் பிடிப்புகளைத் திருத்தவும்"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "ஒரே நேரத்தில் இரண்டு அல்லது அதற்கு மேற்பட்ட சாதனங்களை ஒப்பிடுங்கள்"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "அனைத்து வீடியோ பதிவு அமைப்புகளைத் திறக்கவும்"
+   },
+   "pro_modale_h1_settings": {
+      "message": "அனைத்து அமைப்புகளைத் திறக்கவும்"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "வரம்பற்ற திரைபிடிப்புகளை எடுக்கவும்"
+   },
+   "pro_modale_h2": {
+      "message": "PRO ஆகி, இந்த நீட்சியின் மேம்பாட்டிற்கு செயலில் பங்களிக்கவும், அதன் டெவலப்பரை ஆதரிக்கவும்."
+   },
+   "pro_modale_link_1": {
+      "message": "அல்லது"
+   },
+   "pro_modale_link_2": {
+      "message": "நான் உள்நுழைகிறேன்"
+   },
+   "pro_modale_link_3": {
+      "message": "என் சந்தா கணக்கில்"
+   },
+   "pro_modale_recurring_month": {
+      "message": "மாதம்"
+   },
+   "pro_modale_savings": {
+      "message": "சேமிக்கவும்"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "வருடாந்திர"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "மாதாந்திர"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "உங்கள் 7 நாட்கள் இலவச சோதனைக்குப் பிறகு"
+   },
+   "pro_modale_trial_button": {
+      "message": "என் 7 நாட்கள் இலவச சோதனையைத் தொடங்கவும்"
+   },
+   "pro_modale_trial_h1": {
+      "message": "PRO பதிப்பை 7 நாட்கள் இலவசமாக முயற்சிக்கவும்"
+   },
+   "pro_modale_trial_note": {
+      "message": "இன்று எதையும் செலுத்த வேண்டாம் · எந்தவிதப் பிணைப்பும் இல்லை, எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்"
+   },
+   "pro_modale_trial_then": {
+      "message": "பிறகு"
+   },
+   "pro_modale_trial_today": {
+      "message": "இன்று"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "இந்த நீட்சியை நீங்கள் எப்படி மதிப்பீடு செய்வீர்கள்?"
+   },
+   "review_note_feedback": {
+      "message": "உங்கள் கருத்துக்கு நன்றி, இந்த நீட்சியை மேம்படுத்த நாங்கள் ஒரு செய்தியை அனுப்ப தயங்க வேண்டாம்."
+   },
+   "review_note_store": {
+      "message": "உங்கள் கருத்துக்கு நன்றி, நீங்களும் கூடுதலாக ஒரு குறிப்பை நீட்டிப்பு பக்கத்தில் சேர்க்க தயங்க வேண்டாம். நான் மிகவும் நன்றியுடன் இருப்பேன் 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "கேமரா அணுகல் அனுமதி மறுக்கப்பட்டது."
+   },
+   "screencast_error": {
+      "message": "பதிவின் போது பிழை ஏற்பட்டது. {மாற்று வழி}க்கு இங்கே கிளிக் செய்யவும்."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "இந்த அம்சத்திற்கு உங்கள் Chrome பதிப்பு மிகவும் பழமையானது. Chrome ஐ 94.0 க்கு மேல் புதுப்பிக்கவும்"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "சரியான முறையில் பதிவு செய்ய, தற்போதைய சாளரத்தை (முழு திரையையும் அல்ல) பகிரவும்."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "மைக்ரோஃபோன் அணுகல் அனுமதி மறுக்கப்பட்டது."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "இலவச பதிப்பில் வீடியோ பதிவுகள் 5 நிமிடங்களுக்கு மட்டுப்படுத்தப்பட்டுள்ளன."
+   },
+   "screencast_modale_contact": {
+      "message": "பிழையை அறிவிக்கவும், மேம்படுத்தல் முன்மொழியவும்"
+   },
+   "screencast_modale_copy": {
+      "message": "நகலெடுக்கவும்"
+   },
+   "screencast_modale_download_gif": {
+      "message": "எங்கும் இணக்கமானது, ஆனால் குறைந்த தரம் (விருப்பம் செயல்படுத்தப்பட்டால் தெளிவுடன்)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "PowerPoint உடன் சிறந்த இணக்கத்தன்மை, ஆனால் தெளிவில்லை"
+   },
+   "screencast_modale_download_webm": {
+      "message": "இயல்புநிலை WEBM வடிவத்தில் பதிவிறக்கவும் (விருப்பம் செயல்படுத்தப்பட்டால் தெளிவுடன்)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "GIF இன் அதிகபட்ச காலம் 60 விநாடிகள். அதற்கு மேல் கோப்பு மிகவும் பெரியதாக இருக்கும்."
+   },
+   "screencast_modale_texte": {
+      "message": "இந்த வீடியோவை பல வடிவங்களில் பதிவிறக்கம் செய்யலாம் அல்லது பகிரும் இணைப்பைப் பெறலாம்."
+   },
+   "screencast_modale_title": {
+      "message": "வீடியோ பதிவு"
+   },
+   "screencast_modale_upload": {
+      "message": "பகிரும் இணைப்பைப் பெறவும்"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "வீடியோ தரம் பிட்ரேட், fps & பதிவின் தீர்மானத்தை பாதிக்கிறது. தரம் அதிகமாக இருக்கும் போது கோப்பு பெரியதாக இருக்கும்."
+   },
+   "screencast_start_recording": {
+      "message": "பதிவைத் தொடங்கவும்"
+   },
+   "screencast_tooltip_device": {
+      "message": "சாதனத்தின் வீடியோ பதிவு மட்டும்"
+   },
+   "screencast_tooltip_tab": {
+      "message": "சாதனத்துடன் கூகுள் கீற்று வீடியோ பதிவு"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "பிடிப்பை உருவாக்கவும்"
+   },
+   "screenshot_editor_arrow": {
+      "message": "அம்பு வரை"
+   },
+   "screenshot_editor_close": {
+      "message": "திருத்தியை மூடு"
+   },
+   "screenshot_editor_color": {
+      "message": "கோடு நிறம்"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "வட்டம் வரை"
+   },
+   "screenshot_editor_line": {
+      "message": "கோடு வரை"
+   },
+   "screenshot_editor_pen": {
+      "message": "சுதந்திர வரைதல்"
+   },
+   "screenshot_editor_rect": {
+      "message": "சதுரம் வரை"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "கோடு அகலம்"
+   },
+   "screenshot_editor_undo": {
+      "message": "கடைசி செயலியை ரத்து செய்"
+   },
+   "screenshot_menu_1": {
+      "message": "சாதனத்துடன் படம் பிடிக்கவும்"
+   },
+   "screenshot_menu_2": {
+      "message": "தளத்தின் மட்டும் பிடிப்பு"
+   },
+   "screenshot_menu_3": {
+      "message": "முழு பக்கத்தின் பிடிப்பு"
+   },
+   "screenshot_menu_4": {
+      "message": "முழு தாவலின் பிடிப்பு"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "பக்கத்தின் முடிவுக்கு முன் நிறுத்தவும்"
+   },
+   "screenshot_modale_copy": {
+      "message": "படத்தை கிளிப்போர்டில் நகலெடுக்கவும்"
+   },
+   "screenshot_modale_download_png": {
+      "message": "PNG வடிவத்தில் பதிவிறக்கவும் (சுருக்கம் இல்லை)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "WEBP வடிவத்தில் பதிவிறக்கவும், பெரும்பாலும் எங்கும் இணக்கமானது மற்றும் சுருக்கம் மேம்படுத்தப்பட்டது (பரிந்துரைக்கப்படுகிறது)"
+   },
+   "screenshot_modale_edit": {
+      "message": "பிடிப்பை திருத்தவும்"
+   },
+   "screenshot_modale_help": {
+      "message": "படத்தை பெரிய வடிவத்தில் சேமிக்க, அதற்கு வலது கிளிக் செய்து \"படத்தை நகலெடுக்கவும்\" அல்லது \"சேமிக்கவும்\" என்பதைத் தேர்ந்தெடுக்கவும்."
+   },
+   "screenshot_modale_title": {
+      "message": "ஸ்கிரீன் ஷாட்"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "சூழல்"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "சில தொழில்நுட்ப வரம்புகளின் காரணமாக, திரைபிடிப்பு செய்யும்போது, இந்த பிழை செய்தியைப் பெறலாம்."
+   },
+   "screenshot_workaround_solution": {
+      "message": "மாற்று வழி"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "இந்த நிலையில், திரைபிடிப்பை தொடங்க, பக்கத்தில் எங்கும் வலது கிளிக் செய்து, \"மொபைல் சிமுலேட்டர்\" என்பதைத் தேர்ந்தெடுத்து, பின்னர் \"📷 திரைபிடிப்பு எடுக்கவும்\" என்பதைத் தேர்ந்தெடுக்கவும்"
+   },
+   "screenshot_workaround_title": {
+      "message": "திரைபிடிப்பு மாற்று வழி"
+   },
+   "see_less": {
+      "message": "குறைவாகக் காண்க"
+   },
+   "see_more": {
+      "message": "மேலும் காண்க"
+   },
+   "select": {
+      "message": "தேர்ந்தெடுக்கவும்..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "PRO பதிப்பை திறக்க பதிவு செய்யவும், அல்லது ஏற்கனவே ஒரு கணக்கு இருந்தால் உள்நுழைக."
+   },
+   "settings_account_cta_title": {
+      "message": "உங்கள் கணக்கிற்கு அணுகவும்"
+   },
+   "settings_account_greeting": {
+      "message": "வணக்கம் $1,"
+   },
+   "settings_batterie_level": {
+      "message": "சாதனத்தின் தலைப்பில் பேட்டரி நிலை (%)"
+   },
+   "settings_camera": {
+      "message": "கேமரா"
+   },
+   "settings_change_analytics": {
+      "message": "100% அநாமதேய மற்றும் தனிப்பட்ட அல்லாத பயன்பாட்டு தரவுகளை பகிர்ந்து நீட்சியை மேம்படுத்த டெவலப்பருக்கு உதவுங்கள்."
+   },
+   "settings_change_background": {
+      "message": "பின்புல நிறத்தை மாற்றவும்"
+   },
+   "settings_change_cursor": {
+      "message": "தொட்டு ஸ்க்ரோல் & மொபைல் கர்சர் காட்சி"
+   },
+   "settings_countdown": {
+      "message": "கவுண்ட்டவுன் (விநாடிகள்)"
+   },
+   "settings_default_device": {
+      "message": "ஒவ்வொரு செயல்பாட்டிலும் இயல்புநிலை டெர்மினல்"
+   },
+   "settings_default_device_placeholder": {
+      "message": "ஒரு சாதனத்தைத் தேர்ந்தெடுக்கவும்"
+   },
+   "settings_device_default_url": {
+      "message": "சாதனத்தில் காட்டப்படும் URL ஐ மாற்றவும்"
+   },
+   "settings_device_forced_time": {
+      "message": "சாதனத்தில் காட்டப்படும் நேரத்தை கட்டாயமாக்கவும்"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "தற்போதைய நேரத்திற்கு திரும்பவும்"
+   },
+   "settings_device_hide": {
+      "message": "சாதனத்தின் சுருக்கத்தை காட்டு"
+   },
+   "settings_fullscreen": {
+      "message": "சாதனத்தில் முழுத்திரை முறை"
+   },
+   "settings_h2_customization": {
+      "message": "தனிப்பயனாக்கல்"
+   },
+   "settings_h2_device": {
+      "message": "சாதனம்"
+   },
+   "settings_h2_display": {
+      "message": "மொத்த காட்சி"
+   },
+   "settings_h2_global": {
+      "message": "பொது"
+   },
+   "settings_h2_multiwindow": {
+      "message": "பல சாளர முறை"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "சாதனத்தின் உலாவி இடைமுகத்தை மறைக்கவும் (முகவரி பட்டை, முதலியன)"
+   },
+   "settings_hide_keyboard": {
+      "message": "உள்ளீட்டின் போது விசைப்பலகையின் தோற்றத்தை ஒப்பிடு"
+   },
+   "settings_login_button": {
+      "message": "உள்நுழையவும்"
+   },
+   "settings_microphone": {
+      "message": "மைக்ரோஃபோன்"
+   },
+   "settings_nav_account": {
+      "message": "கணக்கு"
+   },
+   "settings_nav_appearance": {
+      "message": "வெளிப்புறம்"
+   },
+   "settings_nav_device": {
+      "message": "சாதனம்"
+   },
+   "settings_os_display": {
+      "message": "OS காட்சி"
+   },
+   "settings_os_display_full_desc": {
+      "message": "OS நிலைப்பட்டை மற்றும் உலாவியை (முகவரி பட்டை) காட்டு."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "உலாவியை மறைக்கிறது ஆனால் OS நிலைப்பட்டையை வைத்திருக்கிறது."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "OS நிலைப்பட்டை மற்றும் உலாவியை மறைக்கிறது."
+   },
+   "settings_presenter_mode": {
+      "message": "வழங்குபவர் முறை (வலது பக்கம் மெனு மட்டும் மிதக்கும் போது காண்பிக்கப்படும்)"
+   },
+   "settings_pro_account": {
+      "message": "என் சந்தாவை நிர்வகிக்கவும்"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "உங்கள் சந்தா முடிவடையும் தேதி"
+   },
+   "settings_pro_account_past_due": {
+      "message": "உங்கள் சந்தா புதுப்பிப்பு தோல்வியடைந்தது. PRO பதிப்பைத் தக்கவைத்துக்கொள்ள உங்கள் கட்டணத் தகவல்களைப் புதுப்பிக்கவும்."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "என் சந்தாவை மீண்டும் செயல்படுத்தவும்"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "தானாகவே PWAகளை கண்டறிந்து மொபைல் பயன்பாடாகக் காட்டு."
+   },
+   "settings_scrollbar_show": {
+      "message": "சாதனத்தில் இயல்புநிலை ஸ்க்ரோல் பட்டியை காட்டு"
+   },
+   "settings_shortcuts": {
+      "message": "விசைப்பலகை குறுக்குவழிகளை அமைக்கவும்"
+   },
+   "settings_signup_button": {
+      "message": "பதிவு செய்யவும்"
+   },
+   "settings_subscribe": {
+      "message": "PRO பதிப்பை திறக்கவும்"
+   },
+   "settings_subscribe_button": {
+      "message": "சந்தா பெறுக"
+   },
+   "settings_sync_events": {
+      "message": "சாளரங்களுக்கு இடையில் நிகழ்வுகளை ஒத்திசைக்கவும் (கிளிக், ஸ்க்ரோல், முதலியன)"
+   },
+   "settings_theme": {
+      "message": "தீம்"
+   },
+   "settings_theme_auto": {
+      "message": "தானியங்கி"
+   },
+   "settings_theme_dark": {
+      "message": "இருள்"
+   },
+   "settings_theme_light": {
+      "message": "ஒளி"
+   },
+   "settings_title": {
+      "message": "அமைப்புகள்"
+   },
+   "settings_transparent_background": {
+      "message": "தெளிவான பின்புலம்"
+   },
+   "settings_transparent_background_info": {
+      "message": "இந்த விருப்பம் அதிக கணக்கீடுகளை உள்ளடக்குகிறது, எனவே உங்கள் கணினியின் செயல்திறனைப் பொறுத்து காட்சி மெதுவாக இருக்கக்கூடும் (WEBM மற்றும் GIF வடிவங்களுடன் மட்டுமே இணக்கமானது)"
+   },
+   "settings_video_quality": {
+      "message": "வீடியோ தரம்"
+   },
+   "settings_video_quality_high": {
+      "message": "சிறந்த"
+   },
+   "settings_video_quality_low": {
+      "message": "மிதமான"
+   },
+   "settings_video_quality_medium": {
+      "message": "நல்ல"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "இந்த மொபைல் சிமுலேட்டர் உங்களுக்கு பயனுள்ளதா?"
+   },
+   "sharing_h2": {
+      "message": "அப்படியானால் அதை உங்கள் சகோதரர்கள் அல்லது நண்பர்களுடன் பகிரவும்"
+   },
+   "sharing_review_1": {
+      "message": "உங்களுக்கு ஒரு நிமிடம் இருந்தால்"
+   },
+   "sharing_review_2": {
+      "message": "ஒரு மதிப்பீட்டைச் சேர்க்கவும்"
+   },
+   "sharing_review_3": {
+      "message": "அப்படியானால் அது கேக் மீது சாக்லேட்! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "நான் ஒரு மதிப்பீட்டைச் சேர்க்கிறேன்"
+   },
+   "sharing_txt": {
+      "message": "மொபைல் மற்றும் டேப்லெட்டில் உங்கள் தளத்தை சோதிக்க சிமுலேட்டர்"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "இது வெறும் படம். உங்கள் சொந்த விசைப்பலகையைப் பயன்படுத்தவும்."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 தனது பக்கங்களை மற்றொரு பக்கத்தின் உள்ளே காட்சிப்படுத்த அனுமதிக்கவில்லை: இந்த தளம் Firefox இல் ஒத்திகை செய்ய முடியாது."
+   },
+   "simulator_header_info": {
+      "message": "இது வெறும் படம். URL ஐ மாற்ற, மேலே உள்ள Chrome புலத்தைப் பயன்படுத்தவும்."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> டேப்லெட்கள்"
+   },
+   "try_it": {
+      "message": "இப்போது முயற்சிக்கவும்"
+   },
+   "update_4_14_5_description": {
+      "message": "திரைப்படங்களின் தீர்மானம் மற்றும் தரத்தை குறிப்பிடத்தக்க முறையில் மேம்படுத்தல்."
+   },
+   "update_4_14_5_title": {
+      "message": "கூர்மையான பிடிப்புகள்"
+   },
+   "update_4_15_0_description": {
+      "message": "ஸ்மார்ட்போன்கள் மற்றும் டேப்லெட்களில் தொட்டு ஸ்க்ரோல் இயக்கம்."
+   },
+   "update_4_15_0_title": {
+      "message": "தொட்டு ஸ்க்ரோல்"
+   },
+   "update_4_15_5_description": {
+      "message": "உள்ளூர் கோப்புகளில் முழு பக்கம் பிடிப்புகள் மற்றும் iOS 26 (vh, dhv, lvh, svh) காட்சிப் பிரிவுகளின் சரி செய்தல்கள்."
+   },
+   "update_4_15_5_title": {
+      "message": "சரி செய்தல்கள்"
+   },
+   "update_4_16_0_description": {
+      "message": "நீங்கள் இப்போது குறிப்பிட்ட பரிமாணங்களுடன் உங்கள் சொந்த சாதனங்களைச் சேர்க்கலாம்."
+   },
+   "update_4_16_0_title": {
+      "message": "தனிப்பயன் சாதனங்கள்"
+   },
+   "update_4_17_0_description": {
+      "message": "பல சாதனங்களை ஒரே நேரத்தில் பக்கம்தோறும் ஒப்பிடுக. கிளிக்குகள், ஸ்க்ரோல்கள் மற்றும் விசைப்பலகை ஒத்திசைக்கப்பட்டுள்ளன."
+   },
+   "update_4_17_0_title": {
+      "message": "சாதனங்களை ஒப்பிடுக"
+   },
+   "update_4_19_0_description": {
+      "message": "3 Google Pixel 10 மாதிரிகள், Motorola Razr 70 Ultra, Infinix Hot 70 மற்றும் Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 புதிய Android சாதனங்கள்"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max மற்றும் மடிக்கக்கூடிய iPhone Duo, மடிக்கப்பட்ட மற்றும் மடிக்காத பதிப்புகளில்."
+   },
+   "update_4_21_0_title": {
+      "message": "4 புதிய iPhones"
+   },
+   "update_tag_feature": {
+      "message": "அம்சம்"
+   },
+   "update_tag_fix": {
+      "message": "சரி செய்தல்"
+   },
+   "update_tag_improvement": {
+      "message": "மேம்பாடு"
+   },
+   "update_tag_new": {
+      "message": "புதியது"
+   }
+}

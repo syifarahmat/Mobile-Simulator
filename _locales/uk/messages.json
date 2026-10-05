@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Телефони Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Телефони Apple"
+   },
+   "button_feedback": {
+      "message": "Додати оцінку"
+   },
+   "button_message": {
+      "message": "Надішліть нам повідомлення"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Назва пристрою"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, тощо."
+   },
+   "contact_title": {
+      "message": "Пристрій, який ви шукаєте, не в списку? Повідомте нам!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Активувати мобільний вигляд на цій вкладці"
+   },
+   "copied": {
+      "message": "Скопійовано"
+   },
+   "custom_device_add": {
+      "message": "Додати користувацький пристрій"
+   },
+   "custom_device_dpr": {
+      "message": "Device pixel ratio"
+   },
+   "custom_device_error_name": {
+      "message": "Назва пристрою є обов'язковою."
+   },
+   "custom_device_error_os": {
+      "message": "Операційна система є обов'язковою."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent є обов'язковим."
+   },
+   "custom_device_error_viewport": {
+      "message": "Ширина та висота viewport повинні бути в межах від 10 до 4096."
+   },
+   "custom_device_height": {
+      "message": "Висота viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Менше налаштувань"
+   },
+   "custom_device_more": {
+      "message": "Більше налаштувань"
+   },
+   "custom_device_name": {
+      "message": "Назва пристрою"
+   },
+   "custom_device_network": {
+      "message": "Мережа"
+   },
+   "custom_device_os_name": {
+      "message": "Операційна система"
+   },
+   "custom_device_os_version": {
+      "message": "Версія ОС"
+   },
+   "custom_device_submit": {
+      "message": "Додати"
+   },
+   "custom_device_title": {
+      "message": "Додати користувацький пристрій"
+   },
+   "custom_device_ua": {
+      "message": "Рядок user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "Користувацький user agent"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Ширина viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Візуалізацію пристрою не вдалося завантажити. Це може бути викликано блокувальником реклами або політикою безпеки вашої компанії. Симулятор залишається повністю функціональним, лише макет не відображається."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Макет пристрою недоступний"
+   },
+   "device_variant_folded": {
+      "message": "Складений"
+   },
+   "device_variant_unfolded": {
+      "message": "Розкладений"
+   },
+   "dimensions": {
+      "message": "Розміри"
+   },
+   "error": {
+      "message": "Помилка"
+   },
+   "error_contact": {
+      "message": "{Зв'яжіться з нами}, якщо проблема залишається."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — безкоштовне розширення Chrome для тестування та попереднього перегляду ваших сайтів на більш ніж 80 пристроях"
+   },
+   "extName": {
+      "message": "Симулятор мобільного телефону - тест сайту на адаптивність"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Не відповідати"
+   },
+   "feedback_company_type": {
+      "message": "Який тип вашої компанії?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Малий бізнес (10-49 співробітників)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Фріланс"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Дуже велика компанія / група (5000+ співробітників)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Мікропідприємство (1-9 співробітників)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Великий бізнес (250-4999 співробітників)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Середній бізнес (50-249 співробітників)"
+   },
+   "feedback_error_required": {
+      "message": "Всі поля порожні 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Як часто ви використовуєте це розширення?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Час від часу"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Кілька разів на тиждень"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Щодня"
+   },
+   "feedback_frequency_rare": {
+      "message": "Рідко"
+   },
+   "feedback_improvements": {
+      "message": "Які покращення ви хотіли б бачити?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Ідея, тертя, відсутність..."
+   },
+   "feedback_profession": {
+      "message": "Який ваш професійний відділ?"
+   },
+   "feedback_profession_designer": {
+      "message": "Дизайн"
+   },
+   "feedback_profession_developer": {
+      "message": "Розробка"
+   },
+   "feedback_profession_marketing": {
+      "message": "Маркетинг"
+   },
+   "feedback_profession_other": {
+      "message": "Інше"
+   },
+   "feedback_profession_product": {
+      "message": "Управління продуктом"
+   },
+   "feedback_profession_qa": {
+      "message": "Тестування / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Продажі"
+   },
+   "feedback_submit": {
+      "message": "Надіслати"
+   },
+   "feedback_submitted": {
+      "message": "Дуже дякуємо за ваш відгук 🤗"
+   },
+   "feedback_title": {
+      "message": "Допоможіть нам зробити Mobile FIRST ще кориснішим для вас 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Тестувати мій сайт, робити демо клієнтам..."
+   },
+   "feedback_use_cases": {
+      "message": "Чому ви використовуєте Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Отримати версію PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Останні оновлення"
+   },
+   "link": {
+      "message": "Посилання"
+   },
+   "logout_modale_button": {
+      "message": "Увійти"
+   },
+   "logout_modale_message": {
+      "message": "Цей пристрій більше не є частиною ваших авторизованих терміналів. Якщо ви видалили цей доступ вручну, необхідно виконати новий вхід."
+   },
+   "logout_modale_message2": {
+      "message": "З міркувань безпеки ви були автоматично відключені від вашого облікового запису. Але ви можете знову увійти, натиснувши кнопку нижче."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Ви хочете поділитися своєю підпискою? Щоб дозволити іншим особам, просто додайте їх у розділі \"Користувачі\" вашого облікового запису."
+   },
+   "logout_modale_title": {
+      "message": "Вас було автоматично відключено на цьому пристрої"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Пристрої, видимі на вкладці"
+   },
+   "menu_add_window": {
+      "message": "Додати вікно"
+   },
+   "menu_change_device": {
+      "message": "Змінити пристрій або порівняти"
+   },
+   "menu_close_alone": {
+      "message": "Вимкнути симулятор"
+   },
+   "menu_close_window": {
+      "message": "Закрити це вікно"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Пристрій, який ви шукаєте, не в списку? Повідомте нам!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Мої користувацькі пристрої"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Додайте власні користувацькі пристрої!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Вимкнути режим порівняння"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Увімкнути режим порівняння"
+   },
+   "menu_extensions": {
+      "message": "Відкрийте для себе наші інші розширення Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Переглянути всі часті питання"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Як активувати симулятор у режимі інкогніто?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Мої медіа-запити не враховуються"
+   },
+   "menu_faq_scroll": {
+      "message": "Неможливо прокрутити в симуляторі"
+   },
+   "menu_faq_shortcut": {
+      "message": "Як налаштувати гарячі клавіші?"
+   },
+   "menu_faq_subscription": {
+      "message": "Чому моя підписка не працює?"
+   },
+   "menu_faq_title": {
+      "message": "Часті питання"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Вибране"
+   },
+   "menu_info_device": {
+      "message": "Характеристики та макет цього пристрою"
+   },
+   "menu_info_device_features": {
+      "message": "Характеристики (роздільна здатність viewport тощо)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Безкоштовний макет у прозорому PNG"
+   },
+   "menu_report": {
+      "message": "Повідомити про помилку"
+   },
+   "menu_rotate": {
+      "message": "Змінити орієнтацію"
+   },
+   "menu_screencast": {
+      "message": "📹 Записати відео з екрану"
+   },
+   "menu_screenshot": {
+      "message": "📷 Зробити скріншот"
+   },
+   "menu_send_improvement": {
+      "message": "Запропонувати покращення"
+   },
+   "menu_send_message": {
+      "message": "Центр допомоги"
+   },
+   "menu_settings": {
+      "message": "Конфігурація"
+   },
+   "menu_share": {
+      "message": "Поділитися з колегою, другом,..."
+   },
+   "menu_vote_feature": {
+      "message": "Голосуйте за функції, які ви хочете"
+   },
+   "menu_zoom": {
+      "message": "Збільшити в пристрої"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Більше налаштувань"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Відкрийте для себе нову функцію порівняння кількох пристроїв прямо зараз!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Порівнюйте одночасне відображення кількох пристроїв в одному вікні. Прокрутка, кліки, клавіатура синхронізовані."
+   },
+   "new_video_feature_h1": {
+      "message": "Відкрийте для себе нову функцію запису відео!"
+   },
+   "new_video_feature_h2": {
+      "message": "Записуйте з кращою якістю, з новими опціями та з прозорим фоном"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.14.5\u003C/strong>Значне підвищення \u003Cstrong>роздільної здатності та якості\u003C/strong> знімків екрану \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.15.0\u003C/strong>Активація \u003Cstrong>сенсорної прокрутки\u003C/strong> для смартфонів та планшетів \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.15.0\u003C/strong>Активація \u003Cstrong>прокрутки дотиком\u003C/strong> для смартфонів і планшетів."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.15.5\u003C/strong>\u003Cul>\u003Cli>Виправлення щодо знімків екрана всієї сторінки на \u003Cstrong>локальних файлах\u003C/strong>.\u003C/li>\u003Cli>Виправлення щодо одиниць vh, dhv, lvh, svh на \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.16.0\u003C/strong>Додано можливість створювати користувацькі пристрої \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Оновлення v4.17.0\u003C/strong>Додано функцію порівняння кількох пристроїв одночасно! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ласкаво просимо до Mobile FIRST 👋\u003C/strong>Симулюйте одним кліком телефони, планшети та комп'ютери для простого тестування та перегляду ваших сайтів.\u003Cbr>\u003Cbr>\u003Cstrong>Меню знаходиться праворуч ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Необов'язково"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Встановити"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Це розширення дозволяє захоплювати будь-який колір на екрані."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Color picker"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Ідентифікуйте шрифт, використаний у будь-якому тексті на веб-сторінці, одним кліком."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Font finder"
+   },
+   "other_extensions_h1": {
+      "message": "Відкрийте для себе наші нові безкоштовні розширення"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Спеціальні"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Активувати опцію"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Цей симулятор не може бути активований за замовчуванням на локальних файлах (file:///), але ви можете вручну активувати цю опцію в налаштуваннях Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Симулятор не може бути активований на цій рідній сторінці вашого браузера. Спробуйте на іншій вкладці або перейдіть на сайт, а потім перезапустіть."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Всі налаштування відео"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Порівняння кількох пристроїв"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Виставляється рахунок щорічно"
+   },
+   "pro_modale_button": {
+      "message": "Я підписуюся"
+   },
+   "pro_modale_from": {
+      "message": "Від"
+   },
+   "pro_modale_h1": {
+      "message": "Станьте PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Видаліть рекламу"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Конвертуйте ваші відеозаписи у формати GIF та MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Симулюйте всі пристрої"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Редагуйте ваші знімки"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Порівнюйте більше двох пристроїв одночасно"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Розблокувати всі налаштування запису відео"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Розблокувати всі налаштування"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Робіть необмежену кількість знімків екрану"
+   },
+   "pro_modale_h2": {
+      "message": "Станьте PRO і активно сприяйте розвитку цього розширення, підтримуючи його розробника."
+   },
+   "pro_modale_link_1": {
+      "message": "Або"
+   },
+   "pro_modale_link_2": {
+      "message": "я входжу"
+   },
+   "pro_modale_link_3": {
+      "message": "в мій обліковий запис підписника"
+   },
+   "pro_modale_recurring_month": {
+      "message": "місяць"
+   },
+   "pro_modale_savings": {
+      "message": "Заощаджуйте"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Щорічно"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Щомісячно"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "після ваших 7 днів безкоштовного пробного періоду"
+   },
+   "pro_modale_trial_button": {
+      "message": "Почати мій 7-денний безкоштовний пробний період"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Спробуйте PRO-версію безкоштовно протягом 7 днів"
+   },
+   "pro_modale_trial_note": {
+      "message": "Нічого не потрібно платити сьогодні · Без зобов'язань, можна скасувати в будь-який час"
+   },
+   "pro_modale_trial_then": {
+      "message": "потім"
+   },
+   "pro_modale_trial_today": {
+      "message": "сьогодні"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Як би ви оцінили це розширення?"
+   },
+   "review_note_feedback": {
+      "message": "Дякуємо за ваш відгук, не соромтеся надіслати нам повідомлення, щоб ми могли покращити це розширення."
+   },
+   "review_note_store": {
+      "message": "Дякуємо за ваш відгук, не соромтеся додати оцінку на сторінці розширення. Я буду вам дуже вдячний 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Доступ до камери заборонено."
+   },
+   "screencast_error": {
+      "message": "Сталася помилка під час запису. {Натисніть тут} для вирішення."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Ваша версія Chrome занадто стара для цієї функції. Оновіть Chrome до версії вище 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Будь ласка, поділіться поточним вікном (а не всім екраном), щоб запис був правильно кадрований."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Доступ до мікрофона заборонено."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Записи відео обмежені до 5 хвилин у безкоштовній версії."
+   },
+   "screencast_modale_contact": {
+      "message": "Повідомити про помилку, запропонувати покращення"
+   },
+   "screencast_modale_copy": {
+      "message": "Копіювати"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Сумісний всюди, але нижча якість (з прозорістю, якщо опція активована)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Краща сумісність з PowerPoint, але без прозорості"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Завантажити у форматі за замовчуванням WEBM (з прозорістю, якщо опція активована)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Максимальна тривалість GIF - 60 секунд. Після цього файл буде занадто великим."
+   },
+   "screencast_modale_texte": {
+      "message": "Ви можете завантажити це відео в різних форматах або отримати посилання для спільного доступу."
+   },
+   "screencast_modale_title": {
+      "message": "Запис відео"
+   },
+   "screencast_modale_upload": {
+      "message": "Отримати посилання для спільного доступу"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Якість відео впливає на бітрейт, fps та роздільну здатність запису. Чим вища якість, тим більший файл."
+   },
+   "screencast_start_recording": {
+      "message": "Почати запис"
+   },
+   "screencast_tooltip_device": {
+      "message": "Запис відео лише з пристрою"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Запис відео вкладки з пристроєм"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Створити знімок"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Намалювати стрілку"
+   },
+   "screenshot_editor_close": {
+      "message": "Закрити редактор"
+   },
+   "screenshot_editor_color": {
+      "message": "Колір лінії"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Намалювати коло"
+   },
+   "screenshot_editor_line": {
+      "message": "Намалювати лінію"
+   },
+   "screenshot_editor_pen": {
+      "message": "Вільний малюнок"
+   },
+   "screenshot_editor_rect": {
+      "message": "Намалювати прямокутник"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Товщина лінії"
+   },
+   "screenshot_editor_undo": {
+      "message": "Скасувати останню дію"
+   },
+   "screenshot_menu_1": {
+      "message": "Знімок з пристроєм"
+   },
+   "screenshot_menu_2": {
+      "message": "Знімок лише сайту"
+   },
+   "screenshot_menu_3": {
+      "message": "Знімок всієї сторінки"
+   },
+   "screenshot_menu_4": {
+      "message": "Знімок всієї вкладки"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Зупинити перед кінцем сторінки"
+   },
+   "screenshot_modale_copy": {
+      "message": "Копіювати зображення в буфер обміну"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Завантажити у форматі PNG (без стиснення)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Завантажити у форматі WEBP, сумісний майже всюди і з оптимізованим стисненням (рекомендовано)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Редагувати знімок"
+   },
+   "screenshot_modale_help": {
+      "message": "Щоб зберегти зображення у великому форматі, просто клацніть правою кнопкою миші на ньому, а потім \"Копіювати зображення\" або \"Зберегти\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Знімок екрану"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Контекст"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Через деякі технічні обмеження можливо, що під час знімка екрану ви отримаєте це повідомлення про помилку."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Обхідне рішення"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "У цьому випадку, щоб запустити знімок, просто клацніть правою кнопкою миші будь-де на сторінці, виберіть пункт «Мобільний симулятор», а потім «📷 Зробити знімок екрану»"
+   },
+   "screenshot_workaround_title": {
+      "message": "Обхідне рішення для знімка екрану"
+   },
+   "see_less": {
+      "message": "Дивитися менше"
+   },
+   "see_more": {
+      "message": "Дивитися більше"
+   },
+   "select": {
+      "message": "Вибрати..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Зареєструйтеся, щоб розблокувати версію PRO, або увійдіть, якщо у вас вже є обліковий запис."
+   },
+   "settings_account_cta_title": {
+      "message": "Увійдіть до свого облікового запису"
+   },
+   "settings_account_greeting": {
+      "message": "Привіт $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Рівень заряду батареї у заголовку пристрою (%)"
+   },
+   "settings_camera": {
+      "message": "Камера"
+   },
+   "settings_change_analytics": {
+      "message": "Допоможіть розробнику покращити розширення, поділившись 100% анонімними та неперсональними даними використання."
+   },
+   "settings_change_background": {
+      "message": "Змінити колір фону"
+   },
+   "settings_change_cursor": {
+      "message": "Прокрутка дотиком і відображення мобільного курсору"
+   },
+   "settings_countdown": {
+      "message": "Зворотний відлік (секунди)"
+   },
+   "settings_default_device": {
+      "message": "Термінал за замовчуванням при кожній активації"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Вибрати пристрій"
+   },
+   "settings_device_default_url": {
+      "message": "Змінити URL, що відображається на пристрої"
+   },
+   "settings_device_forced_time": {
+      "message": "Примусово встановити час на пристрої"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Повернутися до поточного часу"
+   },
+   "settings_device_hide": {
+      "message": "Показати рамку пристрою"
+   },
+   "settings_fullscreen": {
+      "message": "Сайт на весь екран у пристрої"
+   },
+   "settings_h2_customization": {
+      "message": "Налаштування"
+   },
+   "settings_h2_device": {
+      "message": "Пристрій"
+   },
+   "settings_h2_display": {
+      "message": "Глобальне відображення"
+   },
+   "settings_h2_global": {
+      "message": "Загальні"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Режим багатовіконності"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Приховати інтерфейс браузера пристрою (адресний рядок тощо)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Імітувати появу клавіатури під час введення"
+   },
+   "settings_login_button": {
+      "message": "Увійти"
+   },
+   "settings_microphone": {
+      "message": "Мікрофон"
+   },
+   "settings_nav_account": {
+      "message": "Обліковий запис"
+   },
+   "settings_nav_appearance": {
+      "message": "Зовнішній вигляд"
+   },
+   "settings_nav_device": {
+      "message": "Пристрій"
+   },
+   "settings_os_display": {
+      "message": "Відображення ОС"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Відображає рядок стану ОС і браузера (адресний рядок)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Приховує браузер, але зберігає рядок стану ОС."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Приховує рядок стану ОС і браузер."
+   },
+   "settings_presenter_mode": {
+      "message": "Режим презентації (меню справа видно лише при наведенні)"
+   },
+   "settings_pro_account": {
+      "message": "Керувати моєю підпискою"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Ваше підписка закінчиться"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Не вдалося поновити вашу підписку. Будь ласка, оновіть платіжну інформацію, щоб зберегти версію PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Активувати мою підписку знову"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Автоматично виявляти та відображати PWA як мобільний додаток."
+   },
+   "settings_scrollbar_show": {
+      "message": "Показати рідний скролбар у пристрої"
+   },
+   "settings_shortcuts": {
+      "message": "Визначити гарячі клавіші"
+   },
+   "settings_signup_button": {
+      "message": "Зареєструватися"
+   },
+   "settings_subscribe": {
+      "message": "Розблокувати версію PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Підписатися"
+   },
+   "settings_sync_events": {
+      "message": "Синхронізувати події між вікнами (клік, прокрутка тощо)"
+   },
+   "settings_theme": {
+      "message": "Тема"
+   },
+   "settings_theme_auto": {
+      "message": "Авто"
+   },
+   "settings_theme_dark": {
+      "message": "Темна"
+   },
+   "settings_theme_light": {
+      "message": "Світла"
+   },
+   "settings_title": {
+      "message": "Налаштування"
+   },
+   "settings_transparent_background": {
+      "message": "Прозорий фон"
+   },
+   "settings_transparent_background_info": {
+      "message": "Ця опція вимагає більше обчислень і, отже, потенційно може уповільнити відображення в залежності від вашого комп'ютера (сумісна лише з форматами WEBM і GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Якість відео"
+   },
+   "settings_video_quality_high": {
+      "message": "Відмінна"
+   },
+   "settings_video_quality_low": {
+      "message": "Середня"
+   },
+   "settings_video_quality_medium": {
+      "message": "Добра"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Цей мобільний симулятор корисний для вас?"
+   },
+   "sharing_h2": {
+      "message": "Тоді поділіться ним з колегами або друзями"
+   },
+   "sharing_review_1": {
+      "message": "І якщо у вас є хвилина, щоб"
+   },
+   "sharing_review_2": {
+      "message": "додати відгук"
+   },
+   "sharing_review_3": {
+      "message": "тоді це вишенька на торті! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Я додаю відгук"
+   },
+   "sharing_txt": {
+      "message": "Симулятор для тестування вашого сайту на мобільних пристроях і планшетах"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Це просто зображення. Використовуйте власну клавіатуру."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 не дозволяє відображати свої сторінки всередині іншої сторінки: сайт не може бути змодельований у Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Це просто зображення. Щоб змінити URL, використовуйте поле Chrome вище."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Планшети"
+   },
+   "try_it": {
+      "message": "Спробувати зараз"
+   },
+   "update_4_14_5_description": {
+      "message": "Значне покращення роздільної здатності та якості знімків екрана."
+   },
+   "update_4_14_5_title": {
+      "message": "Чіткіші знімки"
+   },
+   "update_4_15_0_description": {
+      "message": "Увімкнення сенсорної прокрутки на смартфонах та планшетах."
+   },
+   "update_4_15_0_title": {
+      "message": "Сенсорна прокрутка"
+   },
+   "update_4_15_5_description": {
+      "message": "Знімки всієї сторінки на локальних файлах та виправлення одиниць відображення на iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Виправлення"
+   },
+   "update_4_16_0_description": {
+      "message": "Тепер ви можете додавати власні пристрої з конкретними розмірами."
+   },
+   "update_4_16_0_title": {
+      "message": "Користувацькі пристрої"
+   },
+   "update_4_17_0_description": {
+      "message": "Порівнюйте кілька пристроїв поруч одночасно. Кліки, прокрутка та клавіатура синхронізовані."
+   },
+   "update_4_17_0_title": {
+      "message": "Порівняння пристроїв"
+   },
+   "update_4_19_0_description": {
+      "message": "3 моделі Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 та Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 нових пристроїв Android"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max та складаний iPhone Duo, у складеному та розкладеному вигляді."
+   },
+   "update_4_21_0_title": {
+      "message": "4 нових iPhone"
+   },
+   "update_tag_feature": {
+      "message": "ФУНКЦІЯ"
+   },
+   "update_tag_fix": {
+      "message": "ВИПРАВЛЕННЯ"
+   },
+   "update_tag_improvement": {
+      "message": "ПОКРАЩЕННЯ"
+   },
+   "update_tag_new": {
+      "message": "НОВИНКА"
+   }
+}

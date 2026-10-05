@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android tālruņi"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple tālruņi"
+   },
+   "button_feedback": {
+      "message": "Pievienot vērtējumu"
+   },
+   "button_message": {
+      "message": "Nosūtiet mums ziņu"
+   },
+   "close": {
+      "message": "Aizvērt"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Ierīces nosaukums"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, utt."
+   },
+   "contact_title": {
+      "message": "Ierīce, kuru meklējat, nav sarakstā? Paziņojiet mums!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktivizēt mobilo skatu šajā cilnē"
+   },
+   "copied": {
+      "message": "Kopēts"
+   },
+   "custom_device_add": {
+      "message": "Pievienot pielāgotu ierīci"
+   },
+   "custom_device_dpr": {
+      "message": "Ierīces pikseļu attiecība"
+   },
+   "custom_device_error_name": {
+      "message": "Ierīces nosaukums ir obligāts."
+   },
+   "custom_device_error_os": {
+      "message": "Operētājsistēma ir obligāta."
+   },
+   "custom_device_error_ua": {
+      "message": "Lietotāja aģents ir obligāts."
+   },
+   "custom_device_error_viewport": {
+      "message": "Skata loga platumam un augstumam jābūt no 10 līdz 4096."
+   },
+   "custom_device_height": {
+      "message": "Skata loga augstums (px)"
+   },
+   "custom_device_less": {
+      "message": "Mazāk iestatījumu"
+   },
+   "custom_device_more": {
+      "message": "Vairāk iestatījumu"
+   },
+   "custom_device_name": {
+      "message": "Ierīces nosaukums"
+   },
+   "custom_device_network": {
+      "message": "Tīkls"
+   },
+   "custom_device_os_name": {
+      "message": "Operētājsistēma"
+   },
+   "custom_device_os_version": {
+      "message": "OS versija"
+   },
+   "custom_device_submit": {
+      "message": "Pievienot"
+   },
+   "custom_device_title": {
+      "message": "Pievienot pielāgotu ierīci"
+   },
+   "custom_device_ua": {
+      "message": "Lietotāja aģenta ķēde"
+   },
+   "custom_device_ua_custom": {
+      "message": "Pielāgots lietotāja aģents"
+   },
+   "custom_device_ua_preset": {
+      "message": "Lietotāja aģents"
+   },
+   "custom_device_width": {
+      "message": "Skata loga platums (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Ierīces vizuālo attēlu nevarēja ielādēt. Tas var būt saistīts ar reklāmu bloķētāju vai jūsu uzņēmuma drošības politiku. Simulators joprojām ir pilnībā izmantojams, tikai makets netiek parādīts."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Ierīces makets nav pieejams"
+   },
+   "device_variant_folded": {
+      "message": "Salocīts"
+   },
+   "device_variant_unfolded": {
+      "message": "Izlocīts"
+   },
+   "dimensions": {
+      "message": "Izmēri"
+   },
+   "error": {
+      "message": "Kļūda"
+   },
+   "error_contact": {
+      "message": "{Lūdzu, sazinieties ar mums}, ja problēma saglabājas."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — bezmaksas Chrome paplašinājums, lai pārbaudītu un priekšskatītu jūsu vietnes vairāk nekā 80 ierīcēs"
+   },
+   "extName": {
+      "message": "Mobilā tālruņa simulators - pārbaudiet atsaucīgu vietni"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Neatbildēt"
+   },
+   "feedback_company_type": {
+      "message": "Kāda ir jūsu uzņēmuma veids?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Mazs uzņēmums (10-49 darbinieki)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Neatkarīgais"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Ļoti liels uzņēmums / grupa (5000+ darbinieki)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikrouzņēmums (1-9 darbinieki)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Liels uzņēmums (250-4999 darbinieki)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Vidējs uzņēmums (50-249 darbinieki)"
+   },
+   "feedback_error_required": {
+      "message": "Visi lauki ir tukši 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Cik bieži jūs izmantojat šo paplašinājumu?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Gadījuma"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Vairākas reizes nedēļā"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Ikdienas"
+   },
+   "feedback_frequency_rare": {
+      "message": "Reti"
+   },
+   "feedback_improvements": {
+      "message": "Kādus uzlabojumus jūs vēlētos redzēt?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Ideja, berze, trūkums..."
+   },
+   "feedback_profession": {
+      "message": "Kāda ir jūsu profesionālā nodaļa?"
+   },
+   "feedback_profession_designer": {
+      "message": "Dizains"
+   },
+   "feedback_profession_developer": {
+      "message": "Izstrāde"
+   },
+   "feedback_profession_marketing": {
+      "message": "Mārketings"
+   },
+   "feedback_profession_other": {
+      "message": "Cits"
+   },
+   "feedback_profession_product": {
+      "message": "Produktu vadība"
+   },
+   "feedback_profession_qa": {
+      "message": "Testēšana / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Pārdošana"
+   },
+   "feedback_submit": {
+      "message": "Nosūtīt"
+   },
+   "feedback_submitted": {
+      "message": "Liels paldies par jūsu atsauksmi 🤗"
+   },
+   "feedback_title": {
+      "message": "Palīdziet mums padarīt Mobile FIRST vēl noderīgāku jums 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Pārbaudīt manu vietni, veikt klientu demonstrācijas..."
+   },
+   "feedback_use_cases": {
+      "message": "Kāpēc jūs izmantojat Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Iegūt PRO versiju"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Jaunākie atjauninājumi"
+   },
+   "link": {
+      "message": "Saite"
+   },
+   "logout_modale_button": {
+      "message": "Pieteikties"
+   },
+   "logout_modale_message": {
+      "message": "Šī ierīce vairs nav jūsu atļauto ierīču sarakstā. Ja jūs manuāli noņēmāt šo piekļuvi, nepieciešama jauna pieteikšanās."
+   },
+   "logout_modale_message2": {
+      "message": "Drošības nolūkos jūs automātiski tika izrakstīts no sava konta. Bet jūs varat atkārtoti pieteikties, noklikšķinot uz pogas zemāk."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Vai vēlaties dalīties ar savu abonementu? Lai atļautu citiem cilvēkiem, vienkārši pievienojiet tos no sava konta sadaļas \"Lietotāji\"."
+   },
+   "logout_modale_title": {
+      "message": "Jūs esat automātiski atvienots no šīs ierīces"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Ierīces redzamas cilnē"
+   },
+   "menu_add_window": {
+      "message": "Pievienot logu"
+   },
+   "menu_change_device": {
+      "message": "Mainīt ierīci vai salīdzināt"
+   },
+   "menu_close_alone": {
+      "message": "Atspējot simulatoru"
+   },
+   "menu_close_window": {
+      "message": "Aizvērt šo logu"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Ierīce, kuru meklējat, nav sarakstā? Paziņojiet mums!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Manas pielāgotās ierīces"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Pievienojiet savas pielāgotās ierīces!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Atspējot salīdzināšanas režīmu"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Iespējot salīdzināšanas režīmu"
+   },
+   "menu_extensions": {
+      "message": "Atklājiet mūsu citas Chrome paplašinājumus"
+   },
+   "menu_faq_all": {
+      "message": "Skatīt visus biežāk uzdotos jautājumus"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Kā aktivizēt simulatoru privātajā pārlūkošanā?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Mani mediju vaicājumi netiek ņemti vērā"
+   },
+   "menu_faq_scroll": {
+      "message": "Nevar ritināt simulatorā"
+   },
+   "menu_faq_shortcut": {
+      "message": "Kā iestatīt tastatūras īsceļus?"
+   },
+   "menu_faq_subscription": {
+      "message": "Kāpēc mans abonements nedarbojas?"
+   },
+   "menu_faq_title": {
+      "message": "Biežāk uzdotie jautājumi"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Izlase"
+   },
+   "menu_info_device": {
+      "message": "Šīs ierīces īpašības un makets"
+   },
+   "menu_info_device_features": {
+      "message": "Īpašības (skatloga izšķirtspēja utt.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Bezmaksas makets caurspīdīgā PNG formātā"
+   },
+   "menu_report": {
+      "message": "Ziņot par kļūdu"
+   },
+   "menu_rotate": {
+      "message": "Mainīt orientāciju"
+   },
+   "menu_screencast": {
+      "message": "📹 Ierakstīt ekrāna video"
+   },
+   "menu_screenshot": {
+      "message": "📷 Veikt ekrānuzņēmumu"
+   },
+   "menu_send_improvement": {
+      "message": "Ieteikt uzlabojumu"
+   },
+   "menu_send_message": {
+      "message": "Palīdzības centrs"
+   },
+   "menu_settings": {
+      "message": "Konfigurācija"
+   },
+   "menu_share": {
+      "message": "Dalīties ar kolēģi, draugu,..."
+   },
+   "menu_vote_feature": {
+      "message": "Balsot par funkcijām, kuras vēlaties"
+   },
+   "menu_zoom": {
+      "message": "Pietuvināt ierīcē"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Vairāk iestatījumu"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Atklājiet jauno vairāku ierīču salīdzināšanas funkciju jau tagad!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Salīdziniet vairāku ierīču vienlaicīgu attēlojumu vienā logā. Ritināšana, klikšķi, tastatūra sinhronizēti."
+   },
+   "new_video_feature_h1": {
+      "message": "Atklājiet jauno video ierakstīšanas funkciju!"
+   },
+   "new_video_feature_h2": {
+      "message": "Ierakstiet ar labāku kvalitāti, ar jaunām opcijām un ar caurspīdīgu fonu"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.14.5\u003C/strong>Nozīmīgs \u003Cstrong>izšķirtspējas un kvalitātes\u003C/strong> uzlabojums ekrānuzņēmumiem \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.15.0\u003C/strong>Pieskārienu ritināšanas aktivizēšana viedtālruņiem un planšetdatoriem \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.15.0\u003C/strong>Aktivizēts \u003Cstrong>pieskāriena ritināšana\u003C/strong> viedtālruņiem un planšetdatoriem."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.15.5\u003C/strong>\u003Cul>\u003Cli>Labošana attiecībā uz pilnas lapas ekrānuzņēmumiem \u003Cstrong>vietējos failos\u003C/strong>.\u003C/li>\u003Cli>Labošana attiecībā uz vh, dhv, lvh, svh vienībām \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.16.0\u003C/strong>Pievienota iespēja izveidot pielāgotas ierīces \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Atjauninājums v4.17.0\u003C/strong>Pievienota vairāku ierīču vienlaicīgas salīdzināšanas funkcija! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Laipni lūdzam Mobile FIRST 👋\u003C/strong>Simulējiet ar vienu klikšķi tālruņus, planšetdatorus un datorus, lai vienkārši pārbaudītu un vizualizētu savas vietnes.\u003Cbr>\u003Cbr>\u003Cstrong>Izvēlne atrodas pa labi ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Neobligāti"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Instalēt"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Šis paplašinājums ļauj jums uztvert jebkuru krāsu ekrānā."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Krāsu izvēlētājs"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Identificējiet ar vienu klikšķi fontu, kas izmantots jebkurā tīmekļa lapas tekstā."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Fontu meklētājs"
+   },
+   "other_extensions_h1": {
+      "message": "Atklājiet mūsu pavisam jaunos bezmaksas paplašinājumus"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Īpašie"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktivizēt opciju"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Šo simulatoru pēc noklusējuma nevar aktivizēt vietējiem failiem (file:///), bet jūs varat manuāli aktivizēt opciju Chrome iestatījumos."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulators nav aktivizējams šajā jūsu pārlūkprogrammas vietējā lapā. Mēģiniet citā cilnē vai pārlūkojiet vietni un pēc tam atkārtoti palaidiet."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Visi video iestatījumi"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Vairāku ierīču salīdzināšana"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Rēķins tiek izrakstīts katru gadu"
+   },
+   "pro_modale_button": {
+      "message": "Es abonēju"
+   },
+   "pro_modale_from": {
+      "message": "No"
+   },
+   "pro_modale_h1": {
+      "message": "Kļūstiet par PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Noņemiet reklāmas"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konvertējiet savus video ierakstus uz GIF un MP4 formātiem"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulējiet visas ierīces"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Rediģējiet savus ekrānuzņēmumus"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Salīdziniet vairāk nekā divas ierīces vienlaicīgi"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Atbloķēt visus video ierakstīšanas iestatījumus"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Atbloķēt visus iestatījumus"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Veiciet neierobežotus ekrānuzņēmumus"
+   },
+   "pro_modale_h2": {
+      "message": "Kļūstiet par PRO un aktīvi veiciniet šī paplašinājuma attīstību, atbalstot tā izstrādātāju."
+   },
+   "pro_modale_link_1": {
+      "message": "Vai"
+   },
+   "pro_modale_link_2": {
+      "message": "es piesakos"
+   },
+   "pro_modale_link_3": {
+      "message": "savā abonenta kontā"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mēnesis"
+   },
+   "pro_modale_savings": {
+      "message": "Ietaupiet"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Gada"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Mēneša"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "pēc jūsu 7 dienu bezmaksas izmēģinājuma"
+   },
+   "pro_modale_trial_button": {
+      "message": "Sākt manu 7 dienu bezmaksas izmēģinājumu"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Izmēģiniet PRO versiju bez maksas 7 dienas"
+   },
+   "pro_modale_trial_note": {
+      "message": "Šodien nav jāmaksā · Bez saistībām, var atcelt jebkurā laikā"
+   },
+   "pro_modale_trial_then": {
+      "message": "pēc tam"
+   },
+   "pro_modale_trial_today": {
+      "message": "šodien"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Kā jūs vērtētu šo paplašinājumu?"
+   },
+   "review_note_feedback": {
+      "message": "Paldies par jūsu atsauksmi, nevilcinieties nosūtīt mums ziņu, lai mēs varētu uzlabot šo paplašinājumu."
+   },
+   "review_note_store": {
+      "message": "Paldies par jūsu atsauksmēm, nevilcinieties pievienot vērtējumu paplašinājuma lapā. Es būtu ļoti pateicīgs 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Kameras piekļuves atļauja liegta."
+   },
+   "screencast_error": {
+      "message": "Radās kļūda ierakstīšanas laikā. {Noklikšķiniet šeit} risinājumam."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Jūsu Chrome versija ir pārāk veca šai funkcijai. Lūdzu, atjauniniet Chrome uz versiju, kas ir augstāka par 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Lūdzu, kopīgojiet pašreizējo logu (nevis visu ekrānu), lai ieraksts būtu pareizi ierāmēts."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Mikrofona piekļuves atļauja liegta."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Video ieraksti ir ierobežoti līdz 5 minūtēm bezmaksas versijā."
+   },
+   "screencast_modale_contact": {
+      "message": "Ziņot par kļūdu, ieteikt uzlabojumu"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopēt"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Saderīgs visur, bet zemāka kvalitāte (ar caurspīdīgumu, ja opcija aktivizēta)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Labāka saderība ar PowerPoint, bet bez caurspīdīguma"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Lejupielādēt noklusējuma WEBM formātā (ar caurspīdīgumu, ja opcija aktivizēta)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Maksimālais GIF ilgums ir 60 sekundes. Pārsniedzot šo laiku, fails būtu pārāk liels."
+   },
+   "screencast_modale_texte": {
+      "message": "Jūs varat lejupielādēt šo video dažādos formātos vai iegūt koplietošanas saiti."
+   },
+   "screencast_modale_title": {
+      "message": "Video ieraksts"
+   },
+   "screencast_modale_upload": {
+      "message": "Iegūt koplietošanas saiti"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Video kvalitāte ietekmē bitu pārraides ātrumu, fps un ieraksta izšķirtspēju. Jo augstāka kvalitāte, jo lielāks būs fails."
+   },
+   "screencast_start_recording": {
+      "message": "Sākt ierakstīšanu"
+   },
+   "screencast_tooltip_device": {
+      "message": "Tikai ierīces video ieraksts"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Cilnes video ieraksts ar ierīci"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Ģenerēt ekrānuzņēmumu"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Zīmēt bultiņu"
+   },
+   "screenshot_editor_close": {
+      "message": "Aizvērt redaktoru"
+   },
+   "screenshot_editor_color": {
+      "message": "Līnijas krāsa"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Zīmēt apli"
+   },
+   "screenshot_editor_line": {
+      "message": "Zīmēt līniju"
+   },
+   "screenshot_editor_pen": {
+      "message": "Brīvā zīmēšana"
+   },
+   "screenshot_editor_rect": {
+      "message": "Zīmēt taisnstūri"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Līnijas platums"
+   },
+   "screenshot_editor_undo": {
+      "message": "Atsaukt pēdējo darbību"
+   },
+   "screenshot_menu_1": {
+      "message": "Ekrānuzņēmums ar ierīci"
+   },
+   "screenshot_menu_2": {
+      "message": "Tikai vietnes ekrānuzņēmums"
+   },
+   "screenshot_menu_3": {
+      "message": "Visas lapas ekrānuzņēmums"
+   },
+   "screenshot_menu_4": {
+      "message": "Visas cilnes ekrānuzņēmums"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Apturēt pirms lapas beigām"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopēt attēlu starpliktuvē"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Lejupielādēt PNG formātā (bez saspiešanas)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Lejupielādēt WEBP formātā, saderīgs gandrīz visur un optimizēta saspiešana (ieteicams)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Rediģēt ekrānuzņēmumu"
+   },
+   "screenshot_modale_help": {
+      "message": "Lai saglabātu attēlu lielā formātā, vienkārši noklikšķiniet ar peles labo pogu uz tā un izvēlieties \"Kopēt attēlu\" vai \"Saglabāt\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Ekrānuzņēmums"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Konteksts"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Dažu tehnisko ierobežojumu dēļ, iespējams, ka, veicot ekrānuzņēmumu, jūs saņemsiet šo kļūdas ziņojumu."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Risinājums"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Šajā gadījumā, lai sāktu uzņemšanu, vienkārši noklikšķiniet ar peles labo pogu jebkurā vietā lapā, izvēlieties \"Mobilais simulators\" un pēc tam \"📷 Veikt ekrānuzņēmumu\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Ekrānuzņēmuma risinājums"
+   },
+   "see_less": {
+      "message": "Skatīt mazāk"
+   },
+   "see_more": {
+      "message": "Skatīt vairāk"
+   },
+   "select": {
+      "message": "Izvēlēties..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Reģistrējieties, lai atbloķētu PRO versiju, vai piesakieties, ja jums jau ir konts."
+   },
+   "settings_account_cta_title": {
+      "message": "Piekļūstiet savam kontam"
+   },
+   "settings_account_greeting": {
+      "message": "Sveiki $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Baterijas līmenis ierīces galvenē (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Palīdzēt izstrādātājam uzlabot paplašinājumu, daloties ar 100 % anonīmiem un nepersoniskiem lietošanas datiem."
+   },
+   "settings_change_background": {
+      "message": "Mainīt fona krāsu"
+   },
+   "settings_change_cursor": {
+      "message": "Pieskaršanās ritināšana un mobilā kursora attēlojums"
+   },
+   "settings_countdown": {
+      "message": "Atpakaļskaitīšana (sekundes)"
+   },
+   "settings_default_device": {
+      "message": "Noklusējuma terminālis katrai aktivizācijai"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Izvēlēties ierīci"
+   },
+   "settings_device_default_url": {
+      "message": "Mainīt URL, kas tiek rādīts ierīcē"
+   },
+   "settings_device_forced_time": {
+      "message": "Piespiest ierīcē rādīto laiku"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Atgriezties pie pašreizējā laika"
+   },
+   "settings_device_hide": {
+      "message": "Rādīt ierīces rāmi"
+   },
+   "settings_fullscreen": {
+      "message": "Vietne pilnekrāna režīmā ierīcē"
+   },
+   "settings_h2_customization": {
+      "message": "Pielāgošana"
+   },
+   "settings_h2_device": {
+      "message": "Ierīce"
+   },
+   "settings_h2_display": {
+      "message": "Globālais displejs"
+   },
+   "settings_h2_global": {
+      "message": "Vispārīgi"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Vairāku logu režīms"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Paslēpt ierīces pārlūka saskarni (adreses joslu utt.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simulēt tastatūras parādīšanos rakstīšanas laikā"
+   },
+   "settings_login_button": {
+      "message": "Pieteikties"
+   },
+   "settings_microphone": {
+      "message": "Mikrofons"
+   },
+   "settings_nav_account": {
+      "message": "Konts"
+   },
+   "settings_nav_appearance": {
+      "message": "Izskats"
+   },
+   "settings_nav_device": {
+      "message": "Ierīce"
+   },
+   "settings_os_display": {
+      "message": "OS displejs"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Rāda OS statusa joslu un pārlūkprogrammu (adreses joslu)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Slēpj pārlūkprogrammu, bet saglabā OS statusa joslu."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Slēpj OS statusa joslu un pārlūkprogrammu."
+   },
+   "settings_presenter_mode": {
+      "message": "Prezentācijas režīms (labās puses izvēlne redzama tikai, kad tiek pārbraukts pāri)"
+   },
+   "settings_pro_account": {
+      "message": "Pārvaldīt manu abonementu"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Jūsu abonements beigsies"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Jūsu abonementa atjaunošana neizdevās. Lūdzu, atjauniniet savu maksājumu informāciju, lai saglabātu PRO versiju."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Atkārtoti aktivizēt manu abonementu"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Automātiski noteikt un parādīt PWA kā mobilo lietotni."
+   },
+   "settings_scrollbar_show": {
+      "message": "Rādīt vietējo ritjoslu ierīcē"
+   },
+   "settings_shortcuts": {
+      "message": "Definēt tastatūras īsceļus"
+   },
+   "settings_signup_button": {
+      "message": "Reģistrēties"
+   },
+   "settings_subscribe": {
+      "message": "Atbloķēt PRO versiju"
+   },
+   "settings_subscribe_button": {
+      "message": "Abonēt"
+   },
+   "settings_sync_events": {
+      "message": "Sinhronizēt notikumus starp logiem (klikšķis, ritināšana utt.)"
+   },
+   "settings_theme": {
+      "message": "Tēma"
+   },
+   "settings_theme_auto": {
+      "message": "Automātiska"
+   },
+   "settings_theme_dark": {
+      "message": "Tumša"
+   },
+   "settings_theme_light": {
+      "message": "Gaiša"
+   },
+   "settings_title": {
+      "message": "Iestatījumi"
+   },
+   "settings_transparent_background": {
+      "message": "Caurspīdīgs fons"
+   },
+   "settings_transparent_background_info": {
+      "message": "Šī opcija ietver vairāk aprēķinu un tādējādi potenciālu attēlojuma palēnināšanos atkarībā no jūsu datora (saderīga tikai ar WEBM un GIF formātiem)"
+   },
+   "settings_video_quality": {
+      "message": "Video kvalitāte"
+   },
+   "settings_video_quality_high": {
+      "message": "Lieliska"
+   },
+   "settings_video_quality_low": {
+      "message": "Vidēja"
+   },
+   "settings_video_quality_medium": {
+      "message": "Laba"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Vai šis mobilais simulators jums ir noderīgs?"
+   },
+   "sharing_h2": {
+      "message": "Tad dalieties ar to ar saviem kolēģiem vai draugiem"
+   },
+   "sharing_review_1": {
+      "message": "Un, ja jums ir minūte, lai"
+   },
+   "sharing_review_2": {
+      "message": "pievienotu atsauksmi"
+   },
+   "sharing_review_3": {
+      "message": "tad tas ir ķirsis uz kūkas! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Es pievienoju atsauksmi"
+   },
+   "sharing_txt": {
+      "message": "Simulators, lai pārbaudītu savu vietni mobilajā un planšetdatorā"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Šis ir tikai attēls. Izmantojiet savu tastatūru."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 neatļauj savu lapu attēlošanu citas lapas ietvaros: vietni nevar simulēt pārlūkā Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Šis ir tikai attēls. Lai mainītu URL, izmantojiet Chrome lauku augstāk."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Planšetdatori"
+   },
+   "try_it": {
+      "message": "Izmēģiniet tagad"
+   },
+   "update_4_14_5_description": {
+      "message": "Ievērojams ekrānuzņēmumu izšķirtspējas un kvalitātes uzlabojums."
+   },
+   "update_4_14_5_title": {
+      "message": "Asāki ekrānuzņēmumi"
+   },
+   "update_4_15_0_description": {
+      "message": "Pieskārienu ritināšanas iespējošana viedtālruņos un planšetdatoros."
+   },
+   "update_4_15_0_title": {
+      "message": "Pieskārienu ritināšana"
+   },
+   "update_4_15_5_description": {
+      "message": "Pilnas lapas ekrānuzņēmumi vietējos failos un iOS 26 displeja vienību labojumi (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Labojumi"
+   },
+   "update_4_16_0_description": {
+      "message": "Tagad varat pievienot savas ierīces ar specifiskiem izmēriem."
+   },
+   "update_4_16_0_title": {
+      "message": "Pielāgotas ierīces"
+   },
+   "update_4_17_0_description": {
+      "message": "Salīdziniet vairākas ierīces vienlaicīgi blakus. Klikšķi, ritināšana un tastatūra ir sinhronizēti."
+   },
+   "update_4_17_0_title": {
+      "message": "Ierīču salīdzināšana"
+   },
+   "update_4_19_0_description": {
+      "message": "3 Google Pixel 10 modeļi, Motorola Razr 70 Ultra, Infinix Hot 70 un Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 jaunas Android ierīces"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max un salokāmais iPhone Duo, salocītā un atlocītā versijā."
+   },
+   "update_4_21_0_title": {
+      "message": "4 jauni iPhone"
+   },
+   "update_tag_feature": {
+      "message": "FUNKCIJA"
+   },
+   "update_tag_fix": {
+      "message": "LABOJUMS"
+   },
+   "update_tag_improvement": {
+      "message": "UZLABOJUMS"
+   },
+   "update_tag_new": {
+      "message": "JAUNS"
+   }
+}

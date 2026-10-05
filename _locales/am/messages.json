@@ -1,0 +1,935 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> የአንድሮይድ ስማርትፎኖች"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> የአፕል ስማርትፎኖች"
+   },
+   "button_feedback": {
+      "message": "አስተያየት አክል"
+   },
+   "button_message": {
+      "message": "መልእክት ይላኩልን"
+   },
+   "close": {
+      "message": "ዝጋ"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "የመሳሪያ ስም"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, ወዘተ።"
+   },
+   "contact_title": {
+      "message": "የምትፈልጉት መሳሪያ በዝርዝሩ ውስጥ የለም? ንገሩን!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "በዚህ ትር ላይ የሞባይል እይታን አንቃ"
+   },
+   "copied": {
+      "message": "ተቀድቷል"
+   },
+   "custom_device_add": {
+      "message": "የተለየ መሳሪያ አክል"
+   },
+   "custom_device_dpr": {
+      "message": "የመሳሪያ ፒክሰል መጠን"
+   },
+   "custom_device_error_name": {
+      "message": "የመሳሪያ ስም አስፈላጊ ነው።"
+   },
+   "custom_device_error_os": {
+      "message": "የኦ.ሲ. አስፈላጊ ነው።"
+   },
+   "custom_device_error_ua": {
+      "message": "የተጠቃሚ ወኪል አስፈላጊ ነው።"
+   },
+   "custom_device_error_viewport": {
+      "message": "የእይታ ማዕከል ስፋትና ቁመት በ10 እና 4096 መካከል መሆን አለባቸው።"
+   },
+   "custom_device_height": {
+      "message": "የእይታ ማዕከል ቁመት (px)"
+   },
+   "custom_device_less": {
+      "message": "አነስተኛ ቅንብሮች"
+   },
+   "custom_device_more": {
+      "message": "ተጨማሪ ቅንብሮች"
+   },
+   "custom_device_name": {
+      "message": "የመሳሪያ ስም"
+   },
+   "custom_device_network": {
+      "message": "ኔትወርክ"
+   },
+   "custom_device_os_name": {
+      "message": "የኦ.ሲ. ስም"
+   },
+   "custom_device_os_version": {
+      "message": "የኦ.ሲ. እትም"
+   },
+   "custom_device_submit": {
+      "message": "አክል"
+   },
+   "custom_device_title": {
+      "message": "የተለየ መሳሪያ አክል"
+   },
+   "custom_device_ua": {
+      "message": "የተጠቃሚ ወኪል ሐረግ"
+   },
+   "custom_device_ua_custom": {
+      "message": "የተለየ የተጠቃሚ ወኪል"
+   },
+   "custom_device_ua_preset": {
+      "message": "የተጠቃሚ ወኪል"
+   },
+   "custom_device_width": {
+      "message": "የእይታ ማዕከል ስፋት (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "የመሣሪያ ታሪክ ማሳያ ማስገባት አልተቻለም። ይህ በማስታወቂያ መከላከያ ወይም የኩባንያዎ የደህንነት ፖሊሲ ምክንያት ሊሆን ይችላል። ሲሙሌተሩ በሙሉ ተጠቃሚ ነው፣ ሞክአፕ ብቻ አላሳየም።"
+   },
+   "device_mockup_blocked_title": {
+      "message": "የመሣሪያ ሞክአፕ አይገኝም"
+   },
+   "device_variant_folded": {
+      "message": "ተኮሰ"
+   },
+   "device_variant_unfolded": {
+      "message": "ተነፈቀ"
+   },
+   "dimensions": {
+      "message": "ልክ"
+   },
+   "error": {
+      "message": "ስህተት"
+   },
+   "error_contact": {
+      "message": "{በእቅፍ ተገኝ} ችግሩ ቢቀጥል።"
+   },
+   "extDescription": {
+      "message": "ስልክ ማቀነባበሪ — ነጻ የChrome ቅጥያ ለመሞከር እና ለመቅየር ድህረገፆችዎን በ80 በላይ መሳሪያዎች ላይ"
+   },
+   "extName": {
+      "message": "የሞባይል ስሚሌተር - የማስተካከል ሣይት ሙከራ"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "አይመልስ"
+   },
+   "feedback_company_type": {
+      "message": "የእርስዎ የኩባንያ አይነት ምንድን ነው?"
+   },
+   "feedback_company_type_agency": {
+      "message": "ትንሽ ንግድ (10-49 ሰራተኞች)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "ነጻ ሥራ አርታኢ"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "በጣም ትልቅ ንግድ / ቡድን (5000+ ሰራተኞች)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "አነስተኛ ንግድ (1-9 ሰራተኞች)"
+   },
+   "feedback_company_type_pme": {
+      "message": "ትልቅ ንግድ (250-4999 ሰራተኞች)"
+   },
+   "feedback_company_type_startup": {
+      "message": "መካከለኛ ንግድ (50-249 ሰራተኞች)"
+   },
+   "feedback_error_required": {
+      "message": "ሁሉም መስኮቶች ባዶ ናቸው 🤔"
+   },
+   "feedback_frequency": {
+      "message": "ይህን እትም በመን ዝርዝር ትጠቀሙታላችሁ?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "አልፎ አልፎ"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "በሳምንት ብዙ ጊዜ"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "ዕለታዊ"
+   },
+   "feedback_frequency_rare": {
+      "message": "ልዩ"
+   },
+   "feedback_improvements": {
+      "message": "ምን ማሻሻያዎች ትፈልጋላችሁ?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "አንድ ሃሳብ፣ አንድ ችግር፣ አንድ ጉድፍ..."
+   },
+   "feedback_profession": {
+      "message": "የእርስዎ የሙያ ክፍል ምንድን ነው?"
+   },
+   "feedback_profession_designer": {
+      "message": "ንድፍ"
+   },
+   "feedback_profession_developer": {
+      "message": "እንቅስቃሴ"
+   },
+   "feedback_profession_marketing": {
+      "message": "ማርኬቲንግ"
+   },
+   "feedback_profession_other": {
+      "message": "ሌላ"
+   },
+   "feedback_profession_product": {
+      "message": "የምርት አስተዳዳሪ"
+   },
+   "feedback_profession_qa": {
+      "message": "ሙከራ / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "ሽያጭ"
+   },
+   "feedback_submit": {
+      "message": "ላክ"
+   },
+   "feedback_submitted": {
+      "message": "ለእርስዎ አስተያየት በጣም እናመሰግናለን 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRST እንዲሆን እንዴት እንደሚረዳዎት ያስተዋውቁ 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "ሣይት ሙከራ ማድረግ፣ ደንበኞች ማሳየት..."
+   },
+   "feedback_use_cases": {
+      "message": "Mobile FIRST ለምን ትጠቀሙታላችሁ?"
+   },
+   "get_pro": {
+      "message": "PRO እትም አግኝ"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "የቅርብ ጊዜ አዘምንቶች"
+   },
+   "link": {
+      "message": "አገናኝ"
+   },
+   "logout_modale_button": {
+      "message": "ግባ"
+   },
+   "logout_modale_message": {
+      "message": "ይህ መሳሪያ ከተፈቀደ መሳሪያዎች ዝርዝር ውጭ ነው። ይህን መዳረሻ በእጅ አስወግደው ከሆነ፣ አዲስ ግንኙነት ያስፈልጋል።"
+   },
+   "logout_modale_message2": {
+      "message": "ለደህንነት ዓላማ፣ ከእርስዎ መለያ በራስ ሰር ወጥተዋል። ነገር ግን በታች ባለው አዝራር በመጠቀም መግባት ይችላሉ።"
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ የእርስዎን ምዝገባ ማካፈል ይፈልጋሉ? ሌሎችን ሰዎች ለማስቻል፣ በመለያዎ ውስጥ ከ\"ተጠቃሚዎች\" ክፍል በቀላሉ ያክሉ።"
+   },
+   "logout_modale_title": {
+      "message": "በዚህ መሳሪያ ላይ በራስ ሰር ወጥተዋል"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "በትር ውስጥ የሚታዩ መሳሪያዎች"
+   },
+   "menu_add_window": {
+      "message": "መስኮት አክል"
+   },
+   "menu_change_device": {
+      "message": "መሳሪያ ቀይር ወይም አነጻጽር"
+   },
+   "menu_close_alone": {
+      "message": "ስሚሌተሩን አጥፋ"
+   },
+   "menu_close_window": {
+      "message": "ይህን መስኮት ዝጋ"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> የምትፈልጉት መሳሪያ በዝርዝሩ ውስጥ የለም? ንገሩን!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;የእኔ የተለየ መሳሪያዎች"
+   },
+   "menu_custom_devices_banner": {
+      "message": "የእርስዎን የተለየ መሳሪያዎች ያክሉ!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "የነጻጽር ሁነታ አጥፋ"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "የነጻጽር ሁነታ አንቃ"
+   },
+   "menu_extensions": {
+      "message": "የእኛን ሌላ የChrome እትም ያግኙ"
+   },
+   "menu_faq_all": {
+      "message": "ሁሉንም ተደጋጋሚ ጥያቄዎች ይመልከቱ"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "በዝምታ እንዴት ስሚሌተሩን አንቃለሁ?"
+   },
+   "menu_faq_media_queries": {
+      "message": "የሜዲያ ጥያቄዎቼ አይተነበትም"
+   },
+   "menu_faq_scroll": {
+      "message": "በስሚሌተር ውስጥ መሸብለል አልቻልኩም"
+   },
+   "menu_faq_shortcut": {
+      "message": "የቁልፍ ጥቅል እንዴት እንደምርጠው?"
+   },
+   "menu_faq_subscription": {
+      "message": "ለምን የእኔ ምዝገባ አይሰራም?"
+   },
+   "menu_faq_title": {
+      "message": "ተደጋጋሚ ጥያቄዎች"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> ተወዳጆች"
+   },
+   "menu_info_device": {
+      "message": "የዚህ መሳሪያ ባህሪያትና ሞክአፕ"
+   },
+   "menu_info_device_features": {
+      "message": "ባህሪያት (የእይታ ማዕከል መግለጫ, ወዘተ)"
+   },
+   "menu_info_device_mockup": {
+      "message": "ነጭ የPNG ሞክአፕ በነጻ"
+   },
+   "menu_report": {
+      "message": "ስህተት ሪፖርት አድርግ"
+   },
+   "menu_rotate": {
+      "message": "አቅጣጫ ቀይር"
+   },
+   "menu_screencast": {
+      "message": "📹 የእንግድ ቪዲዮ አንድ እርምጃ አድርግ"
+   },
+   "menu_screenshot": {
+      "message": "📷 የእንግድ አንድ እርምጃ አድርግ"
+   },
+   "menu_send_improvement": {
+      "message": "ማሻሻያ ያቅርቡ"
+   },
+   "menu_send_message": {
+      "message": "የእርዳታ ማዕከል"
+   },
+   "menu_settings": {
+      "message": "ቅንብር"
+   },
+   "menu_share": {
+      "message": "ለአባላት, ጓደኞች,... አካፍል"
+   },
+   "menu_vote_feature": {
+      "message": "የምትፈልጉትን ባህሪያት ይምረጡ"
+   },
+   "menu_zoom": {
+      "message": "በመሳሪያ ውስጥ አታትም"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "ተጨማሪ ቅንብሮች"
+   },
+   "new_comparison_feature_h1": {
+      "message": "አሁን የአዲስ ባህሪ የተለያዩ መሳሪያዎችን ነጻጽር ይገኛል!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "በተመሳሳይ ጊዜ በአንድ መስኮት ውስጥ የተለያዩ መሳሪያዎችን አሳይ። ሸብላይ፣ ጠቅ፣ ቁልፍ ተዛማጅ ናቸው።"
+   },
+   "new_video_feature_h1": {
+      "message": "አሁን የአዲስ የቪዲዮ እንግድ ባህሪ ይገኛል!"
+   },
+   "new_video_feature_h2": {
+      "message": "በተሻሻለ ጥራት ይመዝግቡ፣ ከአዲስ አማራጮች ጋር እና ነጭ ኋላ ጋር"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>አዘምንት v4.14.5\u003C/strong>የእንግድ እንግድ በጣም የተሻሻለ መግለጫና ጥራት \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>አዘምንት v4.15.0\u003C/strong>ለስማርትፎኖችና ታብሌቶች የንክኪ ሸብላይን አንቃ።"
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>አዘምንት v4.15.5\u003C/strong>\u003Cul>\u003Cli>በአካባቢ ፋይሎች ላይ ሙሉ ገጽ እንግድ እንግድ ላይ አስተካክል።\u003C/li>\u003Cli>በiOS&nbsp;26 ላይ የvh, dhv, lvh, svh አስተካክል።\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>አዘምንት v4.16.0\u003C/strong>የተለየ መሳሪያዎችን ማምልከት አስቻል \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>አዘምንት v4.17.0\u003C/strong>በተመሳሳይ ጊዜ የተለያዩ መሳሪያዎችን ነጻጽር ባህሪ አክል! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>እንኳን ወደ Mobile FIRST በደህና መጡ 👋\u003C/strong>በአንድ ጠቅ ስማርትፎኖች፣ ታብሌቶችና ኮምፒተሮችን ማምልከት እና ሣይቶችን በቀላሉ ማሳየት።\u003Cbr>\u003Cbr>\u003Cstrong>ምናሌው በቀኝ አለ ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "አማራጭ"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "አስቀምጥ"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "ይህ እትም በማያ ላይ ያለ ማንኛውም ቀለም ማግኘት ይፈቅድልዎታል።"
+   },
+   "other_extensions_color_picker_title": {
+      "message": "የቀለም መርጫ"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "በድምጽ ላይ የተጠቀሰውን ፎንት በአንድ ጠቅ ይለውጡ።"
+   },
+   "other_extensions_font_finder_title": {
+      "message": "የፎንት መፈለጊያ"
+   },
+   "other_extensions_h1": {
+      "message": "የእኛን አዳዲስ ነጻ እትሞች ያግኙ"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> ልዩ"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "አማራጭ አንቃ"
+   },
+   "popup_activate_local_files_info": {
+      "message": "ይህ ስሚሌተር በነባሪ በአካባቢ ፋይሎች (file:///) ላይ ማንቃት አይቻልም ነገር ግን በChrome ቅንብሮች ውስጥ አማራጭ በእጅ ማንቃት ይቻላል።"
+   },
+   "popup_site_incompatible": {
+      "message": "ስሚሌተሩ በነባሪ የአሳሽ ገጽ ላይ ማንቃት አይቻልም። በሌላ ትር ላይ ሞክር ወይም በሣይት ላይ ይጓዙ ከዚያ ይጀምሩ።"
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "ሁሉንም የቪዲዮ ቅንብሮች"
+   },
+   "pro_modale_avantage_2": {
+      "message": "በተለያዩ መሳሪያዎች ነጻጽር"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "በዓመት ይከፈላል"
+   },
+   "pro_modale_button": {
+      "message": "እኔ እምዝገባለሁ"
+   },
+   "pro_modale_from": {
+      "message": "ጀምሮ"
+   },
+   "pro_modale_h1": {
+      "message": "PRO ይሁኑ"
+   },
+   "pro_modale_h1_ads": {
+      "message": "ማስታወቂያዎችን አስወግድ"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "የእንግድ ቪዲዮዎችዎን ወደ GIF እና MP4 ቅርጾች ይቀይሩ"
+   },
+   "pro_modale_h1_devices": {
+      "message": "ሁሉንም መሳሪያዎች ይምልከቱ"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "እንግድ አርትዕ"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "ከሁለት በላይ መሳሪያዎችን በተመሳሳይ ጊዜ ይነጻጽሩ"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "ሁሉንም የቪዲዮ መዝግብ ቅንብሮች ክፈት"
+   },
+   "pro_modale_h1_settings": {
+      "message": "ሁሉንም ቅንብሮች ክፈት"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "ያለ ገደብ የእንግድ እንግድ አድርግ"
+   },
+   "pro_modale_h2": {
+      "message": "PRO ይሁኑ እና ይህን እትም በማስተዳደር ለማሻሻያ እንደ እርስዎ ደምቅ ይሁኑ።"
+   },
+   "pro_modale_link_1": {
+      "message": "ወይም"
+   },
+   "pro_modale_link_2": {
+      "message": "እኔ እገናኝ"
+   },
+   "pro_modale_link_3": {
+      "message": "ወደ እኔ አባል መለያ"
+   },
+   "pro_modale_recurring_month": {
+      "message": "ወር"
+   },
+   "pro_modale_savings": {
+      "message": "ተቀማጭ"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "ዓመታዊ"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "ወርሃዊ"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "ከ7 ቀናት ነጻ ሙከራዎ በኋላ"
+   },
+   "pro_modale_trial_button": {
+      "message": "የኔን 7 ቀናት ነጻ ሙከራ ጀምር"
+   },
+   "pro_modale_trial_h1": {
+      "message": "የPRO እትም ነጻ ሙከራ ለ7 ቀናት ይሞክሩ"
+   },
+   "pro_modale_trial_note": {
+      "message": "ዛሬ ምንም አይክፈሉም · ምንም አይግደውም፣ በማንኛውም ጊዜ መሰረዝ ይቻላል"
+   },
+   "pro_modale_trial_then": {
+      "message": "ከዚያ በኋላ"
+   },
+   "pro_modale_trial_today": {
+      "message": "ዛሬ"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "ይህን እትም እንዴት ትምረጡታላችሁ?"
+   },
+   "review_note_feedback": {
+      "message": "ለእርስዎ አስተያየት እናመሰግናለን፣ ይህን እትም ለማሻሻል መልእክት ላክ አይርሱ።"
+   },
+   "review_note_store": {
+      "message": "ለእርስዎ አስተያየት እናመሰግናለን፣ በእትም ገጽ ላይ አስተያየት ማክል አይርሱ። በጣም እናመሰግናለን 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "የካሜራ ፍቃድ ተከልክሏል።"
+   },
+   "screencast_error": {
+      "message": "በመዝግብ ላይ ስህተት ተፈጥሯል። {እንደ እንቅልፍ አንቃ} ለመፍትሄ ይጠቀሙ።"
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "የእርስዎ የChrome እትም ለዚህ ባህሪ በጣም የቆየ ነው። እትም ከ94.0 በላይ ለመሆን እትም ያድሱ።"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "እቅፍ በትክክል እንዲሆን ወደ አሁን ያለው መስኮት (እንጂ ሙሉ ማያ) እቅፍ ይጋሩ።"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "የማዘጋጃ ፍቃድ ተከልክሏል።"
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "በነጻ እትም ውስጥ የቪዲዮ መዝግቦች እስከ 5 ደቂቃ ይገደባሉ።"
+   },
+   "screencast_modale_contact": {
+      "message": "ስህተት ሪፖርት አድርግ፣ ማሻሻያ ያቅርቡ"
+   },
+   "screencast_modale_copy": {
+      "message": "ቅዳ"
+   },
+   "screencast_modale_download_gif": {
+      "message": "እየተሻሻለ ተስማሚነት፣ ነገር ግን ዝቅተኛ ጥራት (ከተመረጠ አማራጭ ጋር ተመሳሳይ)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "ከPowerPoint ጋር የተሻለ ተስማሚነት፣ ነገር ግን ነጭ የለም"
+   },
+   "screencast_modale_download_webm": {
+      "message": "በነባሪ ቅርጽ WEBM ይዘው ያውሩ (ከተመረጠ አማራጭ ጋር ተመሳሳይ)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "የGIF ከፍተኛ ጊዜ 60 ሰከንድ ነው። ከዚያ በላይ ፋይሉ በጣም ትልቅ ይሆናል።"
+   },
+   "screencast_modale_texte": {
+      "message": "ይህን ቪዲዮ በተለያዩ ቅርጾች ማውረድ ወይም የአካፍል አገናኝ ማግኘት ይችላሉ።"
+   },
+   "screencast_modale_title": {
+      "message": "የቪዲዮ እንግድ"
+   },
+   "screencast_modale_upload": {
+      "message": "የአካፍል አገናኝ አግኝ"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "የቪዲዮ ጥራት በቢትሬት፣ በfps እና በመዝግብ መግለጫ ይነካል። ጥራት ከፍ ብሎ ሲሆን ፋይሉ ትልቅ ይሆናል።"
+   },
+   "screencast_start_recording": {
+      "message": "መዝግብ ጀምር"
+   },
+   "screencast_tooltip_device": {
+      "message": "የመሳሪያ ቪዲዮ እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screencast_tooltip_tab": {
+      "message": "በመሳሪያ ውስጥ የትር ቪዲዮ እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot_editor_arrow": {
+      "message": "ቀስት ሳይን ስምር"
+   },
+   "screenshot_editor_close": {
+      "message": "አርትዕን ዝጋ"
+   },
+   "screenshot_editor_color": {
+      "message": "የሳይን ቀለም"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "ክብ ሳይን ስምር"
+   },
+   "screenshot_editor_line": {
+      "message": "መስመር ሳይን ስምር"
+   },
+   "screenshot_editor_pen": {
+      "message": "ነጻ ሳይን"
+   },
+   "screenshot_editor_rect": {
+      "message": "አራት ማዕዘን ሳይን ስምር"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "የሳይን ስፋት"
+   },
+   "screenshot_editor_undo": {
+      "message": "የመጨረሻ እርምጃ ሰርዝ"
+   },
+   "screenshot_menu_1": {
+      "message": "ከመሳሪያ ጋር እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot_menu_2": {
+      "message": "የሣይት ብቻ እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot_menu_3": {
+      "message": "የሙሉ ገጽ እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot_menu_4": {
+      "message": "የሙሉ ትር እንግድ አንድ እርምጃ አድርግ"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "ከገጽ መጨረሻ በፊት አቁም"
+   },
+   "screenshot_modale_copy": {
+      "message": "ምስሉን ወደ ክሊፕቦርድ ቅዳ"
+   },
+   "screenshot_modale_download_png": {
+      "message": "በPNG ቅርጽ ይዘው ያውሩ (ማስተካከል የለም)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "በWEBP ቅርጽ ይዘው ያውሩ፣ በማህበረሰብ በሙሉ ተስማሚነት እና የተሻለ ማስተካከል (የተመረጠ)"
+   },
+   "screenshot_modale_edit": {
+      "message": "እንግድ አርትዕ"
+   },
+   "screenshot_modale_help": {
+      "message": "ምስሉን በትልቅ ቅርጽ ለማስቀመጥ በምስሉ ላይ ቀኝ ጠቅ በማድረግ \"ምስል ቅዳ\" ወይም \"አስቀምጥ\" ይምረጡ።"
+   },
+   "screenshot_modale_title": {
+      "message": "የእንግድ እንግድ"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "እንቅስቃሴ"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "በአንዳንድ ቴክኒካል ገደቦች ምክንያት፣ በእንግድ እንግድ ላይ ይህን የስህተት መልእክት ማግኘት ይችላሉ።"
+   },
+   "screenshot_workaround_solution": {
+      "message": "መፍትሄ"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "በዚህ ሁኔታ ለእንግድ እንግድ ማስጀመር፣ በገጽ ላይ በማንኛውም ቦታ ቀኝ ጠቅ በማድረግ፣ \"ሞባይል ስሚሌተር\" እንቅስቃሴን ይምረጡ፣ ከዚያም \"📷 የእንግድ እንግድ አድርግ\" ይምረጡ።"
+   },
+   "screenshot_workaround_title": {
+      "message": "የእንግድ እንግድ ለመፍትሄ መፍትሄ"
+   },
+   "see_less": {
+      "message": "ቀንስ"
+   },
+   "see_more": {
+      "message": "ተጨማሪ እይ"
+   },
+   "select": {
+      "message": "ይምረጡ..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "የፕሮ እትም ለመክፈት ይመዝገቡ፣ ወይም አንቀሳቃሽ ካለዎት መለያ ይግቡ።"
+   },
+   "settings_account_cta_title": {
+      "message": "ወደ መለያዎ ይግቡ"
+   },
+   "settings_account_greeting": {
+      "message": "ሰላም $1,"
+   },
+   "settings_batterie_level": {
+      "message": "በመሳሪያ እርምጃ ላይ የባትሪ ደረጃ (%)"
+   },
+   "settings_camera": {
+      "message": "ካሜራ"
+   },
+   "settings_change_analytics": {
+      "message": "የተጠቃሚ መረጃ ሳይነቅር እና የግል አልሆነ የተጠቃሚ መረጃ በመካፈል ለአንተ ማሻሻል ይረዳል።"
+   },
+   "settings_change_background": {
+      "message": "የኋላ ቀለም ቀይር"
+   },
+   "settings_change_cursor": {
+      "message": "እንኳን ደህና መጡ ማስታወቂያ እና የሞባይል አንኳኳ አሳይ"
+   },
+   "settings_countdown": {
+      "message": "ቆጣሪ (ሰከንዶች)"
+   },
+   "settings_default_device": {
+      "message": "በእያንዳንዱ አንቀሳቃሽ የነባሪ መሳሪያ"
+   },
+   "settings_default_device_placeholder": {
+      "message": "መሳሪያ ይምረጡ"
+   },
+   "settings_device_default_url": {
+      "message": "በመሳሪያ ውስጥ የታየ አገናኝ ቀይር"
+   },
+   "settings_device_forced_time": {
+      "message": "መቋረጥ ሰዓት እንደተመለከተ በመሣሪያ ላይ"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "ወደ አሁን ሰዓት ተመለስ"
+   },
+   "settings_device_hide": {
+      "message": "የመሳሪያውን አቀማመጥ አሳይ"
+   },
+   "settings_fullscreen": {
+      "message": "ሣይት በመሳሪያ ውስጥ በሙሉ ማያ"
+   },
+   "settings_h2_customization": {
+      "message": "ቅንብር"
+   },
+   "settings_h2_device": {
+      "message": "መሳሪያ"
+   },
+   "settings_h2_display": {
+      "message": "አጠቃላይ አሳይ"
+   },
+   "settings_h2_global": {
+      "message": "አጠቃላይ"
+   },
+   "settings_h2_multiwindow": {
+      "message": "የብዙ መስኮት ሁነታ"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "የመሳሪያ አሳሽ በላይ እና በታች ክፍልን ደብቅ (የአድራሻ አሞሌ ወዘተ)"
+   },
+   "settings_hide_keyboard": {
+      "message": "በመጻፍ ጊዜ የቁልፍ ሰሌዳ መታየትን ይዘምቱ"
+   },
+   "settings_login_button": {
+      "message": "ይግቡ"
+   },
+   "settings_microphone": {
+      "message": "ማዘጋጃ"
+   },
+   "settings_nav_account": {
+      "message": "መለያ"
+   },
+   "settings_nav_appearance": {
+      "message": "መልክ"
+   },
+   "settings_nav_device": {
+      "message": "መሳሪያ"
+   },
+   "settings_os_display": {
+      "message": "የኦ.ኤስ አሳይ"
+   },
+   "settings_os_display_full_desc": {
+      "message": "የኦ.ኤስ ሁኔታ አሞሌን እና አሳሽ (አድራሻ አሞሌ) ያሳያል።"
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "አሳሽን ይሰውራል ነገር ግን የኦ.ኤስ ሁኔታ አሞሌን ያቀርባል።"
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "የኦ.ኤስ ሁኔታ አሞሌን እና አሳሽን ይሰውራል።"
+   },
+   "settings_presenter_mode": {
+      "message": "የማቅረቢያ ሁነታ (የቀኝ ምናሌ በማለፍ ብቻ ይታያል)"
+   },
+   "settings_pro_account": {
+      "message": "የእኔን ምዝገባ አስተዳድር"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "የእርስዎ ሰብስክሪፕሽን በመጨረሻው ይያዛል"
+   },
+   "settings_pro_account_past_due": {
+      "message": "የእርስዎ ምዝገባ ዝግጅት አልተሳካም። የPRO እትም ለመጠበቅ የክፍያ መረጃዎችን አዘምኑ።"
+   },
+   "settings_pro_account_reactivate": {
+      "message": "ሰብስክሪፕሽን እንደገና አግኝ"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "PWAን እንደ ሞባይል መተግበሪያ በራስ ሰር አንድ ላይ ተገኝነት እና አሳይ።"
+   },
+   "settings_scrollbar_show": {
+      "message": "በመሳሪያ ውስጥ የተለመደ የሸብላይ መስመር አሳይ"
+   },
+   "settings_shortcuts": {
+      "message": "የቁልፍ ጥቅሎችን ይቀንብሩ"
+   },
+   "settings_signup_button": {
+      "message": "ይመዝገቡ"
+   },
+   "settings_subscribe": {
+      "message": "የፕሮ እትም ይክፈቱ"
+   },
+   "settings_subscribe_button": {
+      "message": "ይመዝገቡ"
+   },
+   "settings_sync_events": {
+      "message": "ተዛማጅ ክስተቶችን በመስኮቶች መካከል ያስተካክሉ (ጠቅ, ሸብላይ, ወዘተ)"
+   },
+   "settings_theme": {
+      "message": "ገጽታ"
+   },
+   "settings_theme_auto": {
+      "message": "ራስ-ሰር"
+   },
+   "settings_theme_dark": {
+      "message": "ጨለማ"
+   },
+   "settings_theme_light": {
+      "message": "ብርሃን"
+   },
+   "settings_title": {
+      "message": "ቅንብሮች"
+   },
+   "settings_transparent_background": {
+      "message": "ነጭ ኋላ"
+   },
+   "settings_transparent_background_info": {
+      "message": "ይህ አማራጭ ተጨማሪ ሂሳብ ያስፈልጋል እና በኮምፒተርዎ ላይ የአሳይ ዝግጅትን ማሻሻል ይችላል (በWEBM እና GIF ቅርጾች ብቻ ይሰማራል)"
+   },
+   "settings_video_quality": {
+      "message": "የቪዲዮ ጥራት"
+   },
+   "settings_video_quality_high": {
+      "message": "አሪፍ"
+   },
+   "settings_video_quality_low": {
+      "message": "መካከለኛ"
+   },
+   "settings_video_quality_medium": {
+      "message": "ጥሩ"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "ይህ የሞባይል ስሚሌተር አስተዋጽኦ ነው?"
+   },
+   "sharing_h2": {
+      "message": "ከዚያ ለአባላት ወይም ጓደኞች አካፍል"
+   },
+   "sharing_review_1": {
+      "message": "እና አንድ ደቂቃ ካለዎት"
+   },
+   "sharing_review_2": {
+      "message": "አስተያየት ያክሉ"
+   },
+   "sharing_review_3": {
+      "message": "ከዚያ የኬክ ላይ እንቁላል ነው! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "አስተያየት አክል"
+   },
+   "sharing_txt": {
+      "message": "ስሚሌተር ለሞባይልና ታብሌት ላይ ሣይት ሙከራ ለማድረግ"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "ይህ ብቻ ምስል ነው። የእርስዎን የግርማ ቁልፍ ይጠቀሙ።"
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 አንድ ገፅ በሌላ ገፅ ውስጥ እንዲታይ አይፈቅድም፡፡ ስለዚህ ድህረ ገጹ በFirefox ላይ ማስመሰል አይቻልም።"
+   },
+   "simulator_header_info": {
+      "message": "ይህ ብቻ ምስል ነው። አገናኝ ለማለው የChrome መስመር ይጠቀሙ።"
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> ታብሌቶች"
+   },
+   "try_it": {
+      "message": "አሁን ሞክር"
+   },
+   "update_4_14_5_description": {
+      "message": "የእንግድ እንግድ መግለጫና ጥራት በጣም ተሻሽሏል።"
+   },
+   "update_4_14_5_title": {
+      "message": "የተሻሻለ እንግድ"
+   },
+   "update_4_15_0_description": {
+      "message": "በስማርትፎኖችና ታብሌቶች ላይ የንክኪ ሸብላይን አንቃ።"
+   },
+   "update_4_15_0_title": {
+      "message": "የንክኪ ሸብላይ"
+   },
+   "update_4_15_5_description": {
+      "message": "በአካባቢ ፋይሎች ላይ ሙሉ ገጽ እንግድ እንግድ እና በiOS 26 ላይ የእይታ ማዕከል አስተካክሎች (vh, dhv, lvh, svh)።"
+   },
+   "update_4_15_5_title": {
+      "message": "አስተካክሎች"
+   },
+   "update_4_16_0_description": {
+      "message": "አሁን የራስዎን የተለየ መሳሪያዎች በተወሰነ ልክ ማክል ይችላሉ።"
+   },
+   "update_4_16_0_title": {
+      "message": "የተለየ መሳሪያዎች"
+   },
+   "update_4_17_0_description": {
+      "message": "በተመሳሳይ ጊዜ በአንድ አንኳኳ ውስጥ የተለያዩ መሳሪያዎችን ነጻጽር። ጠቅ፣ ሸብላይ እና ቁልፍ ተዛማጅ ናቸው።"
+   },
+   "update_4_17_0_title": {
+      "message": "የመሳሪያ ነጻጽር"
+   },
+   "update_4_19_0_description": {
+      "message": "3 የGoogle Pixel 10 ሞዴሎች፣ Motorola Razr 70 Ultra፣ ኢንፊኒክስ Hot 70 እና Samsung Galaxy A17።"
+   },
+   "update_4_19_0_title": {
+      "message": "6 አዲስ የአንድሮይድ መሳሪያዎች"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max እና እንቅስቃሴ ያለው iPhone Duo, በተንቀሳቃሽ እና በተዘረጋ ስርዓት ይገኛሉ።"
+   },
+   "update_4_21_0_title": {
+      "message": "አዲስ 4 iPhones"
+   },
+   "update_tag_feature": {
+      "message": "ባህሪ"
+   },
+   "update_tag_fix": {
+      "message": "አስተካክል"
+   },
+   "update_tag_improvement": {
+      "message": "ማሻሻያ"
+   },
+   "update_tag_new": {
+      "message": "አዲስ"
+   }
+}

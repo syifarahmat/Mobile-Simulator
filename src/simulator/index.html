@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DevMobile Simulator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="simulator.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- ── Sidebar ─────────────────────────────────────────── -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="5" y="2" width="14" height="20" rx="3" stroke="currentColor" stroke-width="2"/>
+              <circle cx="12" cy="18" r="1" fill="currentColor"/>
+              <line x1="9" y1="5" x2="15" y2="5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </div>
+          <div class="logo-text">
+            <span class="logo-title">DevMobile</span>
+            <span class="logo-sub">Simulator</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Search -->
+      <div class="search-wrapper">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none"><circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/><path d="m21 21-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="searchInput" type="text" class="search-input" placeholder="Search devices..." />
+      </div>
+
+      <!-- Filter tabs -->
+      <div class="filter-tabs">
+        <button class="filter-tab active" data-filter="all">All</button>
+        <button class="filter-tab" data-filter="phone">📱 Phone</button>
+        <button class="filter-tab" data-filter="tablet">📟 Tablet</button>
+        <button class="filter-tab" data-filter="custom">⚙️ Custom</button>
+      </div>
+
+      <!-- Device list -->
+      <div class="device-list" id="deviceList"></div>
+
+      <!-- Add custom device -->
+      <button class="add-device-btn" id="addDeviceBtn">
+        <svg viewBox="0 0 24 24" fill="none"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        Add Custom Device
+      </button>
+    </aside>
+
+    <!-- ── Main content ────────────────────────────────────── -->
+    <main class="main">
+      <!-- Top bar -->
+      <header class="topbar">
+        <div class="topbar-left">
+          <div class="active-device-info" id="activeDeviceInfo">
+            <span class="no-device">No device selected</span>
+          </div>
+        </div>
+
+        <div class="topbar-controls">
+          <!-- Orientation -->
+          <div class="control-group">
+            <button class="ctrl-btn" id="orientPortrait" title="Portrait" data-active="true">
+              <svg viewBox="0 0 24 24" fill="none"><rect x="5" y="2" width="14" height="20" rx="2" stroke="currentColor" stroke-width="2"/></svg>
+            </button>
+            <button class="ctrl-btn" id="orientLandscape" title="Landscape">
+              <svg viewBox="0 0 24 24" fill="none"><rect x="2" y="5" width="20" height="14" rx="2" stroke="currentColor" stroke-width="2"/></svg>
+            </button>
+          </div>
+
+          <!-- Dark mode -->
+          <button class="ctrl-btn" id="darkModeBtn" title="Toggle dark mode">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+
+          <!-- Screenshot -->
+          <button class="ctrl-btn" id="screenshotBtn" title="Take screenshot (Ctrl+Shift+S)">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><circle cx="12" cy="13" r="4" stroke="currentColor" stroke-width="2"/></svg>
+          </button>
+
+          <!-- Toggle simulator -->
+          <button class="toggle-btn" id="toggleBtn">
+            <span class="toggle-label">Activate</span>
+            <div class="toggle-switch">
+              <div class="toggle-thumb"></div>
+            </div>
+          </button>
+        </div>
+      </header>
+
+      <!-- Tab navigation -->
+      <nav class="tab-nav">
+        <button class="tab-btn active" data-tab="preview">Preview</button>
+        <button class="tab-btn" data-tab="network">Network</button>
+        <button class="tab-btn" data-tab="geolocation">Geolocation</button>
+        <button class="tab-btn" data-tab="custom-device">Custom Device</button>
+        <button class="tab-btn" data-tab="shortcuts">Shortcuts</button>
+      </nav>
+
+      <!-- Tab content -->
+      <div class="tab-content">
+
+        <!-- ── PREVIEW TAB ─────────────────────────────────── -->
+        <div class="tab-panel active" data-panel="preview">
+          <div class="preview-container">
+            <div class="preview-info-bar" id="previewInfoBar">
+              <div class="info-chips" id="infoChips">
+                <span class="info-chip">Select a device to preview</span>
+              </div>
+              <div class="zoom-controls">
+                <button class="zoom-btn" id="zoomOut">−</button>
+                <span class="zoom-label" id="zoomLabel">100%</span>
+                <button class="zoom-btn" id="zoomIn">+</button>
+                <button class="zoom-btn" id="zoomFit">Fit</button>
+              </div>
+            </div>
+
+            <div class="device-frame-wrapper" id="deviceFrameWrapper">
+              <div class="device-frame" id="deviceFrame">
+                <div class="device-notch" id="deviceNotch"></div>
+                <div class="device-screen" id="deviceScreen">
+                  <div class="empty-state" id="emptyState">
+                    <div class="empty-icon">📱</div>
+                    <h3>Select a Device</h3>
+                    <p>Choose a device from the sidebar to simulate its viewport and user agent.</p>
+                    <div class="kbd-hint">
+                      <kbd>Ctrl+Shift+M</kbd> Toggle Simulator
+                    </div>
+                  </div>
+                  <iframe id="previewFrame" class="preview-iframe hidden" sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
+                </div>
+                <div class="device-home-bar" id="deviceHomeBar"></div>
+              </div>
+            </div>
+
+            <div class="url-bar-wrapper">
+              <div class="url-bar">
+                <svg class="url-icon" viewBox="0 0 24 24" fill="none"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+                <input type="url" id="urlInput" class="url-input" placeholder="Enter URL to preview..." value="https://www.google.com" />
+                <button class="url-go-btn" id="urlGoBtn">Go</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ── NETWORK TAB ─────────────────────────────────── -->
+        <div class="tab-panel" data-panel="network">
+          <div class="settings-section">
+            <h2 class="section-title">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M1 6h22M1 12h22M5.2 6C4.4 9.6 4.4 14.4 5.2 18M18.8 6c.8 3.6.8 8.4 0 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              Network Throttling
+            </h2>
+            <p class="section-desc">Simulate different network conditions to test your site's performance.</p>
+
+            <div class="network-grid" id="networkGrid"></div>
+
+            <div class="network-stats" id="networkStats">
+              <div class="stat-card">
+                <div class="stat-label">Download</div>
+                <div class="stat-value" id="statDownload">—</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-label">Latency</div>
+                <div class="stat-value" id="statLatency">—</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-label">Status</div>
+                <div class="stat-value" id="statStatus">No throttle</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ── GEOLOCATION TAB ────────────────────────────── -->
+        <div class="tab-panel" data-panel="geolocation">
+          <div class="settings-section">
+            <h2 class="section-title">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M12 22s-8-4.5-8-11.8A8 8 0 0 1 12 2a8 8 0 0 1 8 8.2c0 7.3-8 11.8-8 11.8z" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="2"/></svg>
+              Geolocation Spoofing
+            </h2>
+            <p class="section-desc">Override the browser's geolocation API with a custom location.</p>
+
+            <div class="geo-presets" id="geoPresets"></div>
+
+            <div class="geo-custom">
+              <h3 class="sub-title">Custom Coordinates</h3>
+              <div class="coord-inputs">
+                <div class="input-group">
+                  <label>Latitude</label>
+                  <input type="number" id="geoLat" step="0.0001" min="-90" max="90" placeholder="-6.2088" value="-6.2088" />
+                </div>
+                <div class="input-group">
+                  <label>Longitude</label>
+                  <input type="number" id="geoLng" step="0.0001" min="-180" max="180" placeholder="106.8456" value="106.8456" />
+                </div>
+              </div>
+              <button class="apply-btn" id="applyGeoBtn">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M5 12h14M12 5l7 7-7 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                Apply Geolocation
+              </button>
+            </div>
+
+            <div class="geo-map-preview" id="geoMapPreview">
+              <iframe id="mapFrame" class="map-iframe" src="" title="Map preview"></iframe>
+            </div>
+          </div>
+        </div>
+
+        <!-- ── CUSTOM DEVICE TAB ───────────────────────────── -->
+        <div class="tab-panel" data-panel="custom-device">
+          <div class="settings-section">
+            <h2 class="section-title">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              Add Custom Device
+            </h2>
+            <p class="section-desc">Create your own device with custom dimensions and user agent.</p>
+
+            <div class="custom-form">
+              <div class="form-row">
+                <div class="input-group">
+                  <label>Device Name *</label>
+                  <input type="text" id="customName" placeholder="My Custom Phone" />
+                </div>
+                <div class="input-group">
+                  <label>Brand</label>
+                  <input type="text" id="customBrand" placeholder="Custom" />
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="input-group">
+                  <label>Width (px) *</label>
+                  <input type="number" id="customWidth" placeholder="390" min="200" max="2560" />
+                </div>
+                <div class="input-group">
+                  <label>Height (px) *</label>
+                  <input type="number" id="customHeight" placeholder="844" min="300" max="2560" />
+                </div>
+                <div class="input-group">
+                  <label>DPR</label>
+                  <input type="number" id="customDpr" placeholder="2" min="1" max="4" step="0.1" value="2" />
+                </div>
+              </div>
+              <div class="input-group full">
+                <label>User Agent</label>
+                <textarea id="customUA" placeholder="Mozilla/5.0 (Linux; Android 14; Custom Device)..." rows="3"></textarea>
+              </div>
+              <div class="form-row">
+                <div class="input-group">
+                  <label>Type</label>
+                  <select id="customType">
+                    <option value="phone">📱 Phone</option>
+                    <option value="tablet">📟 Tablet</option>
+                  </select>
+                </div>
+                <div class="input-group">
+                  <label>Icon (emoji)</label>
+                  <input type="text" id="customIcon" placeholder="📱" maxlength="2" value="📱" />
+                </div>
+              </div>
+              <button class="apply-btn" id="saveCustomDeviceBtn">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z" stroke="currentColor" stroke-width="2"/><polyline points="17 21 17 13 7 13 7 21" stroke="currentColor" stroke-width="2"/><polyline points="7 3 7 8 15 8" stroke="currentColor" stroke-width="2"/></svg>
+                Save Custom Device
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- ── SHORTCUTS TAB ──────────────────────────────── -->
+        <div class="tab-panel" data-panel="shortcuts">
+          <div class="settings-section">
+            <h2 class="section-title">
+              <svg viewBox="0 0 24 24" fill="none"><rect x="2" y="7" width="20" height="14" rx="2" stroke="currentColor" stroke-width="2"/><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" stroke="currentColor" stroke-width="2"/></svg>
+              Keyboard Shortcuts
+            </h2>
+            <div class="shortcuts-list">
+              <div class="shortcut-item">
+                <span class="shortcut-desc">Toggle Simulator</span>
+                <div class="shortcut-keys"><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>M</kbd></div>
+              </div>
+              <div class="shortcut-item">
+                <span class="shortcut-desc">Rotate Device</span>
+                <div class="shortcut-keys"><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>R</kbd></div>
+              </div>
+              <div class="shortcut-item">
+                <span class="shortcut-desc">Take Screenshot</span>
+                <div class="shortcut-keys"><kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>S</kbd></div>
+              </div>
+            </div>
+
+            <h2 class="section-title mt">
+              <svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/><path d="M12 8v4M12 16h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              About
+            </h2>
+            <div class="about-card">
+              <p>DevMobile Simulator is an open-source Chrome extension that lets you simulate any mobile device directly in your browser.</p>
+              <p class="version-tag">Version 1.0.0 · Made with ❤️</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Screenshot modal -->
+  <div class="modal hidden" id="screenshotModal">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>Screenshot</h3>
+        <button class="modal-close" id="modalClose">✕</button>
+      </div>
+      <img id="screenshotImg" class="screenshot-preview" src="" alt="Screenshot" />
+      <div class="modal-actions">
+        <button class="apply-btn" id="downloadScreenshotBtn">
+          <svg viewBox="0 0 24 24" fill="none"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><polyline points="7 10 12 15 17 10" stroke="currentColor" stroke-width="2"/><line x1="12" y1="15" x2="12" y2="3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          Download PNG
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Custom device modal -->
+  <div class="toast hidden" id="toast"></div>
+
+  <script src="../simulator/devices.js"></script>
+  <script src="simulator.js"></script>
+</body>
+</html>

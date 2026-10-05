@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Τηλέφωνα Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Τηλέφωνα Apple"
+   },
+   "button_feedback": {
+      "message": "Προσθήκη αξιολόγησης"
+   },
+   "button_message": {
+      "message": "Στείλτε μας ένα μήνυμα"
+   },
+   "close": {
+      "message": "Κλείσιμο"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Όνομα συσκευής"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, κ.λπ."
+   },
+   "contact_title": {
+      "message": "Η συσκευή που ψάχνετε δεν είναι στη λίστα; Πείτε μας!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Ενεργοποιήστε την προβολή κινητού σε αυτήν την καρτέλα"
+   },
+   "copied": {
+      "message": "Αντιγράφηκε"
+   },
+   "custom_device_add": {
+      "message": "Προσθήκη προσαρμοσμένης συσκευής"
+   },
+   "custom_device_dpr": {
+      "message": "Αναλογία pixel συσκευής"
+   },
+   "custom_device_error_name": {
+      "message": "Το όνομα της συσκευής είναι υποχρεωτικό."
+   },
+   "custom_device_error_os": {
+      "message": "Το λειτουργικό σύστημα είναι υποχρεωτικό."
+   },
+   "custom_device_error_ua": {
+      "message": "Ο user agent είναι υποχρεωτικός."
+   },
+   "custom_device_error_viewport": {
+      "message": "Το πλάτος και το ύψος του viewport πρέπει να είναι μεταξύ 10 και 4096."
+   },
+   "custom_device_height": {
+      "message": "Ύψος viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Λιγότερες ρυθμίσεις"
+   },
+   "custom_device_more": {
+      "message": "Περισσότερες ρυθμίσεις"
+   },
+   "custom_device_name": {
+      "message": "Όνομα συσκευής"
+   },
+   "custom_device_network": {
+      "message": "Δίκτυο"
+   },
+   "custom_device_os_name": {
+      "message": "Λειτουργικό σύστημα"
+   },
+   "custom_device_os_version": {
+      "message": "Έκδοση OS"
+   },
+   "custom_device_submit": {
+      "message": "Προσθήκη"
+   },
+   "custom_device_title": {
+      "message": "Προσθήκη προσαρμοσμένης συσκευής"
+   },
+   "custom_device_ua": {
+      "message": "Αλυσίδα user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "Προσαρμοσμένος user agent"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Πλάτος viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Η οπτική αναπαράσταση της συσκευής δεν μπόρεσε να φορτωθεί. Αυτό μπορεί να οφείλεται σε έναν αποκλειστή διαφημίσεων ή στην πολιτική ασφαλείας της εταιρείας σας. Ο προσομοιωτής παραμένει πλήρως λειτουργικός, μόνο η μακέτα δεν εμφανίζεται."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Η μακέτα της συσκευής δεν είναι διαθέσιμη"
+   },
+   "device_variant_folded": {
+      "message": "Διπλωμένο"
+   },
+   "device_variant_unfolded": {
+      "message": "Ξεδιπλωμένο"
+   },
+   "dimensions": {
+      "message": "Διαστάσεις"
+   },
+   "error": {
+      "message": "Σφάλμα"
+   },
+   "error_contact": {
+      "message": "{Επικοινωνήστε μαζί μας} αν το πρόβλημα παραμένει."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Δωρεάν επέκταση Chrome για να δοκιμάσετε και να προβάλετε τους ιστότοπούς σας σε περισσότερες από 80 συσκευές"
+   },
+   "extName": {
+      "message": "Προσομοιωτής κινητού τηλεφώνου - δοκιμή responsive ιστοσελίδας"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Μην απαντήσετε"
+   },
+   "feedback_company_type": {
+      "message": "Ποιος είναι ο τύπος της εταιρείας σας;"
+   },
+   "feedback_company_type_agency": {
+      "message": "Μικρή επιχείρηση (10-49 υπάλληλοι)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Ελεύθερος επαγγελματίας"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Πολύ μεγάλη επιχείρηση / όμιλος (5000+ υπάλληλοι)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Μικροεπιχείρηση (1-9 υπάλληλοι)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Μεγάλη επιχείρηση (250-4999 υπάλληλοι)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Μεσαία επιχείρηση (50-249 υπάλληλοι)"
+   },
+   "feedback_error_required": {
+      "message": "Όλα τα πεδία είναι κενά 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Πόσο συχνά χρησιμοποιείτε αυτήν την επέκταση;"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Περιστασιακά"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Πολλές φορές την εβδομάδα"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Καθημερινά"
+   },
+   "feedback_frequency_rare": {
+      "message": "Σπάνια"
+   },
+   "feedback_improvements": {
+      "message": "Ποιες βελτιώσεις θα θέλατε να δείτε;"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Μια ιδέα, μια δυσκολία, μια έλλειψη..."
+   },
+   "feedback_profession": {
+      "message": "Ποιο είναι το επαγγελματικό σας τμήμα;"
+   },
+   "feedback_profession_designer": {
+      "message": "Σχεδιασμός"
+   },
+   "feedback_profession_developer": {
+      "message": "Ανάπτυξη"
+   },
+   "feedback_profession_marketing": {
+      "message": "Μάρκετινγκ"
+   },
+   "feedback_profession_other": {
+      "message": "Άλλο"
+   },
+   "feedback_profession_product": {
+      "message": "Διαχείριση προϊόντων"
+   },
+   "feedback_profession_qa": {
+      "message": "Δοκιμές / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Πωλήσεις"
+   },
+   "feedback_submit": {
+      "message": "Υποβολή"
+   },
+   "feedback_submitted": {
+      "message": "Σας ευχαριστούμε πολύ για τα σχόλιά σας 🤗"
+   },
+   "feedback_title": {
+      "message": "Βοηθήστε μας να κάνουμε το Mobile FIRST ακόμα πιο χρήσιμο για εσάς 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Δοκιμή του ιστότοπού μου, παρουσίαση σε πελάτες..."
+   },
+   "feedback_use_cases": {
+      "message": "Γιατί χρησιμοποιείτε το Mobile FIRST;"
+   },
+   "get_pro": {
+      "message": "Αποκτήστε την έκδοση PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Τελευταίες ενημερώσεις"
+   },
+   "link": {
+      "message": "Σύνδεσμος"
+   },
+   "logout_modale_button": {
+      "message": "Σύνδεση"
+   },
+   "logout_modale_message": {
+      "message": "Αυτή η συσκευή δεν αποτελεί πλέον μέρος των εξουσιοδοτημένων τερματικών σας. Εάν καταργήσατε αυτήν την πρόσβαση χειροκίνητα, απαιτείται νέα σύνδεση."
+   },
+   "logout_modale_message2": {
+      "message": "Για λόγους ασφαλείας, έχετε αποσυνδεθεί αυτόματα από τον λογαριασμό σας. Αλλά μπορείτε να συνδεθείτε ξανά κάνοντας κλικ στο κουμπί παρακάτω."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Θέλετε να μοιραστείτε τη συνδρομή σας; Για να επιτρέψετε σε άλλα άτομα, απλώς προσθέστε τα από την ενότητα \"Χρήστες\" του λογαριασμού σας."
+   },
+   "logout_modale_title": {
+      "message": "Έχετε αποσυνδεθεί αυτόματα από αυτήν τη συσκευή"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Συσκευές ορατές στην καρτέλα"
+   },
+   "menu_add_window": {
+      "message": "Προσθήκη παραθύρου"
+   },
+   "menu_change_device": {
+      "message": "Αλλαγή συσκευής ή σύγκριση"
+   },
+   "menu_close_alone": {
+      "message": "Απενεργοποίηση του προσομοιωτή"
+   },
+   "menu_close_window": {
+      "message": "Κλείσιμο αυτού του παραθύρου"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Η συσκευή που ψάχνετε δεν είναι στη λίστα; Πείτε μας!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Οι προσαρμοσμένες συσκευές μου"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Προσθέστε τις δικές σας προσαρμοσμένες συσκευές!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Απενεργοποίηση λειτουργίας σύγκρισης"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Ενεργοποίηση λειτουργίας σύγκρισης"
+   },
+   "menu_extensions": {
+      "message": "Ανακαλύψτε τις άλλες επεκτάσεις μας για το Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Δείτε όλες τις συχνές ερωτήσεις"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Πώς να ενεργοποιήσετε τον προσομοιωτή σε ιδιωτική περιήγηση;"
+   },
+   "menu_faq_media_queries": {
+      "message": "Οι media queries μου δεν λαμβάνονται υπόψη"
+   },
+   "menu_faq_scroll": {
+      "message": "Δεν είναι δυνατή η κύλιση στον προσομοιωτή"
+   },
+   "menu_faq_shortcut": {
+      "message": "Πώς να ρυθμίσετε συντομεύσεις πληκτρολογίου;"
+   },
+   "menu_faq_subscription": {
+      "message": "Γιατί η συνδρομή μου δεν λειτουργεί;"
+   },
+   "menu_faq_title": {
+      "message": "Συχνές ερωτήσεις"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Αγαπημένα"
+   },
+   "menu_info_device": {
+      "message": "Χαρακτηριστικά και mockup αυτής της συσκευής"
+   },
+   "menu_info_device_features": {
+      "message": "Χαρακτηριστικά (ανάλυση viewport, κ.λπ.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Δωρεάν mockup σε διαφανές PNG"
+   },
+   "menu_report": {
+      "message": "Αναφορά σφάλματος"
+   },
+   "menu_rotate": {
+      "message": "Αλλαγή προσανατολισμού"
+   },
+   "menu_screencast": {
+      "message": "📹 Εγγραφή βίντεο της οθόνης"
+   },
+   "menu_screenshot": {
+      "message": "📷 Λήψη στιγμιότυπου οθόνης"
+   },
+   "menu_send_improvement": {
+      "message": "Προτείνετε μια βελτίωση"
+   },
+   "menu_send_message": {
+      "message": "Κέντρο βοήθειας"
+   },
+   "menu_settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "menu_share": {
+      "message": "Μοιραστείτε με έναν συνάδελφο, φίλο,..."
+   },
+   "menu_vote_feature": {
+      "message": "Ψηφίστε για τις λειτουργίες που θέλετε"
+   },
+   "menu_zoom": {
+      "message": "Μεγέθυνση στη συσκευή"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Περισσότερες ρυθμίσεις"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Ανακαλύψτε τώρα τη νέα δυνατότητα σύγκρισης πολλαπλών συσκευών!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Συγκρίνετε την ταυτόχρονη προβολή πολλαπλών συσκευών στο ίδιο παράθυρο. Συγχρονισμένο scroll, κλικ, πληκτρολόγιο."
+   },
+   "new_video_feature_h1": {
+      "message": "Ανακαλύψτε τώρα τη νέα δυνατότητα καταγραφής βίντεο!"
+   },
+   "new_video_feature_h2": {
+      "message": "Εγγραφή με καλύτερη ποιότητα, με νέες επιλογές και με διαφανές φόντο"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.14.5\u003C/strong>Σημαντική αύξηση της \u003Cstrong>ανάλυσης και της ποιότητας\u003C/strong> των στιγμιότυπων οθόνης \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.15.0\u003C/strong>Ενεργοποίηση του \u003Cstrong>touch scroll\u003C/strong> για smartphones και tablets \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.15.0\u003C/strong>Ενεργοποίηση του \u003Cstrong>touch scroll\u003C/strong> για smartphones και tablets."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.15.5\u003C/strong>\u003Cul>\u003Cli>Διόρθωση για τις λήψεις οθόνης πλήρους σελίδας σε \u003Cstrong>τοπικά αρχεία\u003C/strong>.\u003C/li>\u003Cli>Διόρθωση για τις μονάδες vh, dhv, lvh, svh στο \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.16.0\u003C/strong>Προσθήκη δυνατότητας δημιουργίας προσαρμοσμένων συσκευών \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Ενημέρωση v4.17.0\u003C/strong>Προστέθηκε η δυνατότητα σύγκρισης πολλών συσκευών ταυτόχρονα! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Καλώς ήρθατε στο Mobile FIRST 👋\u003C/strong>Προσομοιώστε με ένα κλικ τηλέφωνα, tablets και υπολογιστές για να δοκιμάσετε και να δείτε εύκολα τους ιστότοπούς σας.\u003Cbr>\u003Cbr>\u003Cstrong>Το μενού βρίσκεται δεξιά ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Προαιρετικό"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Εγκατάσταση"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Αυτή η επέκταση σας επιτρέπει να καταγράψετε οποιοδήποτε χρώμα στην οθόνη."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Color picker"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Αναγνωρίστε με ένα κλικ τη γραμματοσειρά που χρησιμοποιείται σε οποιοδήποτε κείμενο μιας ιστοσελίδας."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Font finder"
+   },
+   "other_extensions_h1": {
+      "message": "Ανακαλύψτε τις ολοκαίνουργιες δωρεάν επεκτάσεις μας"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Ειδικά"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Ενεργοποίηση επιλογής"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Αυτός ο προσομοιωτής δεν μπορεί να ενεργοποιηθεί από προεπιλογή σε τοπικά αρχεία (file:///), αλλά μπορείτε να ενεργοποιήσετε την επιλογή χειροκίνητα στις ρυθμίσεις του Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Ο προσομοιωτής δεν μπορεί να ενεργοποιηθεί σε αυτήν τη σελίδα του προγράμματος περιήγησής σας. Δοκιμάστε σε άλλη καρτέλα ή περιηγηθείτε σε έναν ιστότοπο και επανεκκινήστε."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Όλες οι ρυθμίσεις βίντεο"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Σύγκριση πολλαπλών συσκευών"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Χρεώνεται ετησίως"
+   },
+   "pro_modale_button": {
+      "message": "Εγγράφομαι"
+   },
+   "pro_modale_from": {
+      "message": "Από"
+   },
+   "pro_modale_h1": {
+      "message": "Γίνετε PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Αφαιρέστε τις διαφημίσεις"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Μετατρέψτε τις λήψεις βίντεο σας σε μορφές GIF και MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Προσομοιώστε όλες τις συσκευές"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Επεξεργαστείτε τις λήψεις σας"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Συγκρίνετε περισσότερες από δύο συσκευές ταυτόχρονα"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Ξεκλειδώστε όλες τις ρυθμίσεις εγγραφής βίντεο"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Ξεκλειδώστε όλες τις ρυθμίσεις"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Κάντε λήψεις οθόνης χωρίς όριο"
+   },
+   "pro_modale_h2": {
+      "message": "Γίνετε PRO και συμβάλλετε ενεργά στην ανάπτυξη αυτής της επέκτασης υποστηρίζοντας τον προγραμματιστή της."
+   },
+   "pro_modale_link_1": {
+      "message": "Ή"
+   },
+   "pro_modale_link_2": {
+      "message": "συνδέομαι"
+   },
+   "pro_modale_link_3": {
+      "message": "στον λογαριασμό μου"
+   },
+   "pro_modale_recurring_month": {
+      "message": "μήνας"
+   },
+   "pro_modale_savings": {
+      "message": "Εξοικονομήστε"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Ετήσιο"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Μηνιαίο"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "μετά τη δωρεάν δοκιμή 7 ημερών"
+   },
+   "pro_modale_trial_button": {
+      "message": "Ξεκινήστε τη δωρεάν δοκιμή 7 ημερών"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Δοκιμάστε τη PRO έκδοση δωρεάν για 7 ημέρες"
+   },
+   "pro_modale_trial_note": {
+      "message": "Τίποτα να πληρώσετε σήμερα · Χωρίς δέσμευση, ακυρώσιμο ανά πάσα στιγμή"
+   },
+   "pro_modale_trial_then": {
+      "message": "στη συνέχεια"
+   },
+   "pro_modale_trial_today": {
+      "message": "σήμερα"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Πώς θα αξιολογούσατε αυτήν την επέκταση;"
+   },
+   "review_note_feedback": {
+      "message": "Ευχαριστούμε για τα σχόλιά σας, μην διστάσετε να μας στείλετε ένα μήνυμα για να βελτιώσουμε αυτήν την επέκταση."
+   },
+   "review_note_store": {
+      "message": "Ευχαριστώ για τα σχόλιά σας, μη διστάσετε να προσθέσετε μια αξιολόγηση στη σελίδα της επέκτασης. Θα σας ήμουν πολύ ευγνώμων 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Η άδεια πρόσβασης στην κάμερα απορρίφθηκε."
+   },
+   "screencast_error": {
+      "message": "Παρουσιάστηκε σφάλμα κατά την εγγραφή. {Κάντε κλικ εδώ} για μια λύση."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Η έκδοση του Chrome σας είναι πολύ παλιά για αυτήν τη λειτουργία. Παρακαλώ ενημερώστε το Chrome σε έκδοση μεγαλύτερη από 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Παρακαλώ μοιραστείτε το τρέχον παράθυρο (και όχι ολόκληρη την οθόνη) ώστε η εγγραφή να είναι σωστά πλαισιωμένη."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Η άδεια πρόσβασης στο μικρόφωνο απορρίφθηκε."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Οι εγγραφές βίντεο περιορίζονται σε 5 λεπτά στη δωρεάν έκδοση."
+   },
+   "screencast_modale_contact": {
+      "message": "Αναφορά σφάλματος, προτείνετε μια βελτίωση"
+   },
+   "screencast_modale_copy": {
+      "message": "Αντιγραφή"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Συμβατό παντού, αλλά χαμηλότερη ποιότητα (με διαφάνεια αν είναι ενεργοποιημένη η επιλογή)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Καλύτερη συμβατότητα με το PowerPoint, αλλά χωρίς διαφάνεια"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Λήψη στη προεπιλεγμένη μορφή WEBM (με διαφάνεια αν είναι ενεργοποιημένη η επιλογή)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Η μέγιστη διάρκεια ενός GIF είναι 60 δευτερόλεπτα. Πέρα από αυτό, το αρχείο θα ήταν πολύ μεγάλο."
+   },
+   "screencast_modale_texte": {
+      "message": "Μπορείτε να κατεβάσετε αυτό το βίντεο σε διάφορες μορφές ή να αποκτήσετε έναν σύνδεσμο κοινής χρήσης."
+   },
+   "screencast_modale_title": {
+      "message": "Βίντεο καταγραφής"
+   },
+   "screencast_modale_upload": {
+      "message": "Αποκτήστε έναν σύνδεσμο κοινής χρήσης"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Η ποιότητα του βίντεο επηρεάζει το bitrate, το fps & την ανάλυση της εγγραφής. Όσο υψηλότερη είναι η ποιότητα, τόσο μεγαλύτερο θα είναι το αρχείο."
+   },
+   "screencast_start_recording": {
+      "message": "Έναρξη εγγραφής"
+   },
+   "screencast_tooltip_device": {
+      "message": "Καταγραφή βίντεο μόνο της συσκευής"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Καταγραφή βίντεο της καρτέλας με τη συσκευή"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Δημιουργία λήψης"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Σχεδίαση βέλους"
+   },
+   "screenshot_editor_close": {
+      "message": "Κλείσιμο του επεξεργαστή"
+   },
+   "screenshot_editor_color": {
+      "message": "Χρώμα γραμμής"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Σχεδίαση κύκλου"
+   },
+   "screenshot_editor_line": {
+      "message": "Σχεδίαση γραμμής"
+   },
+   "screenshot_editor_pen": {
+      "message": "Ελεύθερη σχεδίαση"
+   },
+   "screenshot_editor_rect": {
+      "message": "Σχεδίαση ορθογωνίου"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Πάχος γραμμής"
+   },
+   "screenshot_editor_undo": {
+      "message": "Αναίρεση της τελευταίας ενέργειας"
+   },
+   "screenshot_menu_1": {
+      "message": "Λήψη με τη συσκευή"
+   },
+   "screenshot_menu_2": {
+      "message": "Λήψη μόνο του ιστότοπου"
+   },
+   "screenshot_menu_3": {
+      "message": "Λήψη ολόκληρης της σελίδας"
+   },
+   "screenshot_menu_4": {
+      "message": "Λήψη ολόκληρης της καρτέλας"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Διακοπή πριν το τέλος της σελίδας"
+   },
+   "screenshot_modale_copy": {
+      "message": "Αντιγραφή της εικόνας στο πρόχειρο"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Λήψη σε μορφή PNG (χωρίς συμπίεση)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Λήψη σε μορφή WEBP, συμβατή σχεδόν παντού και με βελτιστοποιημένη συμπίεση (συνιστάται)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Επεξεργασία της λήψης"
+   },
+   "screenshot_modale_help": {
+      "message": "Για να αποθηκεύσετε την εικόνα σε μεγάλο μέγεθος, απλώς κάντε δεξί κλικ πάνω της και επιλέξτε \"Αντιγραφή εικόνας\" ή \"Αποθήκευση\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Στιγμιότυπο οθόνης"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Πλαίσιο"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Λόγω ορισμένων τεχνικών περιορισμών, είναι πιθανό κατά τη λήψη στιγμιότυπου οθόνης να λάβετε αυτό το μήνυμα σφάλματος."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Λύση"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Σε αυτήν την περίπτωση, για να ξεκινήσετε τη λήψη, απλώς κάντε δεξί κλικ οπουδήποτε στη σελίδα, επιλέξτε την καταχώρηση «Προσομοιωτής κινητού» και στη συνέχεια «📷 Λήψη στιγμιότυπου οθόνης»"
+   },
+   "screenshot_workaround_title": {
+      "message": "Λύση για το πρόβλημα λήψης στιγμιότυπου οθόνης"
+   },
+   "see_less": {
+      "message": "Δείτε λιγότερα"
+   },
+   "see_more": {
+      "message": "Δείτε περισσότερα"
+   },
+   "select": {
+      "message": "Επιλογή..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Εγγραφείτε για να ξεκλειδώσετε την έκδοση PRO ή συνδεθείτε αν έχετε ήδη λογαριασμό."
+   },
+   "settings_account_cta_title": {
+      "message": "Πρόσβαση στον λογαριασμό σας"
+   },
+   "settings_account_greeting": {
+      "message": "Γεια σου $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Επίπεδο μπαταρίας στην κεφαλίδα της συσκευής (%)"
+   },
+   "settings_camera": {
+      "message": "Κάμερα"
+   },
+   "settings_change_analytics": {
+      "message": "Βοηθήστε τον προγραμματιστή να βελτιώσει την επέκταση μοιράζοντας 100% ανώνυμα και μη προσωπικά δεδομένα χρήσης."
+   },
+   "settings_change_background": {
+      "message": "Αλλαγή του χρώματος φόντου"
+   },
+   "settings_change_cursor": {
+      "message": "Κύλιση αφής & εμφάνιση κινητού δείκτη"
+   },
+   "settings_countdown": {
+      "message": "Αντίστροφη μέτρηση (δευτερόλεπτα)"
+   },
+   "settings_default_device": {
+      "message": "Προεπιλεγμένη συσκευή κατά την ενεργοποίηση"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Επιλογή συσκευής"
+   },
+   "settings_device_default_url": {
+      "message": "Αλλαγή της URL που εμφανίζεται στη συσκευή"
+   },
+   "settings_device_forced_time": {
+      "message": "Εξαναγκασμός της ώρας που εμφανίζεται στη συσκευή"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Επιστροφή στην τρέχουσα ώρα"
+   },
+   "settings_device_hide": {
+      "message": "Εμφάνιση του πλαισίου της συσκευής"
+   },
+   "settings_fullscreen": {
+      "message": "Ιστότοπος σε πλήρη οθόνη στη συσκευή"
+   },
+   "settings_h2_customization": {
+      "message": "Προσαρμογή"
+   },
+   "settings_h2_device": {
+      "message": "Συσκευή"
+   },
+   "settings_h2_display": {
+      "message": "Γενική προβολή"
+   },
+   "settings_h2_global": {
+      "message": "Γενικά"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Λειτουργία πολλαπλών παραθύρων"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Απόκρυψη της διεπαφής του προγράμματος περιήγησης της συσκευής (γραμμή διευθύνσεων, κ.λπ.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Προσομοίωση εμφάνισης του πληκτρολογίου κατά την πληκτρολόγηση"
+   },
+   "settings_login_button": {
+      "message": "Σύνδεση"
+   },
+   "settings_microphone": {
+      "message": "Μικρόφωνο"
+   },
+   "settings_nav_account": {
+      "message": "Λογαριασμός"
+   },
+   "settings_nav_appearance": {
+      "message": "Εμφάνιση"
+   },
+   "settings_nav_device": {
+      "message": "Συσκευή"
+   },
+   "settings_os_display": {
+      "message": "Προβολή OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Εμφανίζει τη γραμμή κατάστασης του OS και το πρόγραμμα περιήγησης (γραμμή διευθύνσεων)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Αποκρύπτει το πρόγραμμα περιήγησης αλλά διατηρεί τη γραμμή κατάστασης του OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Αποκρύπτει τη γραμμή κατάστασης του OS και το πρόγραμμα περιήγησης."
+   },
+   "settings_presenter_mode": {
+      "message": "Λειτουργία παρουσίασης (το μενού δεξιά ορατό μόνο κατά την αιώρηση)"
+   },
+   "settings_pro_account": {
+      "message": "Διαχείριση της συνδρομής μου"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Η συνδρομή σας θα λήξει στις"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Η ανανέωση της συνδρομής σας απέτυχε. Παρακαλώ ενημερώστε τις πληροφορίες πληρωμής σας για να διατηρήσετε την έκδοση PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Επανενεργοποίηση της συνδρομής μου"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Αυτόματη ανίχνευση και εμφάνιση των PWA ως εφαρμογή για κινητά."
+   },
+   "settings_scrollbar_show": {
+      "message": "Εμφάνιση της εγγενούς γραμμής κύλισης στη συσκευή"
+   },
+   "settings_shortcuts": {
+      "message": "Ορισμός συντομεύσεων πληκτρολογίου"
+   },
+   "settings_signup_button": {
+      "message": "Εγγραφή"
+   },
+   "settings_subscribe": {
+      "message": "Ξεκλείδωμα της έκδοσης PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Εγγραφή"
+   },
+   "settings_sync_events": {
+      "message": "Συγχρονισμός των γεγονότων μεταξύ των παραθύρων (κλικ, κύλιση, κ.λπ.)"
+   },
+   "settings_theme": {
+      "message": "Θέμα"
+   },
+   "settings_theme_auto": {
+      "message": "Αυτόματο"
+   },
+   "settings_theme_dark": {
+      "message": "Σκοτεινό"
+   },
+   "settings_theme_light": {
+      "message": "Φωτεινό"
+   },
+   "settings_title": {
+      "message": "Ρυθμίσεις"
+   },
+   "settings_transparent_background": {
+      "message": "Διαφανές φόντο"
+   },
+   "settings_transparent_background_info": {
+      "message": "Αυτή η επιλογή συνεπάγεται περισσότερους υπολογισμούς και επομένως πιθανή επιβράδυνση της εμφάνισης ανάλογα με τον υπολογιστή σας (συμβατό μόνο με τις μορφές WEBM και GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Ποιότητα βίντεο"
+   },
+   "settings_video_quality_high": {
+      "message": "Εξαιρετική"
+   },
+   "settings_video_quality_low": {
+      "message": "Μέτρια"
+   },
+   "settings_video_quality_medium": {
+      "message": "Καλή"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Αυτός ο προσομοιωτής κινητού σας είναι χρήσιμος;"
+   },
+   "sharing_h2": {
+      "message": "Τότε μοιραστείτε τον με τους συναδέλφους ή φίλους σας"
+   },
+   "sharing_review_1": {
+      "message": "Και αν έχετε ένα λεπτό για"
+   },
+   "sharing_review_2": {
+      "message": "να προσθέσετε μια κριτική"
+   },
+   "sharing_review_3": {
+      "message": "τότε είναι το κερασάκι στην τούρτα! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Προσθέτω μια κριτική"
+   },
+   "sharing_txt": {
+      "message": "Προσομοιωτής για να δοκιμάσετε την ιστοσελίδα σας σε κινητό & tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Αυτή είναι απλώς μια εικόνα. Χρησιμοποιήστε το δικό σας πληκτρολόγιο."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 δεν επιτρέπει την εμφάνιση των σελίδων του μέσα σε άλλη σελίδα: ο ιστότοπος δεν μπορεί να προσομοιωθεί στο Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Αυτή είναι απλώς μια εικόνα. Για να αλλάξετε το URL, χρησιμοποιήστε το πεδίο του Chrome παραπάνω."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablets"
+   },
+   "try_it": {
+      "message": "Δοκιμάστε τώρα"
+   },
+   "update_4_14_5_description": {
+      "message": "Σημαντική βελτίωση στην ανάλυση και την ποιότητα των στιγμιότυπων οθόνης."
+   },
+   "update_4_14_5_title": {
+      "message": "Πιο καθαρές λήψεις"
+   },
+   "update_4_15_0_description": {
+      "message": "Ενεργοποίηση αφής κύλισης σε smartphones και tablets."
+   },
+   "update_4_15_0_title": {
+      "message": "Αφή κύλισης"
+   },
+   "update_4_15_5_description": {
+      "message": "Πλήρεις σελίδες στιγμιότυπα σε τοπικά αρχεία και διορθώσεις μονάδων εμφάνισης σε iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Διορθώσεις"
+   },
+   "update_4_16_0_description": {
+      "message": "Μπορείτε πλέον να προσθέσετε τις δικές σας συσκευές με συγκεκριμένες διαστάσεις."
+   },
+   "update_4_16_0_title": {
+      "message": "Προσαρμοσμένες συσκευές"
+   },
+   "update_4_17_0_description": {
+      "message": "Συγκρίνετε πολλές συσκευές δίπλα-δίπλα ταυτόχρονα. Τα κλικ, οι κύλιση και το πληκτρολόγιο συγχρονίζονται."
+   },
+   "update_4_17_0_title": {
+      "message": "Σύγκριση συσκευών"
+   },
+   "update_4_19_0_description": {
+      "message": "3 μοντέλα Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 και Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 νέες συσκευές Android"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max και το αναδιπλούμενο iPhone Duo, σε διπλωμένη και ανοιχτή έκδοση."
+   },
+   "update_4_21_0_title": {
+      "message": "4 νέα iPhones"
+   },
+   "update_tag_feature": {
+      "message": "ΛΕΙΤΟΥΡΓΙΑ"
+   },
+   "update_tag_fix": {
+      "message": "ΔΙΟΡΘΩΣΗ"
+   },
+   "update_tag_improvement": {
+      "message": "ΒΕΛΤΙΩΣΗ"
+   },
+   "update_tag_new": {
+      "message": "NEW"
+   }
+}

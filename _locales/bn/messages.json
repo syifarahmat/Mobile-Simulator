@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> অ্যান্ড্রয়েড ফোন"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> অ্যাপল ফোন"
+   },
+   "button_feedback": {
+      "message": "একটি রেটিং যোগ করুন"
+   },
+   "button_message": {
+      "message": "আমাদের একটি বার্তা পাঠান"
+   },
+   "close": {
+      "message": "বন্ধ করুন"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "ডিভাইসের নাম"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, ইত্যাদি।"
+   },
+   "contact_title": {
+      "message": "আপনি যে ডিভাইসটি খুঁজছেন তা তালিকায় নেই? আমাদের জানান!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "এই ট্যাবে মোবাইল ভিউ সক্রিয় করুন"
+   },
+   "copied": {
+      "message": "কপি করা হয়েছে"
+   },
+   "custom_device_add": {
+      "message": "কাস্টম ডিভাইস যোগ করুন"
+   },
+   "custom_device_dpr": {
+      "message": "ডিভাইস পিক্সেল রেশিও"
+   },
+   "custom_device_error_name": {
+      "message": "ডিভাইসের নাম আবশ্যক।"
+   },
+   "custom_device_error_os": {
+      "message": "অপারেটিং সিস্টেম আবশ্যক।"
+   },
+   "custom_device_error_ua": {
+      "message": "ইউজার এজেন্ট আবশ্যক।"
+   },
+   "custom_device_error_viewport": {
+      "message": "ভিউপোর্ট প্রস্থ এবং উচ্চতা 10 থেকে 4096 এর মধ্যে হতে হবে।"
+   },
+   "custom_device_height": {
+      "message": "ভিউপোর্ট উচ্চতা (px)"
+   },
+   "custom_device_less": {
+      "message": "কম সেটিংস"
+   },
+   "custom_device_more": {
+      "message": "আরও সেটিংস"
+   },
+   "custom_device_name": {
+      "message": "ডিভাইসের নাম"
+   },
+   "custom_device_network": {
+      "message": "নেটওয়ার্ক"
+   },
+   "custom_device_os_name": {
+      "message": "অপারেটিং সিস্টেম"
+   },
+   "custom_device_os_version": {
+      "message": "ওএস সংস্করণ"
+   },
+   "custom_device_submit": {
+      "message": "যোগ করুন"
+   },
+   "custom_device_title": {
+      "message": "কাস্টম ডিভাইস যোগ করুন"
+   },
+   "custom_device_ua": {
+      "message": "ইউজার এজেন্ট স্ট্রিং"
+   },
+   "custom_device_ua_custom": {
+      "message": "কাস্টম ইউজার এজেন্ট"
+   },
+   "custom_device_ua_preset": {
+      "message": "ইউজার এজেন্ট"
+   },
+   "custom_device_width": {
+      "message": "ভিউপোর্ট প্রস্থ (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "ডিভাইসের ভিজ্যুয়াল লোড করা যায়নি। এটি বিজ্ঞাপন ব্লকার বা আপনার প্রতিষ্ঠানের নিরাপত্তা নীতির কারণে হতে পারে। সিমুলেটর সম্পূর্ণরূপে ব্যবহারযোগ্য থাকে, শুধুমাত্র মকআপ প্রদর্শিত হয় না।"
+   },
+   "device_mockup_blocked_title": {
+      "message": "ডিভাইস মকআপ অনুপলব্ধ"
+   },
+   "device_variant_folded": {
+      "message": "ভাঁজ করা"
+   },
+   "device_variant_unfolded": {
+      "message": "খোলা"
+   },
+   "dimensions": {
+      "message": "মাত্রা"
+   },
+   "error": {
+      "message": "ত্রুটি"
+   },
+   "error_contact": {
+      "message": "{সমস্যা অব্যাহত থাকলে আমাদের সাথে যোগাযোগ করুন}।"
+   },
+   "extDescription": {
+      "message": "ফোন সিমুলেটর — ৮০টিরও বেশি ডিভাইসে আপনার সাইটগুলি পরীক্ষা এবং পূর্বরূপ দেখার জন্য বিনামূল্যের Chrome এক্সটেনশন"
+   },
+   "extName": {
+      "message": "মোবাইল ফোন সিমুলেটর - রেসপন্সিভ সাইট পরীক্ষা"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "উত্তর দেবেন না"
+   },
+   "feedback_company_type": {
+      "message": "আপনার কোম্পানির ধরণ কি?"
+   },
+   "feedback_company_type_agency": {
+      "message": "ছোট ব্যবসা (10-49 কর্মচারী)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "স্বাধীন"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "খুব বড় ব্যবসা / গ্রুপ (5000+ কর্মচারী)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "মাইক্রো-বিজনেস (1-9 কর্মচারী)"
+   },
+   "feedback_company_type_pme": {
+      "message": "বড় ব্যবসা (250-4999 কর্মচারী)"
+   },
+   "feedback_company_type_startup": {
+      "message": "মাঝারি ব্যবসা (50-249 কর্মচারী)"
+   },
+   "feedback_error_required": {
+      "message": "সব ক্ষেত্র খালি 🤔"
+   },
+   "feedback_frequency": {
+      "message": "আপনি কত ঘন ঘন এই এক্সটেনশনটি ব্যবহার করেন?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "অবসরে"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "সপ্তাহে কয়েকবার"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "দৈনিক"
+   },
+   "feedback_frequency_rare": {
+      "message": "বিরল"
+   },
+   "feedback_improvements": {
+      "message": "আপনি কোন উন্নতি দেখতে চান?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "একটি ধারণা, একটি বাধা, একটি অভাব..."
+   },
+   "feedback_profession": {
+      "message": "আপনার পেশাগত বিভাগ কি?"
+   },
+   "feedback_profession_designer": {
+      "message": "ডিজাইন"
+   },
+   "feedback_profession_developer": {
+      "message": "ডেভেলপমেন্ট"
+   },
+   "feedback_profession_marketing": {
+      "message": "মার্কেটিং"
+   },
+   "feedback_profession_other": {
+      "message": "অন্যান্য"
+   },
+   "feedback_profession_product": {
+      "message": "প্রোডাক্ট ম্যানেজমেন্ট"
+   },
+   "feedback_profession_qa": {
+      "message": "পরীক্ষা / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "বিক্রয়"
+   },
+   "feedback_submit": {
+      "message": "পাঠান"
+   },
+   "feedback_submitted": {
+      "message": "আপনার প্রতিক্রিয়ার জন্য অনেক ধন্যবাদ 🤗"
+   },
+   "feedback_title": {
+      "message": "Mobile FIRST কে আপনার জন্য আরও উপযোগী করতে আমাদের সাহায্য করুন 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "আমার সাইট পরীক্ষা করা, ক্লায়েন্ট ডেমো করা..."
+   },
+   "feedback_use_cases": {
+      "message": "আপনি কেন Mobile FIRST ব্যবহার করেন?"
+   },
+   "get_pro": {
+      "message": "PRO সংস্করণ পান"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "সর্বশেষ আপডেট"
+   },
+   "link": {
+      "message": "লিঙ্ক"
+   },
+   "logout_modale_button": {
+      "message": "লগইন"
+   },
+   "logout_modale_message": {
+      "message": "এই ডিভাইসটি আপনার অনুমোদিত টার্মিনালগুলির অংশ নয়। আপনি যদি ম্যানুয়ালি এই অ্যাক্সেসটি সরিয়ে থাকেন, তবে পুনরায় লগইন প্রয়োজন।"
+   },
+   "logout_modale_message2": {
+      "message": "নিরাপত্তার জন্য, আপনাকে স্বয়ংক্রিয়ভাবে আপনার অ্যাকাউন্ট থেকে লগ আউট করা হয়েছে। তবে আপনি নীচের বোতামে ক্লিক করে পুনরায় লগ ইন করতে পারেন।"
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ আপনি কি আপনার সাবস্ক্রিপশন শেয়ার করতে চান? অন্যদের অনুমতি দিতে, কেবল আপনার অ্যাকাউন্টের \"ব্যবহারকারী\" বিভাগ থেকে তাদের যোগ করুন।"
+   },
+   "logout_modale_title": {
+      "message": "আপনাকে এই ডিভাইসে স্বয়ংক্রিয়ভাবে লগ আউট করা হয়েছে"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "ট্যাবে দৃশ্যমান ডিভাইস"
+   },
+   "menu_add_window": {
+      "message": "উইন্ডো যোগ করুন"
+   },
+   "menu_change_device": {
+      "message": "ডিভাইস পরিবর্তন করুন বা তুলনা করুন"
+   },
+   "menu_close_alone": {
+      "message": "সিমুলেটর নিষ্ক্রিয় করুন"
+   },
+   "menu_close_window": {
+      "message": "এই উইন্ডোটি বন্ধ করুন"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> আপনি যে ডিভাইসটি খুঁজছেন তা তালিকায় নেই? আমাদের জানান!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;আমার কাস্টম ডিভাইস"
+   },
+   "menu_custom_devices_banner": {
+      "message": "আপনার নিজস্ব কাস্টম ডিভাইস যোগ করুন!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "তুলনা মোড নিষ্ক্রিয় করুন"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "তুলনা মোড সক্রিয় করুন"
+   },
+   "menu_extensions": {
+      "message": "আমাদের অন্যান্য Chrome এক্সটেনশনগুলি আবিষ্কার করুন"
+   },
+   "menu_faq_all": {
+      "message": "সব প্রশ্নাবলী দেখুন"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "গোপনীয় ব্রাউজিংয়ে সিমুলেটর কীভাবে সক্রিয় করবেন?"
+   },
+   "menu_faq_media_queries": {
+      "message": "আমার মিডিয়া কোয়েরিগুলি গ্রহণ করা হচ্ছে না"
+   },
+   "menu_faq_scroll": {
+      "message": "সিমুলেটরে স্ক্রল করা অসম্ভব"
+   },
+   "menu_faq_shortcut": {
+      "message": "কীভাবে কীবোর্ড শর্টকাট সেট করবেন?"
+   },
+   "menu_faq_subscription": {
+      "message": "আমার সাবস্ক্রিপশন কেন কাজ করছে না?"
+   },
+   "menu_faq_title": {
+      "message": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> প্রিয়"
+   },
+   "menu_info_device": {
+      "message": "এই ডিভাইসের বৈশিষ্ট্য এবং মকআপ"
+   },
+   "menu_info_device_features": {
+      "message": "বৈশিষ্ট্য (ভিউপোর্ট রেজোলিউশন, ইত্যাদি)"
+   },
+   "menu_info_device_mockup": {
+      "message": "স্বচ্ছ PNG ফরম্যাটে বিনামূল্যে মকআপ"
+   },
+   "menu_report": {
+      "message": "একটি বাগ রিপোর্ট করুন"
+   },
+   "menu_rotate": {
+      "message": "অরিয়েন্টেশন পরিবর্তন করুন"
+   },
+   "menu_screencast": {
+      "message": "📹 স্ক্রিন ভিডিও রেকর্ড করুন"
+   },
+   "menu_screenshot": {
+      "message": "📷 স্ক্রিনশট নিন"
+   },
+   "menu_send_improvement": {
+      "message": "উন্নতির প্রস্তাব দিন"
+   },
+   "menu_send_message": {
+      "message": "সাহায্য কেন্দ্র"
+   },
+   "menu_settings": {
+      "message": "কনফিগারেশন"
+   },
+   "menu_share": {
+      "message": "একজন সহকর্মী, বন্ধু,... এর সাথে শেয়ার করুন"
+   },
+   "menu_vote_feature": {
+      "message": "আপনি যে বৈশিষ্ট্যগুলি চান তার জন্য ভোট দিন"
+   },
+   "menu_zoom": {
+      "message": "ডিভাইসে জুম করুন"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "আরও সেটিংস"
+   },
+   "new_comparison_feature_h1": {
+      "message": "এখনই একাধিক ডিভাইস তুলনা করার নতুন বৈশিষ্ট্য আবিষ্কার করুন!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "একই উইন্ডোতে একাধিক ডিভাইসের প্রদর্শন একসাথে তুলনা করুন। স্ক্রল, ক্লিক, কীবোর্ড সিঙ্ক্রোনাইজড।"
+   },
+   "new_video_feature_h1": {
+      "message": "নতুন ভিডিও ক্যাপচার বৈশিষ্ট্য এখনই আবিষ্কার করুন!"
+   },
+   "new_video_feature_h2": {
+      "message": "উন্নত মানের সাথে রেকর্ড করুন, নতুন অপশন সহ এবং স্বচ্ছ পটভূমি সহ"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>আপডেট v4.14.5\u003C/strong>স্ক্রিনশটের \u003Cstrong>রেজোলিউশন এবং গুণমানের\u003C/strong> উল্লেখযোগ্য বৃদ্ধি \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>আপডেট v4.15.0\u003C/strong>স্মার্টফোন এবং ট্যাবলেটের জন্য \u003Cstrong>টাচ স্ক্রল\u003C/strong> সক্রিয়করণ \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>v4.15.0 আপডেট\u003C/strong>স্মার্টফোন এবং ট্যাবলেটের জন্য \u003Cstrong>টাচ স্ক্রল\u003C/strong> সক্রিয় করা হয়েছে।"
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>আপডেট v4.15.5\u003C/strong>\u003Cul>\u003Cli>\u003Cstrong>স্থানীয় ফাইল\u003C/strong>গুলিতে পুরো পৃষ্ঠার স্ক্রিনশটের সংশোধন।\u003C/li>\u003Cli>\u003Cstrong>iOS&nbsp;26\u003C/strong>-এ vh, dhv, lvh, svh ইউনিটের সংশোধন।\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>আপডেট v4.16.0\u003C/strong>কাস্টম ডিভাইস তৈরি করার ক্ষমতা যোগ করা হয়েছে \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>আপডেট v4.17.0\u003C/strong>একাধিক ডিভাইস একসাথে তুলনা করার ফিচার যোগ করা হয়েছে! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Mobile FIRST এ স্বাগতম 👋\u003C/strong>এক ক্লিকে ফোন, ট্যাবলেট এবং কম্পিউটার সিমুলেট করুন আপনার সাইটগুলি সহজেই পরীক্ষা এবং ভিজ্যুয়ালাইজ করতে।\u003Cbr>\u003Cbr>\u003Cstrong>মেনুটি ডানদিকে ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "ঐচ্ছিক"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "ইনস্টল করুন"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "এই এক্সটেনশনটি আপনাকে স্ক্রিনে যেকোনো রঙ ক্যাপচার করতে দেয়।"
+   },
+   "other_extensions_color_picker_title": {
+      "message": "রঙ পিকার"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "ওয়েব পৃষ্ঠার যেকোনো টেক্সটে ব্যবহৃত ফন্টটি একটি ক্লিক দিয়ে সনাক্ত করুন।"
+   },
+   "other_extensions_font_finder_title": {
+      "message": "ফন্ট ফাইন্ডার"
+   },
+   "other_extensions_h1": {
+      "message": "আমাদের সম্পূর্ণ নতুন বিনামূল্যের এক্সটেনশনগুলি আবিষ্কার করুন"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> বিশেষ"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "অপশন সক্রিয় করুন"
+   },
+   "popup_activate_local_files_info": {
+      "message": "এই সিমুলেটরটি ডিফল্টভাবে স্থানীয় ফাইলগুলিতে (file:///) সক্রিয় করা যাবে না তবে আপনি Chrome সেটিংসে ম্যানুয়ালি অপশনটি সক্রিয় করতে পারেন।"
+   },
+   "popup_site_incompatible": {
+      "message": "সিমুলেটরটি আপনার ব্রাউজারের এই নেটিভ পৃষ্ঠায় সক্রিয় করা যাবে না। অন্য একটি ট্যাবে চেষ্টা করুন বা একটি সাইটে নেভিগেট করুন তারপর পুনরায় চালু করুন।"
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "সব ভিডিও সেটিংস"
+   },
+   "pro_modale_avantage_2": {
+      "message": "মাল্টি-ডিভাইস তুলনা"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "বার্ষিক বিল করা হয়"
+   },
+   "pro_modale_button": {
+      "message": "আমি সাবস্ক্রাইব করি"
+   },
+   "pro_modale_from": {
+      "message": "থেকে"
+   },
+   "pro_modale_h1": {
+      "message": "একজন PRO হন"
+   },
+   "pro_modale_h1_ads": {
+      "message": "বিজ্ঞাপন সরান"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "আপনার ভিডিও ক্যাপচারগুলি GIF এবং MP4 ফরম্যাটে রূপান্তর করুন"
+   },
+   "pro_modale_h1_devices": {
+      "message": "সব ডিভাইস সিমুলেট করুন"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "আপনার ক্যাপচারগুলি সম্পাদনা করুন"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "একাধিক ডিভাইস একসাথে তুলনা করুন"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "সব ভিডিও রেকর্ডিং সেটিংস আনলক করুন"
+   },
+   "pro_modale_h1_settings": {
+      "message": "সব সেটিংস আনলক করুন"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "অসীম স্ক্রিনশট নিন"
+   },
+   "pro_modale_h2": {
+      "message": "একজন PRO হন এবং এই এক্সটেনশনের উন্নয়নে সক্রিয়ভাবে অবদান রাখুন তার ডেভেলপারকে সমর্থন করে।"
+   },
+   "pro_modale_link_1": {
+      "message": "অথবা"
+   },
+   "pro_modale_link_2": {
+      "message": "আমি লগ ইন করি"
+   },
+   "pro_modale_link_3": {
+      "message": "আমার সাবস্ক্রাইবার অ্যাকাউন্টে"
+   },
+   "pro_modale_recurring_month": {
+      "message": "মাস"
+   },
+   "pro_modale_savings": {
+      "message": "সঞ্চয় করুন"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "বার্ষিক"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "মাসিক"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "আপনার ৭ দিনের বিনামূল্যের ট্রায়ালের পরে"
+   },
+   "pro_modale_trial_button": {
+      "message": "আমার ৭ দিনের বিনামূল্যের ট্রায়াল শুরু করুন"
+   },
+   "pro_modale_trial_h1": {
+      "message": "PRO সংস্করণ ৭ দিনের জন্য বিনামূল্যে চেষ্টা করুন"
+   },
+   "pro_modale_trial_note": {
+      "message": "আজ কিছুই দিতে হবে না · কোন বাধ্যবাধকতা নেই, যেকোনো সময় বাতিলযোগ্য"
+   },
+   "pro_modale_trial_then": {
+      "message": "তারপর"
+   },
+   "pro_modale_trial_today": {
+      "message": "আজ"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "আপনি এই এক্সটেনশনটি কীভাবে রেট করবেন?"
+   },
+   "review_note_feedback": {
+      "message": "আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ, এই এক্সটেনশনটি উন্নত করতে আমাদের একটি বার্তা পাঠাতে দ্বিধা করবেন না।"
+   },
+   "review_note_store": {
+      "message": "আপনার মতামতের জন্য ধন্যবাদ, এক্সটেনশনের পৃষ্ঠায় একটি নোট যোগ করতে দ্বিধা করবেন না। আমি আপনার প্রতি খুবই কৃতজ্ঞ থাকব 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "ক্যামেরা অ্যাক্সেসের অনুমতি অস্বীকৃত।"
+   },
+   "screencast_error": {
+      "message": "রেকর্ডিংয়ের সময় একটি ত্রুটি ঘটেছে। {সমাধানের জন্য এখানে ক্লিক করুন}।"
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "আপনার Chrome সংস্করণটি এই বৈশিষ্ট্যের জন্য খুব পুরানো। Chrome আপডেট করুন 94.0 এর উপরে একটি সংস্করণে যেতে।"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "রেকর্ডিং সঠিকভাবে ফ্রেম করার জন্য বর্তমান উইন্ডোটি (এবং পুরো স্ক্রীন নয়) শেয়ার করুন।"
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "মাইক্রোফোন অ্যাক্সেসের অনুমতি অস্বীকৃত।"
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "বিনামূল্যের সংস্করণে ভিডিও রেকর্ডিংগুলি 5 মিনিটে সীমাবদ্ধ।"
+   },
+   "screencast_modale_contact": {
+      "message": "একটি বাগ রিপোর্ট করুন, উন্নতির প্রস্তাব দিন"
+   },
+   "screencast_modale_copy": {
+      "message": "কপি করুন"
+   },
+   "screencast_modale_download_gif": {
+      "message": "প্রায় সর্বত্র সামঞ্জস্যপূর্ণ, কিন্তু নিম্নমানের (অপশন সক্রিয় থাকলে স্বচ্ছতা সহ)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "PowerPoint এর সাথে সেরা সামঞ্জস্য, কিন্তু কোন স্বচ্ছতা নেই"
+   },
+   "screencast_modale_download_webm": {
+      "message": "ডিফল্ট WEBM ফরম্যাটে ডাউনলোড করুন (অপশন সক্রিয় থাকলে স্বচ্ছতা সহ)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "একটি GIF এর সর্বাধিক সময়কাল 60 সেকেন্ড। এর বেশি হলে ফাইলটি অত্যন্ত বড় হবে।"
+   },
+   "screencast_modale_texte": {
+      "message": "আপনি বিভিন্ন ফরম্যাটে এই ভিডিওটি ডাউনলোড করতে পারেন বা একটি শেয়ার লিঙ্ক পেতে পারেন।"
+   },
+   "screencast_modale_title": {
+      "message": "ভিডিও ক্যাপচার"
+   },
+   "screencast_modale_upload": {
+      "message": "একটি শেয়ার লিঙ্ক পান"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "ভিডিওর গুণমান বিটরেট, fps এবং রেকর্ডিংয়ের রেজোলিউশনে প্রভাব ফেলে। গুণমান যত বেশি হবে ফাইল তত বড় হবে।"
+   },
+   "screencast_start_recording": {
+      "message": "রেকর্ডিং শুরু করুন"
+   },
+   "screencast_tooltip_device": {
+      "message": "শুধুমাত্র ডিভাইসের ভিডিও ক্যাপচার"
+   },
+   "screencast_tooltip_tab": {
+      "message": "ডিভাইস সহ ট্যাবের ভিডিও ক্যাপচার"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "একটি ক্যাপচার তৈরি করুন"
+   },
+   "screenshot_editor_arrow": {
+      "message": "একটি তীর আঁকুন"
+   },
+   "screenshot_editor_close": {
+      "message": "সম্পাদক বন্ধ করুন"
+   },
+   "screenshot_editor_color": {
+      "message": "লাইন রঙ"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "একটি বৃত্ত আঁকুন"
+   },
+   "screenshot_editor_line": {
+      "message": "একটি লাইন আঁকুন"
+   },
+   "screenshot_editor_pen": {
+      "message": "স্বাধীন অঙ্কন"
+   },
+   "screenshot_editor_rect": {
+      "message": "একটি আয়তক্ষেত্র আঁকুন"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "লাইন পুরুত্ব"
+   },
+   "screenshot_editor_undo": {
+      "message": "শেষ কাজটি বাতিল করুন"
+   },
+   "screenshot_menu_1": {
+      "message": "ডিভাইস সহ ক্যাপচার"
+   },
+   "screenshot_menu_2": {
+      "message": "শুধুমাত্র সাইটের ক্যাপচার"
+   },
+   "screenshot_menu_3": {
+      "message": "পুরো পৃষ্ঠার ক্যাপচার"
+   },
+   "screenshot_menu_4": {
+      "message": "পুরো ট্যাবের ক্যাপচার"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "পৃষ্ঠার শেষের আগে থামুন"
+   },
+   "screenshot_modale_copy": {
+      "message": "ক্লিপবোর্ডে ইমেজ কপি করুন"
+   },
+   "screenshot_modale_download_png": {
+      "message": "PNG ফরম্যাটে ডাউনলোড করুন (কোন কম্প্রেশন নেই)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "WEBP ফরম্যাটে ডাউনলোড করুন, প্রায় সর্বত্র সামঞ্জস্যপূর্ণ এবং অপ্টিমাইজড কম্প্রেশন (প্রস্তাবিত)"
+   },
+   "screenshot_modale_edit": {
+      "message": "ক্যাপচার সম্পাদনা করুন"
+   },
+   "screenshot_modale_help": {
+      "message": "বড় ফরম্যাটে ইমেজ সংরক্ষণ করতে, ইমেজের উপর ডান ক্লিক করুন তারপর \"ইমেজ কপি করুন\" বা \"সংরক্ষণ করুন\"।"
+   },
+   "screenshot_modale_title": {
+      "message": "স্ক্রিনশট"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "প্রেক্ষাপট"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "কিছু প্রযুক্তিগত সীমাবদ্ধতার কারণে, স্ক্রিনশট নেওয়ার সময় আপনি এই ত্রুটির বার্তাটি পেতে পারেন।"
+   },
+   "screenshot_workaround_solution": {
+      "message": "সমাধান"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "এই ক্ষেত্রে ক্যাপচার শুরু করতে, পৃষ্ঠার যেকোনো স্থানে ডান ক্লিক করুন, \"মোবাইল সিমুলেটর\" এন্ট্রি নির্বাচন করুন, তারপর \"📷 স্ক্রিনশট নিন\""
+   },
+   "screenshot_workaround_title": {
+      "message": "স্ক্রিনশটের জন্য সমাধান"
+   },
+   "see_less": {
+      "message": "কম দেখুন"
+   },
+   "see_more": {
+      "message": "আরও দেখুন"
+   },
+   "select": {
+      "message": "নির্বাচন করুন..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "PRO সংস্করণ আনলক করতে সাইন আপ করুন, অথবা যদি আপনার ইতিমধ্যে একটি অ্যাকাউন্ট থাকে তবে লগ ইন করুন।"
+   },
+   "settings_account_cta_title": {
+      "message": "আপনার অ্যাকাউন্টে প্রবেশ করুন"
+   },
+   "settings_account_greeting": {
+      "message": "হ্যালো $1,"
+   },
+   "settings_batterie_level": {
+      "message": "ডিভাইসের হেডারে ব্যাটারির স্তর (%)"
+   },
+   "settings_camera": {
+      "message": "ক্যামেরা"
+   },
+   "settings_change_analytics": {
+      "message": "ব্যবহারকারীর ১০০% বেনামী এবং ব্যক্তিগত নয় এমন ডেটা শেয়ার করে ডেভেলপারকে এক্সটেনশন উন্নত করতে সাহায্য করুন।"
+   },
+   "settings_change_background": {
+      "message": "পটভূমির রঙ পরিবর্তন করুন"
+   },
+   "settings_change_cursor": {
+      "message": "টাচ স্ক্রল এবং মোবাইল কার্সার প্রদর্শন"
+   },
+   "settings_countdown": {
+      "message": "কাউন্টডাউন (সেকেন্ড)"
+   },
+   "settings_default_device": {
+      "message": "প্রতিটি সক্রিয়করণের জন্য ডিফল্ট টার্মিনাল"
+   },
+   "settings_default_device_placeholder": {
+      "message": "একটি ডিভাইস নির্বাচন করুন"
+   },
+   "settings_device_default_url": {
+      "message": "ডিভাইসে প্রদর্শিত URL পরিবর্তন করুন"
+   },
+   "settings_device_forced_time": {
+      "message": "ডিভাইসে প্রদর্শিত সময় জোরপূর্বক নির্ধারণ করুন"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "বর্তমান সময়ে ফিরে যান"
+   },
+   "settings_device_hide": {
+      "message": "ডিভাইসের ফ্রেম দেখান"
+   },
+   "settings_fullscreen": {
+      "message": "ডিভাইসে পূর্ণস্ক্রীন সাইট"
+   },
+   "settings_h2_customization": {
+      "message": "কাস্টমাইজেশন"
+   },
+   "settings_h2_device": {
+      "message": "ডিভাইস"
+   },
+   "settings_h2_display": {
+      "message": "গ্লোবাল প্রদর্শন"
+   },
+   "settings_h2_global": {
+      "message": "সাধারণ"
+   },
+   "settings_h2_multiwindow": {
+      "message": "মাল্টি-উইন্ডো মোড"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "ডিভাইসের ব্রাউজার ইন্টারফেস (ঠিকানা বার, ইত্যাদি) লুকান"
+   },
+   "settings_hide_keyboard": {
+      "message": "টাইপ করার সময় কীবোর্ডের উপস্থিতি অনুকরণ করুন"
+   },
+   "settings_login_button": {
+      "message": "লগ ইন করুন"
+   },
+   "settings_microphone": {
+      "message": "মাইক্রোফোন"
+   },
+   "settings_nav_account": {
+      "message": "অ্যাকাউন্ট"
+   },
+   "settings_nav_appearance": {
+      "message": "চেহারা"
+   },
+   "settings_nav_device": {
+      "message": "ডিভাইস"
+   },
+   "settings_os_display": {
+      "message": "ওএস প্রদর্শন"
+   },
+   "settings_os_display_full_desc": {
+      "message": "ওএস স্ট্যাটাস বার এবং ব্রাউজার (ঠিকানা বার) প্রদর্শন করে।"
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "ব্রাউজার লুকিয়ে রাখে কিন্তু ওএস স্ট্যাটাস বার সংরক্ষণ করে।"
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "ওএস স্ট্যাটাস বার এবং ব্রাউজার লুকিয়ে রাখে।"
+   },
+   "settings_presenter_mode": {
+      "message": "প্রেজেন্টেশন মোড (ডান মেনু শুধুমাত্র হোভার করার সময় দৃশ্যমান)"
+   },
+   "settings_pro_account": {
+      "message": "আমার সাবস্ক্রিপশন পরিচালনা করুন"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "আপনার সাবস্ক্রিপশন শেষ হবে"
+   },
+   "settings_pro_account_past_due": {
+      "message": "আপনার সাবস্ক্রিপশনের নবায়ন ব্যর্থ হয়েছে। PRO সংস্করণ বজায় রাখতে আপনার পেমেন্ট তথ্য আপডেট করুন।"
+   },
+   "settings_pro_account_reactivate": {
+      "message": "আমার সাবস্ক্রিপশন পুনরায় সক্রিয় করুন"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "স্বয়ংক্রিয়ভাবে PWA সনাক্ত করুন এবং মোবাইল অ্যাপ্লিকেশন হিসাবে প্রদর্শন করুন।"
+   },
+   "settings_scrollbar_show": {
+      "message": "ডিভাইসে নেটিভ স্ক্রলবার প্রদর্শন করুন"
+   },
+   "settings_shortcuts": {
+      "message": "কীবোর্ড শর্টকাট সেট করুন"
+   },
+   "settings_signup_button": {
+      "message": "সাইন আপ করুন"
+   },
+   "settings_subscribe": {
+      "message": "PRO সংস্করণ আনলক করুন"
+   },
+   "settings_subscribe_button": {
+      "message": "সাবস্ক্রাইব করুন"
+   },
+   "settings_sync_events": {
+      "message": "উইন্ডোগুলির মধ্যে ইভেন্টগুলি সিঙ্ক করুন (ক্লিক, স্ক্রল, ইত্যাদি)"
+   },
+   "settings_theme": {
+      "message": "থিম"
+   },
+   "settings_theme_auto": {
+      "message": "স্বয়ংক্রিয়"
+   },
+   "settings_theme_dark": {
+      "message": "গাঢ়"
+   },
+   "settings_theme_light": {
+      "message": "হালকা"
+   },
+   "settings_title": {
+      "message": "সেটিংস"
+   },
+   "settings_transparent_background": {
+      "message": "স্বচ্ছ পটভূমি"
+   },
+   "settings_transparent_background_info": {
+      "message": "এই অপশনটি আরও গণনা জড়িত করে এবং তাই আপনার কম্পিউটারের উপর নির্ভর করে প্রদর্শনে একটি সম্ভাব্য ধীরগতি হতে পারে (শুধুমাত্র WEBM এবং GIF ফরম্যাটের সাথে সামঞ্জস্যপূর্ণ)"
+   },
+   "settings_video_quality": {
+      "message": "ভিডিও গুণমান"
+   },
+   "settings_video_quality_high": {
+      "message": "চমৎকার"
+   },
+   "settings_video_quality_low": {
+      "message": "মাঝারি"
+   },
+   "settings_video_quality_medium": {
+      "message": "ভাল"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "এই মোবাইল সিমুলেটরটি আপনার জন্য উপকারী?"
+   },
+   "sharing_h2": {
+      "message": "তাহলে এটি আপনার সহকর্মী বা বন্ধুদের সাথে শেয়ার করুন"
+   },
+   "sharing_review_1": {
+      "message": "এবং যদি আপনার এক মিনিট সময় থাকে"
+   },
+   "sharing_review_2": {
+      "message": "একটি রিভিউ যোগ করুন"
+   },
+   "sharing_review_3": {
+      "message": "তাহলে এটি কেকের উপর চেরি! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "আমি একটি রিভিউ যোগ করি"
+   },
+   "sharing_txt": {
+      "message": "মোবাইল এবং ট্যাবলেটে তার সাইট পরীক্ষা করার জন্য সিমুলেটর"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "এটি শুধুমাত্র একটি ছবি। আপনার নিজস্ব কীবোর্ড ব্যবহার করুন।"
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 তার পৃষ্ঠাগুলি অন্য পৃষ্ঠার ভিতরে প্রদর্শন করতে অনুমতি দেয় না: সাইটটি Firefox-এ সিমুলেট করা যাবে না।"
+   },
+   "simulator_header_info": {
+      "message": "এটি শুধুমাত্র একটি ছবি। URL পরিবর্তন করতে উপরের Chrome ফিল্ড ব্যবহার করুন।"
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> ট্যাবলেট"
+   },
+   "try_it": {
+      "message": "এখন চেষ্টা করুন"
+   },
+   "update_4_14_5_description": {
+      "message": "স্ক্রিনশটের রেজোলিউশন এবং গুণমানের উল্লেখযোগ্য উন্নতি।"
+   },
+   "update_4_14_5_title": {
+      "message": "আরও স্পষ্ট স্ক্রিনশট"
+   },
+   "update_4_15_0_description": {
+      "message": "স্মার্টফোন এবং ট্যাবলেটে স্পর্শ স্ক্রলিং সক্রিয় করা হয়েছে।"
+   },
+   "update_4_15_0_title": {
+      "message": "স্পর্শ স্ক্রলিং"
+   },
+   "update_4_15_5_description": {
+      "message": "স্থানীয় ফাইলগুলিতে সম্পূর্ণ পৃষ্ঠা স্ক্রিনশট এবং iOS 26 (vh, dhv, lvh, svh) এ ডিসপ্লে ইউনিট সংশোধন।"
+   },
+   "update_4_15_5_title": {
+      "message": "সংশোধন"
+   },
+   "update_4_16_0_description": {
+      "message": "এখন আপনি নির্দিষ্ট মাত্রার সাথে আপনার নিজস্ব ডিভাইস যোগ করতে পারেন।"
+   },
+   "update_4_16_0_title": {
+      "message": "কাস্টম ডিভাইস"
+   },
+   "update_4_17_0_description": {
+      "message": "একাধিক ডিভাইস পাশাপাশি তুলনা করুন। ক্লিক, স্ক্রল এবং কীবোর্ড সিঙ্ক্রোনাইজ করা হয়।"
+   },
+   "update_4_17_0_title": {
+      "message": "ডিভাইস তুলনা"
+   },
+   "update_4_19_0_description": {
+      "message": "৩টি Google Pixel 10 মডেল, Motorola Razr 70 Ultra, Infinix Hot 70 এবং Samsung Galaxy A17।"
+   },
+   "update_4_19_0_title": {
+      "message": "৬টি নতুন অ্যান্ড্রয়েড ডিভাইস"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max এবং ভাঁজযোগ্য iPhone Duo, ভাঁজ করা এবং খোলা সংস্করণে।"
+   },
+   "update_4_21_0_title": {
+      "message": "৪টি নতুন iPhone"
+   },
+   "update_tag_feature": {
+      "message": "বৈশিষ্ট্য"
+   },
+   "update_tag_fix": {
+      "message": "সংশোধন"
+   },
+   "update_tag_improvement": {
+      "message": "উন্নতি"
+   },
+   "update_tag_new": {
+      "message": "নতুন"
+   }
+}

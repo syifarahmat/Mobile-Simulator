@@ -1,0 +1,76 @@
+# ===========================
+# Node.js
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+package-lock.json
+
+# ===========================
+# Nuxt
+# ===========================
+.nuxt/
+.output/
+.nitro/
+dist/
+.cache/
+
+# ===========================
+# Prisma / SQLite database
+# ===========================
+data/Conflict/
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+data/*.db
+data/*.db-shm
+data/*.db-wal
+prisma/*.sqlite
+prisma/*.sqlite-shm
+prisma/*.sqlite-wal
+prisma/*.db
+prisma/*.db-shm
+prisma/*.db-wal
+
+# ===========================
+# Environment & secrets
+# ===========================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ===========================
+# OS & editors
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ===========================
+# Logs & temp
+# ===========================
+logs/
+*.log
+tmp/
+temp/
+.temp/
+
+# ===========================
+# Build / type artifacts
+# ===========================
+*.tsbuildinfo
+.eslintcache
+# Generated — obfuscated from electron/main.src.cjs
+electron/main.cjs

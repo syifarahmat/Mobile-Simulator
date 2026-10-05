@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Telèfons Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Telèfons Apple"
+   },
+   "button_feedback": {
+      "message": "Afegir una valoració"
+   },
+   "button_message": {
+      "message": "Envia'ns un missatge"
+   },
+   "close": {
+      "message": "Tancar"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Nom del dispositiu"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, etc."
+   },
+   "contact_title": {
+      "message": "El dispositiu que cerqueu no és a la llista? Digueu-nos-ho!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Activar la vista mòbil en aquesta pestanya"
+   },
+   "copied": {
+      "message": "Copiat"
+   },
+   "custom_device_add": {
+      "message": "Afegeix un dispositiu personalitzat"
+   },
+   "custom_device_dpr": {
+      "message": "Device pixel ratio"
+   },
+   "custom_device_error_name": {
+      "message": "El nom del dispositiu és obligatori."
+   },
+   "custom_device_error_os": {
+      "message": "El sistema operatiu és obligatori."
+   },
+   "custom_device_error_ua": {
+      "message": "El user agent és obligatori."
+   },
+   "custom_device_error_viewport": {
+      "message": "L'amplada i l'alçada del viewport han de ser entre 10 i 4096."
+   },
+   "custom_device_height": {
+      "message": "Alçada viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Menys paràmetres"
+   },
+   "custom_device_more": {
+      "message": "Més paràmetres"
+   },
+   "custom_device_name": {
+      "message": "Nom del dispositiu"
+   },
+   "custom_device_network": {
+      "message": "Xarxa"
+   },
+   "custom_device_os_name": {
+      "message": "Sistema operatiu"
+   },
+   "custom_device_os_version": {
+      "message": "Versió OS"
+   },
+   "custom_device_submit": {
+      "message": "Afegeix"
+   },
+   "custom_device_title": {
+      "message": "Afegeix un dispositiu personalitzat"
+   },
+   "custom_device_ua": {
+      "message": "Cadena user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "User agent personalitzat"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Amplada viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "El visual del dispositiu no s'ha pogut carregar. Això pot ser degut a un bloquejador de publicitat o a la política de seguretat de la vostra empresa. El simulador continua sent plenament utilitzable, només el mockup no es mostra."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Mockup del dispositiu no disponible"
+   },
+   "device_variant_folded": {
+      "message": "Plegat"
+   },
+   "device_variant_unfolded": {
+      "message": "Desplegat"
+   },
+   "dimensions": {
+      "message": "Dimensions"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "error_contact": {
+      "message": "{Contacteu-nos} si el problema persisteix."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Extensió Chrome gratuïta per provar i previsualitzar els teus llocs en més de 80 dispositius"
+   },
+   "extName": {
+      "message": "Simulador de telèfon mòbil - prova de lloc responsive"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "No respondre"
+   },
+   "feedback_company_type": {
+      "message": "Quin és el vostre tipus d'empresa?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Petita empresa (10-49 empleats)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Autònom"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Molt gran empresa / grup (5000+ empleats)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Microempresa (1-9 empleats)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Gran empresa (250-4999 empleats)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Mitjana empresa (50-249 empleats)"
+   },
+   "feedback_error_required": {
+      "message": "Tots els camps estan buits 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Amb quina freqüència utilitzeu aquesta extensió?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Ocasional"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Diverses vegades per setmana"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Diari"
+   },
+   "feedback_frequency_rare": {
+      "message": "Rar"
+   },
+   "feedback_improvements": {
+      "message": "Quines millores us agradaria veure?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Una idea, una fricció, una manca..."
+   },
+   "feedback_profession": {
+      "message": "Quin és el vostre departament professional?"
+   },
+   "feedback_profession_designer": {
+      "message": "Disseny"
+   },
+   "feedback_profession_developer": {
+      "message": "Desenvolupament"
+   },
+   "feedback_profession_marketing": {
+      "message": "Màrqueting"
+   },
+   "feedback_profession_other": {
+      "message": "Altres"
+   },
+   "feedback_profession_product": {
+      "message": "Gestió de producte"
+   },
+   "feedback_profession_qa": {
+      "message": "Prova / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Vendes"
+   },
+   "feedback_submit": {
+      "message": "Enviar"
+   },
+   "feedback_submitted": {
+      "message": "Moltes gràcies pel vostre comentari 🤗"
+   },
+   "feedback_title": {
+      "message": "Ajudeu-nos a fer Mobile FIRST encara més útil per a vosaltres 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Provar el meu lloc, fer demos a clients..."
+   },
+   "feedback_use_cases": {
+      "message": "Per què utilitzeu Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Obtenir la versió PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Últimes actualitzacions"
+   },
+   "link": {
+      "message": "Enllaç"
+   },
+   "logout_modale_button": {
+      "message": "Iniciar sessió"
+   },
+   "logout_modale_message": {
+      "message": "Aquest dispositiu ja no forma part dels teus terminals autoritzats. Si has eliminat aquest accés manualment, caldrà una nova connexió."
+   },
+   "logout_modale_message2": {
+      "message": "Per motius de seguretat, heu estat desconnectat automàticament del vostre compte. Però podeu tornar a iniciar sessió fent clic al botó de sota."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Vols compartir la teva subscripció? Per autoritzar altres persones, simplement afegeix-les des de la secció \"Usuaris\" del teu compte."
+   },
+   "logout_modale_title": {
+      "message": "Heu estat desconnectat automàticament en aquest dispositiu"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Dispositius visibles a la pestanya"
+   },
+   "menu_add_window": {
+      "message": "Afegir finestra"
+   },
+   "menu_change_device": {
+      "message": "Canviar de dispositiu o comparar"
+   },
+   "menu_close_alone": {
+      "message": "Desactivar el simulador"
+   },
+   "menu_close_window": {
+      "message": "Tancar aquesta finestra"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> El dispositiu que cerqueu no és a la llista? Digueu-nos-ho!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Els meus dispositius personalitzats"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Afegeix els teus propis dispositius personalitzats!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Desactivar el mode comparació"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Activar el mode comparació"
+   },
+   "menu_extensions": {
+      "message": "Descobriu les nostres altres extensions de Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Veure totes les preguntes freqüents"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Com activar el simulador en navegació privada?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Les meves media queries no es tenen en compte"
+   },
+   "menu_faq_scroll": {
+      "message": "Impossible desplaçar-se en el simulador"
+   },
+   "menu_faq_shortcut": {
+      "message": "Com configurar dreceres de teclat?"
+   },
+   "menu_faq_subscription": {
+      "message": "Per què la meva subscripció no funciona?"
+   },
+   "menu_faq_title": {
+      "message": "Preguntes freqüents"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Preferits"
+   },
+   "menu_info_device": {
+      "message": "Característiques i mockup d'aquest dispositiu"
+   },
+   "menu_info_device_features": {
+      "message": "Característiques (resolució del viewport, etc.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Mockup gratuït en PNG transparent"
+   },
+   "menu_report": {
+      "message": "Informar d'un error"
+   },
+   "menu_rotate": {
+      "message": "Canviar l'orientació"
+   },
+   "menu_screencast": {
+      "message": "📹 Gravar un vídeo de la pantalla"
+   },
+   "menu_screenshot": {
+      "message": "📷 Fer una captura de pantalla"
+   },
+   "menu_send_improvement": {
+      "message": "Proposar una millora"
+   },
+   "menu_send_message": {
+      "message": "Centre d'ajuda"
+   },
+   "menu_settings": {
+      "message": "Configuració"
+   },
+   "menu_share": {
+      "message": "Compartir amb un/a col·lega, un/a amic/ga,..."
+   },
+   "menu_vote_feature": {
+      "message": "Voteu per les funcionalitats que desitgeu"
+   },
+   "menu_zoom": {
+      "message": "Fer zoom en el dispositiu"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Més paràmetres"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Descobriu ara la nova funcionalitat de comparació de diversos dispositius!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Compareu la visualització simultània de diversos dispositius en la mateixa finestra. Desplaçament, clics, teclat sincronitzats."
+   },
+   "new_video_feature_h1": {
+      "message": "Descobriu ara la nova funcionalitat de captura de vídeo!"
+   },
+   "new_video_feature_h2": {
+      "message": "Graveu amb millor qualitat, amb noves opcions i amb fons transparent"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.14.5\u003C/strong>Augment significatiu de la \u003Cstrong>resolució i qualitat\u003C/strong> de les captures de pantalla \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.15.0\u003C/strong>Activació del \u003Cstrong>desplaçament tàctil\u003C/strong> per a telèfons intel·ligents i tauletes \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.15.0\u003C/strong>Activació del \u003Cstrong>desplaçament tàctil\u003C/strong> per a telèfons intel·ligents i tauletes."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.15.5\u003C/strong>\u003Cul>\u003Cli>Correcció pel que fa a les captures de pantalla de pàgina completa en \u003Cstrong>els fitxers locals\u003C/strong>.\u003C/li>\u003Cli>Correcció pel que fa a les unitats vh, dhv, lvh, svh en \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.16.0\u003C/strong>Afegeix la possibilitat de crear dispositius personalitzats \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Actualització v4.17.0\u003C/strong>Afegeix la funcionalitat de comparació de diversos dispositius simultàniament! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Benvingut a Mobile FIRST 👋\u003C/strong>Simuleu en un clic telèfons, tauletes i ordinadors per provar i visualitzar fàcilment els vostres llocs.\u003Cbr>\u003Cbr>\u003Cstrong>El menú es troba a la dreta ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Opcional"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Instal·lar"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Aquesta extensió us permet capturar qualsevol color a la pantalla."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Selector de color"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Identifiqueu amb un clic la font utilitzada en qualsevol text d'una pàgina web."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Cercador de fonts"
+   },
+   "other_extensions_h1": {
+      "message": "Descobriu les nostres noves extensions gratuïtes"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Especials"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Activar l'opció"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Aquest simulador no es pot activar per defecte en els fitxers locals (file:///) però podeu activar l'opció manualment en els paràmetres de Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "El simulador no es pot activar en aquesta pàgina nativa del vostre navegador. Proveu en una altra pestanya o navegueu a un lloc i torneu a llançar."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Tots els paràmetres de vídeo"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Comparació multi-dispositius"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Facturat anualment"
+   },
+   "pro_modale_button": {
+      "message": "Em subscric"
+   },
+   "pro_modale_from": {
+      "message": "A partir de"
+   },
+   "pro_modale_h1": {
+      "message": "Converteix-te en PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Elimina els anuncis"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Converteix les teves captures de vídeo als formats GIF i MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simula tots els dispositius"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Edita les teves captures"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Compareu més de dos dispositius simultàniament"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Desbloqueja tots els paràmetres de gravació de vídeo"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Desbloqueja tots els paràmetres"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Fes captures de pantalla sense límit"
+   },
+   "pro_modale_h2": {
+      "message": "Converteix-te en PRO i contribueix activament al desenvolupament d'aquesta extensió donant suport al seu desenvolupador."
+   },
+   "pro_modale_link_1": {
+      "message": "O"
+   },
+   "pro_modale_link_2": {
+      "message": "em connecto"
+   },
+   "pro_modale_link_3": {
+      "message": "al meu compte de subscriptor"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mes"
+   },
+   "pro_modale_savings": {
+      "message": "Estalvia"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Anual"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Mensual"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "després dels teus 7 dies de prova gratuïta"
+   },
+   "pro_modale_trial_button": {
+      "message": "Inicia la meva prova gratuïta de 7 dies"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Prova la versió PRO gratuïtament durant 7 dies"
+   },
+   "pro_modale_trial_note": {
+      "message": "Res a pagar avui · Sense compromís, cancel·lable en qualsevol moment"
+   },
+   "pro_modale_trial_then": {
+      "message": "després"
+   },
+   "pro_modale_trial_today": {
+      "message": "avui"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Com valoraries aquesta extensió?"
+   },
+   "review_note_feedback": {
+      "message": "Gràcies pel teu comentari, no dubtis a enviar-nos un missatge perquè puguem millorar aquesta extensió."
+   },
+   "review_note_store": {
+      "message": "Gràcies pel teu comentari, no dubtis a afegir una nota a la pàgina de l'extensió. T'ho agrairia molt 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Permís d'accés a la càmera denegat."
+   },
+   "screencast_error": {
+      "message": "S'ha produït un error durant la gravació. {Cliqueu aquí} per a una solució alternativa."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "La vostra versió de Chrome és massa antiga per a aquesta funcionalitat. Si us plau, actualitzeu Chrome per passar a una versió superior a 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Si us plau, compartiu la finestra actual (i no tota la pantalla) perquè la gravació estigui correctament enquadrada."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Permís d'accés al micròfon denegat."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Les gravacions de vídeo estan limitades a 5 minuts en la versió gratuïta."
+   },
+   "screencast_modale_contact": {
+      "message": "Informar d'un error, proposar una millora"
+   },
+   "screencast_modale_copy": {
+      "message": "Copiar"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Compatible a tot arreu, però qualitat inferior (amb transparència si l'opció està activada)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Millor compatibilitat amb PowerPoint, però sense transparència"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Descarregar en format per defecte WEBM (amb transparència si l'opció està activada)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "La durada màxima d'un GIF és de 60 segons. Més enllà el fitxer seria massa voluminós."
+   },
+   "screencast_modale_texte": {
+      "message": "Podeu descarregar aquest vídeo en diferents formats o bé obtenir un enllaç de compartició."
+   },
+   "screencast_modale_title": {
+      "message": "Captura de vídeo"
+   },
+   "screencast_modale_upload": {
+      "message": "Obtenir un enllaç de compartició"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "La qualitat del vídeo influeix en el bitrate, el fps i la resolució de la gravació. Com més alta sigui la qualitat, més gran serà el fitxer."
+   },
+   "screencast_start_recording": {
+      "message": "Iniciar la gravació"
+   },
+   "screencast_tooltip_device": {
+      "message": "Captura de vídeo només del dispositiu"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Captura de vídeo de la pestanya amb el dispositiu"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Generar una captura"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Dibuixar una fletxa"
+   },
+   "screenshot_editor_close": {
+      "message": "Tancar l'editor"
+   },
+   "screenshot_editor_color": {
+      "message": "Color del traç"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Dibuixar un cercle"
+   },
+   "screenshot_editor_line": {
+      "message": "Dibuixar una línia"
+   },
+   "screenshot_editor_pen": {
+      "message": "Dibuix lliure"
+   },
+   "screenshot_editor_rect": {
+      "message": "Dibuixar un rectangle"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Gruix del traç"
+   },
+   "screenshot_editor_undo": {
+      "message": "Desfer l'última acció"
+   },
+   "screenshot_menu_1": {
+      "message": "Captura amb el dispositiu"
+   },
+   "screenshot_menu_2": {
+      "message": "Captura només del lloc"
+   },
+   "screenshot_menu_3": {
+      "message": "Captura de tota la pàgina"
+   },
+   "screenshot_menu_4": {
+      "message": "Captura de tota la pestanya"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Aturar abans del final de la pàgina"
+   },
+   "screenshot_modale_copy": {
+      "message": "Copiar la imatge al porta-retalls"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Descarregar en format PNG (sense compressió)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Descarregar en format WEBP, compatible gairebé a tot arreu i compressió optimitzada (recomanat)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Editar la captura"
+   },
+   "screenshot_modale_help": {
+      "message": "Per desar la imatge en gran format només cal fer clic dret sobre ella i després \"Copiar la imatge\" o \"Desar\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Captura de pantalla"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Context"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "A causa d'algunes limitacions tècniques, és possible que, durant la captura de pantalla, rebeu aquest missatge d'error."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Solució alternativa"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "En aquest cas, per iniciar la captura, només cal fer clic dret en qualsevol lloc de la pàgina, triar l'entrada « Simulador mòbil », i després « 📷 Fer una captura de pantalla »"
+   },
+   "screenshot_workaround_title": {
+      "message": "Solució alternativa per a la captura de pantalla"
+   },
+   "see_less": {
+      "message": "Veure menys"
+   },
+   "see_more": {
+      "message": "Veure més"
+   },
+   "select": {
+      "message": "Seleccionar..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Inscriviu-vos per desbloquejar la versió PRO, o inicieu sessió si ja teniu un compte."
+   },
+   "settings_account_cta_title": {
+      "message": "Accediu al vostre compte"
+   },
+   "settings_account_greeting": {
+      "message": "Hola $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Nivell de bateria en la capçalera del dispositiu (%)"
+   },
+   "settings_camera": {
+      "message": "Càmera"
+   },
+   "settings_change_analytics": {
+      "message": "Ajuda el desenvolupador a millorar l'extensió compartint dades d'ús 100 % anònimes i no personals."
+   },
+   "settings_change_background": {
+      "message": "Modificar el color de fons"
+   },
+   "settings_change_cursor": {
+      "message": "Desplaçament tàctil i visualització del cursor mòbil"
+   },
+   "settings_countdown": {
+      "message": "Compte enrere (segons)"
+   },
+   "settings_default_device": {
+      "message": "Terminal per defecte a cada activació"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Seleccionar un dispositiu"
+   },
+   "settings_device_default_url": {
+      "message": "Modificar l'URL mostrada en el dispositiu"
+   },
+   "settings_device_forced_time": {
+      "message": "Forçar l'hora mostrada en el dispositiu"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Tornar a l'hora actual"
+   },
+   "settings_device_hide": {
+      "message": "Mostra el marc del dispositiu"
+   },
+   "settings_fullscreen": {
+      "message": "Lloc a pantalla completa en el dispositiu"
+   },
+   "settings_h2_customization": {
+      "message": "Personalització"
+   },
+   "settings_h2_device": {
+      "message": "Dispositiu"
+   },
+   "settings_h2_display": {
+      "message": "Visualització global"
+   },
+   "settings_h2_global": {
+      "message": "General"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Mode multi-finestra"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Amaga la interfície del navegador del dispositiu (barra d'adreces, etc.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simular l'aparició del teclat durant l'escriptura"
+   },
+   "settings_login_button": {
+      "message": "Iniciar sessió"
+   },
+   "settings_microphone": {
+      "message": "Micròfon"
+   },
+   "settings_nav_account": {
+      "message": "Compte"
+   },
+   "settings_nav_appearance": {
+      "message": "Aparença"
+   },
+   "settings_nav_device": {
+      "message": "Dispositiu"
+   },
+   "settings_os_display": {
+      "message": "Visualització de l'OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Mostra la barra d'estat de l'OS i el navegador (barra d'adreces)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Amaga el navegador però manté la barra d'estat de l'OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Amaga la barra d'estat de l'OS i el navegador."
+   },
+   "settings_presenter_mode": {
+      "message": "Mode presentació (menú de la dreta visible només al passar el cursor)"
+   },
+   "settings_pro_account": {
+      "message": "Gestionar la meva subscripció"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "La teva subscripció finalitzarà el"
+   },
+   "settings_pro_account_past_due": {
+      "message": "La renovació de la teva subscripció ha fallat. Si us plau, actualitza la teva informació de pagament per conservar la versió PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Reactivar la meva subscripció"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Detectar i mostrar automàticament les PWA com a aplicació mòbil."
+   },
+   "settings_scrollbar_show": {
+      "message": "Mostrar la barra de desplaçament nativa en el dispositiu"
+   },
+   "settings_shortcuts": {
+      "message": "Definir les dreceres de teclat"
+   },
+   "settings_signup_button": {
+      "message": "Registrar-se"
+   },
+   "settings_subscribe": {
+      "message": "Desbloquejar la versió PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Subscriure's"
+   },
+   "settings_sync_events": {
+      "message": "Sincronitza els esdeveniments entre les finestres (clic, desplaçament, etc.)"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Auto"
+   },
+   "settings_theme_dark": {
+      "message": "Fosc"
+   },
+   "settings_theme_light": {
+      "message": "Clar"
+   },
+   "settings_title": {
+      "message": "Configuració"
+   },
+   "settings_transparent_background": {
+      "message": "Fons transparent"
+   },
+   "settings_transparent_background_info": {
+      "message": "Aquesta opció implica més càlculs i, per tant, un potencial alentiment de la visualització en funció del vostre ordinador (només compatible amb els formats WEBM i GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Qualitat de vídeo"
+   },
+   "settings_video_quality_high": {
+      "message": "Excel·lent"
+   },
+   "settings_video_quality_low": {
+      "message": "Mitjana"
+   },
+   "settings_video_quality_medium": {
+      "message": "Bona"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Aquest simulador mòbil et resulta útil?"
+   },
+   "sharing_h2": {
+      "message": "Llavors comparteix-lo amb els teus col·legues o amics"
+   },
+   "sharing_review_1": {
+      "message": "I si tens un minut per"
+   },
+   "sharing_review_2": {
+      "message": "afegir una opinió"
+   },
+   "sharing_review_3": {
+      "message": "llavors és la cirera del pastís! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Afegeixo una opinió"
+   },
+   "sharing_txt": {
+      "message": "Simulador per provar el seu lloc en mòbil i tauleta"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Això és només una imatge. Utilitzeu el vostre propi teclat."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 no permet la visualització de les seves pàgines dins d'una altra pàgina: el lloc no es pot simular a Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Això és només una imatge. Per canviar l'URL utilitzeu el camp de Chrome a dalt."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tauletes"
+   },
+   "try_it": {
+      "message": "Provar ara"
+   },
+   "update_4_14_5_description": {
+      "message": "Millora significativa de la resolució i la qualitat de les captures de pantalla."
+   },
+   "update_4_14_5_title": {
+      "message": "Captures més nítides"
+   },
+   "update_4_15_0_description": {
+      "message": "Activació del desplaçament tàctil en smartphones i tauletes."
+   },
+   "update_4_15_0_title": {
+      "message": "Desplaçament tàctil"
+   },
+   "update_4_15_5_description": {
+      "message": "Captures de pàgina sencera en fitxers locals i correctius de les unitats de visualització en iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Correctius"
+   },
+   "update_4_16_0_description": {
+      "message": "Ara podeu afegir els vostres propis dispositius amb dimensions específiques."
+   },
+   "update_4_16_0_title": {
+      "message": "Dispositius personalitzats"
+   },
+   "update_4_17_0_description": {
+      "message": "Compareu diversos dispositius costat a costat simultàniament. Els clics, desplaçaments i teclat estan sincronitzats."
+   },
+   "update_4_17_0_title": {
+      "message": "Comparació de dispositius"
+   },
+   "update_4_19_0_description": {
+      "message": "3 models de Google Pixel 10, Motorola Razr 70 Ultra, l'Infinix Hot 70 i Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 nous dispositius Android"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max i el plegable iPhone Duo, en versions plegada i desplegada."
+   },
+   "update_4_21_0_title": {
+      "message": "4 nous iPhones"
+   },
+   "update_tag_feature": {
+      "message": "FUNCIONALITAT"
+   },
+   "update_tag_fix": {
+      "message": "CORRECTIU"
+   },
+   "update_tag_improvement": {
+      "message": "MILLORA"
+   },
+   "update_tag_new": {
+      "message": "NOU"
+   }
+}

@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Ponsel Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Ponsel Apple"
+   },
+   "button_feedback": {
+      "message": "Tambahkan ulasan"
+   },
+   "button_message": {
+      "message": "Kirimkan pesan kepada kami"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Nama perangkat"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, dll."
+   },
+   "contact_title": {
+      "message": "Perangkat yang Anda cari tidak ada dalam daftar? Beritahu kami!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktifkan tampilan mobile di tab ini"
+   },
+   "copied": {
+      "message": "Disalin"
+   },
+   "custom_device_add": {
+      "message": "Tambahkan perangkat kustom"
+   },
+   "custom_device_dpr": {
+      "message": "Rasio piksel perangkat"
+   },
+   "custom_device_error_name": {
+      "message": "Nama perangkat wajib diisi."
+   },
+   "custom_device_error_os": {
+      "message": "Sistem operasi wajib diisi."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent wajib diisi."
+   },
+   "custom_device_error_viewport": {
+      "message": "Lebar dan tinggi viewport harus antara 10 dan 4096."
+   },
+   "custom_device_height": {
+      "message": "Tinggi viewport (px)"
+   },
+   "custom_device_less": {
+      "message": "Lebih sedikit pengaturan"
+   },
+   "custom_device_more": {
+      "message": "Lebih banyak pengaturan"
+   },
+   "custom_device_name": {
+      "message": "Nama perangkat"
+   },
+   "custom_device_network": {
+      "message": "Jaringan"
+   },
+   "custom_device_os_name": {
+      "message": "Sistem operasi"
+   },
+   "custom_device_os_version": {
+      "message": "Versi OS"
+   },
+   "custom_device_submit": {
+      "message": "Tambahkan"
+   },
+   "custom_device_title": {
+      "message": "Tambahkan perangkat kustom"
+   },
+   "custom_device_ua": {
+      "message": "String user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "User agent kustom"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Lebar viewport (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Tampilan perangkat tidak dapat dimuat. Ini mungkin disebabkan oleh pemblokir iklan atau kebijakan keamanan perusahaan Anda. Simulator tetap sepenuhnya dapat digunakan, hanya mockup yang tidak ditampilkan."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Mockup perangkat tidak tersedia"
+   },
+   "device_variant_folded": {
+      "message": "Dilipat"
+   },
+   "device_variant_unfolded": {
+      "message": "Dibuka"
+   },
+   "dimensions": {
+      "message": "Dimensi"
+   },
+   "error": {
+      "message": "Kesalahan"
+   },
+   "error_contact": {
+      "message": "{Silakan hubungi kami} jika masalah berlanjut."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Ekstensi Chrome gratis untuk menguji dan melihat pratinjau situs Anda di lebih dari 80 perangkat"
+   },
+   "extName": {
+      "message": "Simulasi ponsel - uji situs responsif"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Jangan jawab"
+   },
+   "feedback_company_type": {
+      "message": "Apa jenis perusahaan Anda?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Usaha kecil (10-49 karyawan)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Freelance"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Usaha sangat besar / grup (5000+ karyawan)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Usaha mikro (1-9 karyawan)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Usaha besar (250-4999 karyawan)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Usaha menengah (50-249 karyawan)"
+   },
+   "feedback_error_required": {
+      "message": "Semua bidang kosong 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Seberapa sering Anda menggunakan ekstensi ini?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Sesekali"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Beberapa kali seminggu"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Harian"
+   },
+   "feedback_frequency_rare": {
+      "message": "Jarang"
+   },
+   "feedback_improvements": {
+      "message": "Perbaikan apa yang ingin Anda lihat?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Sebuah ide, gesekan, kekurangan..."
+   },
+   "feedback_profession": {
+      "message": "Apa departemen profesional Anda?"
+   },
+   "feedback_profession_designer": {
+      "message": "Desain"
+   },
+   "feedback_profession_developer": {
+      "message": "Pengembangan"
+   },
+   "feedback_profession_marketing": {
+      "message": "Pemasaran"
+   },
+   "feedback_profession_other": {
+      "message": "Lainnya"
+   },
+   "feedback_profession_product": {
+      "message": "Manajemen produk"
+   },
+   "feedback_profession_qa": {
+      "message": "Pengujian / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Penjualan"
+   },
+   "feedback_submit": {
+      "message": "Kirim"
+   },
+   "feedback_submitted": {
+      "message": "Terima kasih banyak atas umpan balik Anda 🤗"
+   },
+   "feedback_title": {
+      "message": "Bantu kami membuat Mobile FIRST lebih berguna untuk Anda 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Uji situs saya, buat demo untuk klien..."
+   },
+   "feedback_use_cases": {
+      "message": "Mengapa Anda menggunakan Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Dapatkan versi PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Pembaruan Terbaru"
+   },
+   "link": {
+      "message": "Tautan"
+   },
+   "logout_modale_button": {
+      "message": "Masuk"
+   },
+   "logout_modale_message": {
+      "message": "Perangkat ini tidak lagi menjadi bagian dari perangkat yang diizinkan. Jika Anda menghapus akses ini secara manual, Anda perlu masuk kembali."
+   },
+   "logout_modale_message2": {
+      "message": "Untuk alasan keamanan, Anda telah otomatis keluar dari akun Anda. Namun, Anda dapat masuk kembali dengan mengklik tombol di bawah ini."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Ingin berbagi langganan Anda? Untuk mengizinkan orang lain, tambahkan mereka dari bagian \"Pengguna\" di akun Anda."
+   },
+   "logout_modale_title": {
+      "message": "Anda telah keluar secara otomatis dari perangkat ini"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Perangkat yang terlihat di tab"
+   },
+   "menu_add_window": {
+      "message": "Tambah jendela"
+   },
+   "menu_change_device": {
+      "message": "Ganti perangkat atau bandingkan"
+   },
+   "menu_close_alone": {
+      "message": "Nonaktifkan simulator"
+   },
+   "menu_close_window": {
+      "message": "Tutup jendela ini"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Perangkat yang Anda cari tidak ada dalam daftar? Beritahu kami!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Perangkat kustom saya"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Tambahkan perangkat kustom Anda sendiri!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Nonaktifkan mode perbandingan"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Aktifkan mode perbandingan"
+   },
+   "menu_extensions": {
+      "message": "Temukan ekstensi Chrome kami yang lain"
+   },
+   "menu_faq_all": {
+      "message": "Lihat semua pertanyaan yang sering diajukan"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Bagaimana cara mengaktifkan simulator dalam mode penyamaran?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Media queries saya tidak diperhitungkan"
+   },
+   "menu_faq_scroll": {
+      "message": "Tidak bisa menggulir dalam simulator"
+   },
+   "menu_faq_shortcut": {
+      "message": "Bagaimana cara mengatur pintasan keyboard?"
+   },
+   "menu_faq_subscription": {
+      "message": "Mengapa langganan saya tidak berfungsi?"
+   },
+   "menu_faq_title": {
+      "message": "Pertanyaan yang sering diajukan"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Favorit"
+   },
+   "menu_info_device": {
+      "message": "Karakteristik dan mockup perangkat ini"
+   },
+   "menu_info_device_features": {
+      "message": "Spesifikasi (resolusi viewport, dll.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Mockup gratis dalam PNG transparan"
+   },
+   "menu_report": {
+      "message": "Laporkan bug"
+   },
+   "menu_rotate": {
+      "message": "Ubah orientasi"
+   },
+   "menu_screencast": {
+      "message": "📹 Rekam video layar"
+   },
+   "menu_screenshot": {
+      "message": "📷 Ambil tangkapan layar"
+   },
+   "menu_send_improvement": {
+      "message": "Usulkan perbaikan"
+   },
+   "menu_send_message": {
+      "message": "Pusat bantuan"
+   },
+   "menu_settings": {
+      "message": "Konfigurasi"
+   },
+   "menu_share": {
+      "message": "Bagikan kepada kolega, teman,..."
+   },
+   "menu_vote_feature": {
+      "message": "Beri suara untuk fitur yang Anda inginkan"
+   },
+   "menu_zoom": {
+      "message": "Perbesar dalam perangkat"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Pengaturan lebih lanjut"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Temukan sekarang fitur perbandingan perangkat baru!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Bandingkan tampilan beberapa perangkat secara bersamaan dalam jendela yang sama. Gulir, klik, keyboard tersinkronisasi."
+   },
+   "new_video_feature_h1": {
+      "message": "Temukan sekarang fitur rekaman video baru!"
+   },
+   "new_video_feature_h2": {
+      "message": "Rekam dengan kualitas lebih baik, dengan opsi baru dan dengan latar belakang transparan"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.14.5\u003C/strong>Peningkatan signifikan dalam \u003Cstrong>resolusi dan kualitas\u003C/strong> tangkapan layar \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.15.0\u003C/strong>Aktivasi \u003Cstrong>touch scroll\u003C/strong> untuk smartphone dan tablet \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.15.0\u003C/strong>Aktivasi \u003Cstrong>gulir sentuh\u003C/strong> untuk smartphone dan tablet."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.15.5\u003C/strong>\u003Cul>\u003Cli>Perbaikan terkait tangkapan layar halaman penuh pada \u003Cstrong>file lokal\u003C/strong>.\u003C/li>\u003Cli>Perbaikan terkait unit vh, dhv, lvh, svh pada \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.16.0\u003C/strong>Penambahan kemampuan untuk membuat perangkat kustom \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Pembaruan v4.17.0\u003C/strong>Penambahan fitur perbandingan beberapa perangkat secara bersamaan! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Selamat datang di Mobile FIRST 👋\u003C/strong>Simulasikan dengan satu klik ponsel, tablet, dan komputer untuk menguji dan melihat situs Anda dengan mudah.\u003Cbr>\u003Cbr>\u003Cstrong>Menu ada di kanan ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Opsional"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Instal"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Ekstensi ini memungkinkan Anda menangkap warna apa pun di layar."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Pemilih warna"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Identifikasi font yang digunakan pada teks apa pun di halaman web dengan satu klik."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Pencari font"
+   },
+   "other_extensions_h1": {
+      "message": "Temukan ekstensi gratis terbaru kami"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Khusus"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktifkan opsi"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Simulator ini tidak dapat diaktifkan secara default pada file lokal (file:///) tetapi Anda dapat mengaktifkan opsi secara manual di pengaturan Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulator tidak dapat diaktifkan di halaman asli browser Anda ini. Coba di tab lain atau jelajahi situs lalu coba lagi."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Semua pengaturan video"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Perbandingan multi-perangkat"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Ditagih setiap tahun"
+   },
+   "pro_modale_button": {
+      "message": "Saya berlangganan"
+   },
+   "pro_modale_from": {
+      "message": "Mulai dari"
+   },
+   "pro_modale_h1": {
+      "message": "Jadilah PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Hapus iklan"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konversi tangkapan video Anda ke format GIF dan MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulasikan semua perangkat"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Edit tangkapan Anda"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Bandingkan lebih dari dua perangkat secara bersamaan"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Buka semua pengaturan rekaman video"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Buka semua pengaturan"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Ambil tangkapan layar tanpa batas"
+   },
+   "pro_modale_h2": {
+      "message": "Jadilah PRO dan berkontribusi aktif pada pengembangan ekstensi ini dengan mendukung pengembangnya."
+   },
+   "pro_modale_link_1": {
+      "message": "Atau"
+   },
+   "pro_modale_link_2": {
+      "message": "saya masuk"
+   },
+   "pro_modale_link_3": {
+      "message": "ke akun berlangganan saya"
+   },
+   "pro_modale_recurring_month": {
+      "message": "bulan"
+   },
+   "pro_modale_savings": {
+      "message": "Hemat"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Tahunan"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Bulanan"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "setelah 7 hari uji coba gratis Anda"
+   },
+   "pro_modale_trial_button": {
+      "message": "Mulai uji coba gratis 7 hari saya"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Coba versi PRO gratis selama 7 hari"
+   },
+   "pro_modale_trial_note": {
+      "message": "Tidak ada pembayaran hari ini · Tanpa komitmen, dapat dibatalkan kapan saja"
+   },
+   "pro_modale_trial_then": {
+      "message": "kemudian"
+   },
+   "pro_modale_trial_today": {
+      "message": "hari ini"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Bagaimana Anda menilai ekstensi ini?"
+   },
+   "review_note_feedback": {
+      "message": "Terima kasih atas umpan balik Anda, jangan ragu untuk mengirim pesan kepada kami agar kami dapat meningkatkan ekstensi ini."
+   },
+   "review_note_store": {
+      "message": "Terima kasih atas tanggapan Anda, jangan ragu untuk menambahkan ulasan di halaman ekstensi. Saya akan sangat menghargainya 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Izin akses kamera ditolak."
+   },
+   "screencast_error": {
+      "message": "Terjadi kesalahan saat merekam. {Klik di sini} untuk solusi alternatif."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Versi Chrome Anda terlalu lama untuk fitur ini. Silakan perbarui Chrome ke versi di atas 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Silakan bagikan jendela saat ini (dan bukan seluruh layar) agar perekaman dibingkai dengan benar."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Izin akses mikrofon ditolak."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Rekaman video dibatasi hingga 5 menit dalam versi gratis."
+   },
+   "screencast_modale_contact": {
+      "message": "Laporkan bug, usulkan perbaikan"
+   },
+   "screencast_modale_copy": {
+      "message": "Salin"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Kompatibel di mana saja, tetapi kualitas lebih rendah (dengan transparansi jika opsi diaktifkan)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Kompatibilitas terbaik dengan PowerPoint, tetapi tanpa transparansi"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Unduh dalam format default WEBM (dengan transparansi jika opsi diaktifkan)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Durasi maksimum GIF adalah 60 detik. Lebih dari itu file akan terlalu besar."
+   },
+   "screencast_modale_texte": {
+      "message": "Anda dapat mengunduh video ini dalam berbagai format atau mendapatkan tautan berbagi."
+   },
+   "screencast_modale_title": {
+      "message": "Rekam video"
+   },
+   "screencast_modale_upload": {
+      "message": "Dapatkan tautan berbagi"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Kualitas video mempengaruhi bitrate, fps & resolusi rekaman. Semakin tinggi kualitas, semakin besar ukuran file."
+   },
+   "screencast_start_recording": {
+      "message": "Mulai merekam"
+   },
+   "screencast_tooltip_device": {
+      "message": "Rekam video hanya perangkat"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Rekam video tab dengan perangkat"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Hasilkan tangkapan"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Gambar panah"
+   },
+   "screenshot_editor_close": {
+      "message": "Tutup editor"
+   },
+   "screenshot_editor_color": {
+      "message": "Warna garis"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Gambar lingkaran"
+   },
+   "screenshot_editor_line": {
+      "message": "Gambar garis"
+   },
+   "screenshot_editor_pen": {
+      "message": "Gambar bebas"
+   },
+   "screenshot_editor_rect": {
+      "message": "Gambar persegi panjang"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Ketebalan garis"
+   },
+   "screenshot_editor_undo": {
+      "message": "Batalkan tindakan terakhir"
+   },
+   "screenshot_menu_1": {
+      "message": "Tangkap dengan perangkat"
+   },
+   "screenshot_menu_2": {
+      "message": "Tangkapan situs saja"
+   },
+   "screenshot_menu_3": {
+      "message": "Tangkapan seluruh halaman"
+   },
+   "screenshot_menu_4": {
+      "message": "Tangkapan seluruh tab"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Berhenti sebelum akhir halaman"
+   },
+   "screenshot_modale_copy": {
+      "message": "Salin gambar ke papan klip"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Unduh dalam format PNG (tanpa kompresi)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Unduh dalam format WEBP, kompatibel hampir di mana saja dan kompresi dioptimalkan (direkomendasikan)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Edit tangkapan"
+   },
+   "screenshot_modale_help": {
+      "message": "Untuk menyimpan gambar dalam format besar cukup klik kanan di atasnya lalu \"Salin gambar\" atau \"Simpan\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Tangkapan layar"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Konteks"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Karena beberapa keterbatasan teknis, mungkin saat mengambil tangkapan layar, Anda menerima pesan kesalahan ini."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Solusi alternatif"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "Dalam hal ini untuk memulai tangkapan, cukup klik kanan di mana saja di halaman, pilih entri \"Simulator mobile\", lalu \"📷 Ambil tangkapan layar\""
+   },
+   "screenshot_workaround_title": {
+      "message": "Solusi alternatif untuk tangkapan layar"
+   },
+   "see_less": {
+      "message": "Lihat lebih sedikit"
+   },
+   "see_more": {
+      "message": "Lihat lebih banyak"
+   },
+   "select": {
+      "message": "Pilih..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Daftar untuk membuka versi PRO, atau masuk jika Anda sudah memiliki akun."
+   },
+   "settings_account_cta_title": {
+      "message": "Akses akun Anda"
+   },
+   "settings_account_greeting": {
+      "message": "Halo $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Tingkat baterai di header perangkat (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Bantu pengembang meningkatkan ekstensi dengan berbagi data penggunaan yang 100% anonim dan non-pribadi."
+   },
+   "settings_change_background": {
+      "message": "Ubah warna latar belakang"
+   },
+   "settings_change_cursor": {
+      "message": "Gulir sentuh & tampilan kursor seluler"
+   },
+   "settings_countdown": {
+      "message": "Hitung mundur (detik)"
+   },
+   "settings_default_device": {
+      "message": "Perangkat default setiap kali diaktifkan"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Pilih perangkat"
+   },
+   "settings_device_default_url": {
+      "message": "Ubah URL yang ditampilkan di perangkat"
+   },
+   "settings_device_forced_time": {
+      "message": "Paksa waktu yang ditampilkan di perangkat"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Kembali ke waktu saat ini"
+   },
+   "settings_device_hide": {
+      "message": "Tampilkan bingkai perangkat"
+   },
+   "settings_fullscreen": {
+      "message": "Situs layar penuh di perangkat"
+   },
+   "settings_h2_customization": {
+      "message": "Kustomisasi"
+   },
+   "settings_h2_device": {
+      "message": "Perangkat"
+   },
+   "settings_h2_display": {
+      "message": "Tampilan global"
+   },
+   "settings_h2_global": {
+      "message": "Umum"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Mode multi-jendela"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Sembunyikan antarmuka browser perangkat (bilah alamat, dll.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simulasikan kemunculan keyboard saat mengetik"
+   },
+   "settings_login_button": {
+      "message": "Masuk"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_nav_account": {
+      "message": "Akun"
+   },
+   "settings_nav_appearance": {
+      "message": "Penampilan"
+   },
+   "settings_nav_device": {
+      "message": "Perangkat"
+   },
+   "settings_os_display": {
+      "message": "Tampilan OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Menampilkan bilah status OS dan browser (bilah alamat)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Menyembunyikan browser tetapi mempertahankan bilah status OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Menyembunyikan bilah status OS dan browser."
+   },
+   "settings_presenter_mode": {
+      "message": "Mode presentasi (menu di kanan hanya terlihat saat dihover)"
+   },
+   "settings_pro_account": {
+      "message": "Kelola langganan saya"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Langganan Anda akan berakhir pada"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Pembaruan langganan Anda gagal. Harap perbarui informasi pembayaran Anda untuk mempertahankan versi PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Aktifkan kembali langganan saya"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Deteksi dan tampilkan PWA secara otomatis sebagai aplikasi seluler."
+   },
+   "settings_scrollbar_show": {
+      "message": "Tampilkan bilah gulir asli di perangkat"
+   },
+   "settings_shortcuts": {
+      "message": "Tetapkan pintasan keyboard"
+   },
+   "settings_signup_button": {
+      "message": "Daftar"
+   },
+   "settings_subscribe": {
+      "message": "Buka versi PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Berlangganan"
+   },
+   "settings_sync_events": {
+      "message": "Sinkronkan acara antara jendela (klik, gulir, dll.)"
+   },
+   "settings_theme": {
+      "message": "Tema"
+   },
+   "settings_theme_auto": {
+      "message": "Otomatis"
+   },
+   "settings_theme_dark": {
+      "message": "Gelap"
+   },
+   "settings_theme_light": {
+      "message": "Terang"
+   },
+   "settings_title": {
+      "message": "Pengaturan"
+   },
+   "settings_transparent_background": {
+      "message": "Latar belakang transparan"
+   },
+   "settings_transparent_background_info": {
+      "message": "Opsi ini memerlukan lebih banyak perhitungan dan dapat memperlambat tampilan tergantung pada komputer Anda (hanya kompatibel dengan format WEBM dan GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Kualitas video"
+   },
+   "settings_video_quality_high": {
+      "message": "Sangat baik"
+   },
+   "settings_video_quality_low": {
+      "message": "Sedang"
+   },
+   "settings_video_quality_medium": {
+      "message": "Baik"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Apakah simulator ini berguna untuk Anda?"
+   },
+   "sharing_h2": {
+      "message": "Bagikan dengan kolega atau teman Anda"
+   },
+   "sharing_review_1": {
+      "message": "Dan jika Anda punya waktu sebentar untuk"
+   },
+   "sharing_review_2": {
+      "message": "menambahkan ulasan"
+   },
+   "sharing_review_3": {
+      "message": "itu akan menjadi bonus yang menyenangkan! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Saya tambahkan ulasan"
+   },
+   "sharing_txt": {
+      "message": "Simulator untuk menguji situs Anda di ponsel & tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Ini hanyalah gambar. Gunakan keyboard Anda sendiri."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 tidak mengizinkan tampilan halamannya di dalam halaman lain: situs tidak dapat disimulasikan di Firefox."
+   },
+   "simulator_header_info": {
+      "message": "Ini hanyalah gambar. Untuk mengubah URL gunakan kolom Chrome di atas."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablet"
+   },
+   "try_it": {
+      "message": "Coba sekarang"
+   },
+   "update_4_14_5_description": {
+      "message": "Peningkatan signifikan dalam resolusi dan kualitas tangkapan layar."
+   },
+   "update_4_14_5_title": {
+      "message": "Tangkap lebih tajam"
+   },
+   "update_4_15_0_description": {
+      "message": "Aktivasi gulir sentuh pada smartphone dan tablet."
+   },
+   "update_4_15_0_title": {
+      "message": "Gulir sentuh"
+   },
+   "update_4_15_5_description": {
+      "message": "Tangkap halaman penuh pada file lokal dan perbaikan unit tampilan di iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Perbaikan"
+   },
+   "update_4_16_0_description": {
+      "message": "Anda sekarang dapat menambahkan perangkat Anda sendiri dengan dimensi spesifik."
+   },
+   "update_4_16_0_title": {
+      "message": "Perangkat kustom"
+   },
+   "update_4_17_0_description": {
+      "message": "Bandingkan beberapa perangkat secara bersamaan. Klik, gulir, dan keyboard disinkronkan."
+   },
+   "update_4_17_0_title": {
+      "message": "Perbandingan perangkat"
+   },
+   "update_4_19_0_description": {
+      "message": "3 model Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70, dan Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 perangkat Android baru"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max dan iPhone Duo lipat, dalam versi terlipat dan terbuka."
+   },
+   "update_4_21_0_title": {
+      "message": "4 iPhone baru"
+   },
+   "update_tag_feature": {
+      "message": "FITUR"
+   },
+   "update_tag_fix": {
+      "message": "PERBAIKAN"
+   },
+   "update_tag_improvement": {
+      "message": "PENINGKATAN"
+   },
+   "update_tag_new": {
+      "message": "BARU"
+   }
+}

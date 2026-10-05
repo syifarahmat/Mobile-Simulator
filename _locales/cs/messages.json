@@ -1,0 +1,938 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android telefony"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple telefony"
+   },
+   "button_feedback": {
+      "message": "Přidat hodnocení"
+   },
+   "button_message": {
+      "message": "Pošlete nám zprávu"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "contact": {
+      "message": "--------------------------------------------------------"
+   },
+   "contact_message_field_name": {
+      "message": "Název zařízení"
+   },
+   "contact_message_field_placeholder": {
+      "message": "Samsung Galaxy S24 Ultra, iPhone 17 Pro Max, atd."
+   },
+   "contact_title": {
+      "message": "Zařízení, které hledáte, není v seznamu? Řekněte nám to!"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Aktivovat mobilní zobrazení na této kartě"
+   },
+   "copied": {
+      "message": "Zkopírováno"
+   },
+   "custom_device_add": {
+      "message": "Přidat vlastní zařízení"
+   },
+   "custom_device_dpr": {
+      "message": "Poměr pixelů zařízení"
+   },
+   "custom_device_error_name": {
+      "message": "Název zařízení je povinný."
+   },
+   "custom_device_error_os": {
+      "message": "Operační systém je povinný."
+   },
+   "custom_device_error_ua": {
+      "message": "User agent je povinný."
+   },
+   "custom_device_error_viewport": {
+      "message": "Šířka a výška viewportu musí být mezi 10 a 4096."
+   },
+   "custom_device_height": {
+      "message": "Výška viewportu (px)"
+   },
+   "custom_device_less": {
+      "message": "Méně nastavení"
+   },
+   "custom_device_more": {
+      "message": "Více nastavení"
+   },
+   "custom_device_name": {
+      "message": "Název zařízení"
+   },
+   "custom_device_network": {
+      "message": "Síť"
+   },
+   "custom_device_os_name": {
+      "message": "Operační systém"
+   },
+   "custom_device_os_version": {
+      "message": "Verze OS"
+   },
+   "custom_device_submit": {
+      "message": "Přidat"
+   },
+   "custom_device_title": {
+      "message": "Přidat vlastní zařízení"
+   },
+   "custom_device_ua": {
+      "message": "Řetězec user agent"
+   },
+   "custom_device_ua_custom": {
+      "message": "Vlastní user agent"
+   },
+   "custom_device_ua_preset": {
+      "message": "User agent"
+   },
+   "custom_device_width": {
+      "message": "Šířka viewportu (px)"
+   },
+   "device_mockup_blocked": {
+      "message": "Vizualizace zařízení se nepodařilo načíst. Může to být způsobeno blokátorem reklam nebo bezpečnostní politikou vaší společnosti. Simulátor zůstává plně funkční, pouze maketa není zobrazena."
+   },
+   "device_mockup_blocked_title": {
+      "message": "Maketa zařízení není k dispozici"
+   },
+   "device_variant_folded": {
+      "message": "Složený"
+   },
+   "device_variant_unfolded": {
+      "message": "Rozložený"
+   },
+   "dimensions": {
+      "message": "Rozměry"
+   },
+   "error": {
+      "message": "Chyba"
+   },
+   "error_contact": {
+      "message": "{Kontaktujte nás}, pokud problém přetrvává."
+   },
+   "extDescription": {
+      "message": "Phone Simulator — Bezplatné rozšíření pro Chrome pro testování a náhled vašich stránek na více než 80 zařízeních"
+   },
+   "extName": {
+      "message": "Simulátor mobilního telefonu - testování responzivního webu"
+   },
+   "feedback": {
+      "message": "--------------------------------------------------------"
+   },
+   "feedback_close": {
+      "message": "Neodpovídat"
+   },
+   "feedback_company_type": {
+      "message": "Jaký je typ vaší společnosti?"
+   },
+   "feedback_company_type_agency": {
+      "message": "Malá firma (10-49 zaměstnanců)"
+   },
+   "feedback_company_type_freelance": {
+      "message": "Na volné noze"
+   },
+   "feedback_company_type_grandeentreprise": {
+      "message": "Velmi velká firma / skupina (5000+ zaměstnanců)"
+   },
+   "feedback_company_type_micro_business": {
+      "message": "Mikropodnik (1-9 zaměstnanců)"
+   },
+   "feedback_company_type_pme": {
+      "message": "Velká firma (250-4999 zaměstnanců)"
+   },
+   "feedback_company_type_startup": {
+      "message": "Střední firma (50-249 zaměstnanců)"
+   },
+   "feedback_error_required": {
+      "message": "Všechna pole jsou prázdná 🤔"
+   },
+   "feedback_frequency": {
+      "message": "Jak často používáte toto rozšíření?"
+   },
+   "feedback_frequency_occasionnel": {
+      "message": "Příležitostně"
+   },
+   "feedback_frequency_plusieursfoisparsemaine": {
+      "message": "Několikrát týdně"
+   },
+   "feedback_frequency_quotidien": {
+      "message": "Denně"
+   },
+   "feedback_frequency_rare": {
+      "message": "Zřídka"
+   },
+   "feedback_improvements": {
+      "message": "Jaká zlepšení byste chtěli vidět?"
+   },
+   "feedback_improvements_placeholder": {
+      "message": "Nápad, tření, nedostatek..."
+   },
+   "feedback_profession": {
+      "message": "Jaké je vaše pracovní oddělení?"
+   },
+   "feedback_profession_designer": {
+      "message": "Design"
+   },
+   "feedback_profession_developer": {
+      "message": "Vývoj"
+   },
+   "feedback_profession_marketing": {
+      "message": "Marketing"
+   },
+   "feedback_profession_other": {
+      "message": "Jiné"
+   },
+   "feedback_profession_product": {
+      "message": "Product management"
+   },
+   "feedback_profession_qa": {
+      "message": "Testování / QA"
+   },
+   "feedback_profession_sales": {
+      "message": "Prodej"
+   },
+   "feedback_submit": {
+      "message": "Odeslat"
+   },
+   "feedback_submitted": {
+      "message": "Děkujeme za vaši zpětnou vazbu 🤗"
+   },
+   "feedback_title": {
+      "message": "Pomozte nám udělat Mobile FIRST ještě užitečnějším pro vás 🚀"
+   },
+   "feedback_useCases_placeholder": {
+      "message": "Testování mého webu, prezentace klientům..."
+   },
+   "feedback_use_cases": {
+      "message": "Proč používáte Mobile FIRST?"
+   },
+   "get_pro": {
+      "message": "Získat verzi PRO"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "latest_updates": {
+      "message": "Nejnovější aktualizace"
+   },
+   "link": {
+      "message": "Odkaz"
+   },
+   "logout_modale_button": {
+      "message": "Přihlásit se"
+   },
+   "logout_modale_message": {
+      "message": "Toto zařízení již není součástí vašich autorizovaných terminálů. Pokud jste tento přístup odstranili ručně, je nutné se znovu přihlásit."
+   },
+   "logout_modale_message2": {
+      "message": "Z bezpečnostních důvodů jste byli automaticky odhlášeni ze svého účtu. Můžete se však znovu přihlásit kliknutím na tlačítko níže."
+   },
+   "logout_modale_message_2": {
+      "message": "ℹ️ Chcete sdílet své předplatné? Chcete-li povolit přístup dalším osobám, jednoduše je přidejte v sekci \"Uživatelé\" vašeho účtu."
+   },
+   "logout_modale_title": {
+      "message": "Byli jste automaticky odhlášeni na tomto zařízení"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_active_devices": {
+      "message": "Zařízení viditelná na kartě"
+   },
+   "menu_add_window": {
+      "message": "Přidat okno"
+   },
+   "menu_change_device": {
+      "message": "Změnit zařízení nebo porovnat"
+   },
+   "menu_close_alone": {
+      "message": "Deaktivovat simulátor"
+   },
+   "menu_close_window": {
+      "message": "Zavřít toto okno"
+   },
+   "menu_contact_devices": {
+      "message": "\u003Ci class='mdi'>&#xe900;\u003C/i> Zařízení, které hledáte, není v seznamu? Řekněte nám to!"
+   },
+   "menu_custom_devices": {
+      "message": "\u003Ci class='mdi'>&#xe917;\u003C/i>&nbsp;&nbsp;Moje vlastní zařízení"
+   },
+   "menu_custom_devices_banner": {
+      "message": "Přidejte svá vlastní zařízení!"
+   },
+   "menu_disable_comparison_mode": {
+      "message": "Deaktivovat režim porovnání"
+   },
+   "menu_enable_comparison_mode": {
+      "message": "Aktivovat režim porovnání"
+   },
+   "menu_extensions": {
+      "message": "Objevte naše další rozšíření pro Chrome"
+   },
+   "menu_faq_all": {
+      "message": "Zobrazit všechny často kladené otázky"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Jak aktivovat simulátor v anonymním režimu?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Moje media queries nejsou zohledněny"
+   },
+   "menu_faq_scroll": {
+      "message": "Nelze posouvat v simulátoru"
+   },
+   "menu_faq_shortcut": {
+      "message": "Jak nastavit klávesové zkratky?"
+   },
+   "menu_faq_subscription": {
+      "message": "Proč moje předplatné nefunguje?"
+   },
+   "menu_faq_title": {
+      "message": "Často kladené otázky"
+   },
+   "menu_favorites": {
+      "message": "\u003Ci class='mdi mdi-star favorites-icon is-size-6'>\u003C/i> Oblíbené"
+   },
+   "menu_info_device": {
+      "message": "Vlastnosti a maketa tohoto zařízení"
+   },
+   "menu_info_device_features": {
+      "message": "Vlastnosti (rozlišení viewportu, atd.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Bezplatný mockup v průhledném PNG"
+   },
+   "menu_report": {
+      "message": "Nahlásit chybu"
+   },
+   "menu_rotate": {
+      "message": "Změnit orientaci"
+   },
+   "menu_screencast": {
+      "message": "📹 Nahrát video obrazovky"
+   },
+   "menu_screenshot": {
+      "message": "📷 Pořídit snímek obrazovky"
+   },
+   "menu_send_improvement": {
+      "message": "Navrhnout zlepšení"
+   },
+   "menu_send_message": {
+      "message": "Centrum nápovědy"
+   },
+   "menu_settings": {
+      "message": "Konfigurace"
+   },
+   "menu_share": {
+      "message": "Sdílet s kolegou, přáteli,..."
+   },
+   "menu_vote_feature": {
+      "message": "Hlasujte pro funkce, které chcete"
+   },
+   "menu_zoom": {
+      "message": "Přiblížit v zařízení"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "more_settings": {
+      "message": "Více nastavení"
+   },
+   "new_comparison_feature_h1": {
+      "message": "Objevte nyní novou funkci porovnávání více zařízení!"
+   },
+   "new_comparison_feature_h2": {
+      "message": "Porovnejte současné zobrazení více zařízení ve stejném okně. Posouvání, klikání, klávesnice synchronizovány."
+   },
+   "new_video_feature_h1": {
+      "message": "Objevte nyní novou funkci záznamu videa!"
+   },
+   "new_video_feature_h2": {
+      "message": "Nahrávejte s lepší kvalitou, s novými možnostmi a s průhledným pozadím"
+   },
+   "notification_update_title_v4_14_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.14.5\u003C/strong>Významné zvýšení \u003Cstrong>rozlišení a kvality\u003C/strong> snímků obrazovky \u003Ci class='mdi'>&#xe903;\u003C/i>"
+   },
+   "notification_update_title_v4_15_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.15.0\u003C/strong>Aktivace \u003Cstrong>touch scroll\u003C/strong> pro smartphony a tablety \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_15_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.15.0\u003C/strong>Aktivace \u003Cstrong>dotykového posouvání\u003C/strong> pro smartphony a tablety."
+   },
+   "notification_update_title_v4_15_5": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.15.5\u003C/strong>\u003Cul>\u003Cli>Oprava týkající se snímků obrazovky celé stránky na \u003Cstrong>místních souborech\u003C/strong>.\u003C/li>\u003Cli>Oprava týkající se jednotek vh, dhv, lvh, svh na \u003Cstrong>iOS&nbsp;26\u003C/strong>.\u003C/li>\u003C/ul>"
+   },
+   "notification_update_title_v4_16_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.16.0\u003C/strong>Přidána možnost vytvářet vlastní zařízení \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_17_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aktualizace v4.17.0\u003C/strong>Přidána funkce porovnání více zařízení současně! \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_vwelcome": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Vítejte v Mobile FIRST 👋\u003C/strong>Simulujte jedním kliknutím telefony, tablety a počítače pro jednoduché testování a zobrazení vašich webů.\u003Cbr>\u003Cbr>\u003Cstrong>Menu se nachází vpravo ➡️\u003C/strong>"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "optional": {
+      "message": "Volitelné"
+   },
+   "other_extensions": {
+      "message": "--------------------------------------------------------"
+   },
+   "other_extensions_button": {
+      "message": "Instalovat"
+   },
+   "other_extensions_color_picker_description": {
+      "message": "Toto rozšíření vám umožňuje zachytit jakoukoli barvu na obrazovce."
+   },
+   "other_extensions_color_picker_title": {
+      "message": "Výběr barev"
+   },
+   "other_extensions_font_finder_description": {
+      "message": "Identifikujte jedním kliknutím font použitý na jakémkoli textu na webové stránce."
+   },
+   "other_extensions_font_finder_title": {
+      "message": "Vyhledávač fontů"
+   },
+   "other_extensions_h1": {
+      "message": "Objevte naše zcela nová bezplatná rozšíření"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Speciální"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Povolit možnost"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Tento simulátor nelze ve výchozím nastavení aktivovat na místních souborech (file:///), ale můžete tuto možnost ručně povolit v nastavení Chrome."
+   },
+   "popup_site_incompatible": {
+      "message": "Simulátor nelze aktivovat na této nativní stránce vašeho prohlížeče. Zkuste to na jiné kartě nebo navštivte web a zkuste to znovu."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Všechna video nastavení"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Porovnání více zařízení"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Fakturováno ročně"
+   },
+   "pro_modale_button": {
+      "message": "Předplatit"
+   },
+   "pro_modale_from": {
+      "message": "Od"
+   },
+   "pro_modale_h1": {
+      "message": "Staňte se PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Odstraňte reklamy"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Převádějte své videozáznamy do formátů GIF a MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulujte všechna zařízení"
+   },
+   "pro_modale_h1_image_editor": {
+      "message": "Upravujte své snímky"
+   },
+   "pro_modale_h1_multi_devices": {
+      "message": "Porovnejte více než dvě zařízení současně"
+   },
+   "pro_modale_h1_screencast": {
+      "message": "Odemkněte všechna nastavení videozáznamu"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Odemkněte všechna nastavení"
+   },
+   "pro_modale_h1_unlimited_screenshots": {
+      "message": "Pořizujte snímky obrazovky bez omezení"
+   },
+   "pro_modale_h2": {
+      "message": "Staňte se PRO a aktivně přispějte k vývoji tohoto rozšíření podporou jeho vývojáře."
+   },
+   "pro_modale_link_1": {
+      "message": "Nebo"
+   },
+   "pro_modale_link_2": {
+      "message": "se přihlásit"
+   },
+   "pro_modale_link_3": {
+      "message": "k mému účtu předplatitele"
+   },
+   "pro_modale_recurring_month": {
+      "message": "měsíc"
+   },
+   "pro_modale_savings": {
+      "message": "Ušetřete"
+   },
+   "pro_modale_toggle_annual": {
+      "message": "Roční"
+   },
+   "pro_modale_toggle_monthly": {
+      "message": "Měsíční"
+   },
+   "pro_modale_trial_after_days": {
+      "message": "po vašich 7 dnech bezplatné zkušební verze"
+   },
+   "pro_modale_trial_button": {
+      "message": "Spustit mou 7denní bezplatnou zkušební verzi"
+   },
+   "pro_modale_trial_h1": {
+      "message": "Vyzkoušejte PRO verzi zdarma na 7 dní"
+   },
+   "pro_modale_trial_note": {
+      "message": "Dnes nic neplatíte · Bez závazků, lze kdykoli zrušit"
+   },
+   "pro_modale_trial_then": {
+      "message": "poté"
+   },
+   "pro_modale_trial_today": {
+      "message": "dnes"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Jak byste ohodnotili toto rozšíření?"
+   },
+   "review_note_feedback": {
+      "message": "Děkujeme za vaši zpětnou vazbu, neváhejte nám poslat zprávu, abychom mohli toto rozšíření vylepšit."
+   },
+   "review_note_store": {
+      "message": "Děkujeme za vaši zpětnou vazbu, neváhejte přidat hodnocení na stránce rozšíření. Byl bych vám velmi vděčný 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_camera_permission_denied": {
+      "message": "Přístup ke kameře byl odepřen."
+   },
+   "screencast_error": {
+      "message": "Při nahrávání došlo k chybě. {Klikněte zde} pro alternativní řešení."
+   },
+   "screencast_error_media_stream_track_processor_or_generator": {
+      "message": "Vaše verze Chrome je příliš stará pro tuto funkci. Aktualizujte Chrome na verzi vyšší než 94.0"
+   },
+   "screencast_firefox_select_tab": {
+      "message": "Sdílejte prosím aktuální okno (nikoli celou obrazovku), aby bylo nahrávání správně oříznuto."
+   },
+   "screencast_microphone_permission_denied": {
+      "message": "Přístup k mikrofonu byl odepřen."
+   },
+   "screencast_modale_auto_stop_limit_reached": {
+      "message": "Videozáznamy jsou v bezplatné verzi omezeny na 5 minut."
+   },
+   "screencast_modale_contact": {
+      "message": "Nahlásit chybu, navrhnout zlepšení"
+   },
+   "screencast_modale_copy": {
+      "message": "Kopírovat"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Kompatibilní všude, ale nižší kvalita (s průhledností, pokud je možnost aktivována)"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Lepší kompatibilita s PowerPointem, ale bez průhlednosti"
+   },
+   "screencast_modale_download_webm": {
+      "message": "Stáhnout ve výchozím formátu WEBM (s průhledností, pokud je možnost aktivována)"
+   },
+   "screencast_modale_gif_duration_limit_info": {
+      "message": "Maximální délka GIFu je 60 sekund. Po překročení by byl soubor příliš velký."
+   },
+   "screencast_modale_texte": {
+      "message": "Toto video můžete stáhnout v různých formátech nebo získat odkaz ke sdílení."
+   },
+   "screencast_modale_title": {
+      "message": "Záznam videa"
+   },
+   "screencast_modale_upload": {
+      "message": "Získat odkaz ke sdílení"
+   },
+   "screencast_quality_info_tooltip": {
+      "message": "Kvalita videa ovlivňuje bitrate, fps a rozlišení záznamu. Čím vyšší kvalita, tím větší soubor."
+   },
+   "screencast_start_recording": {
+      "message": "Spustit nahrávání"
+   },
+   "screencast_tooltip_device": {
+      "message": "Záznam videa pouze zařízení"
+   },
+   "screencast_tooltip_tab": {
+      "message": "Záznam videa karty se zařízením"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_button": {
+      "message": "Vytvořit snímek"
+   },
+   "screenshot_editor_arrow": {
+      "message": "Nakreslit šipku"
+   },
+   "screenshot_editor_close": {
+      "message": "Zavřít editor"
+   },
+   "screenshot_editor_color": {
+      "message": "Barva čáry"
+   },
+   "screenshot_editor_ellipse": {
+      "message": "Nakreslit kruh"
+   },
+   "screenshot_editor_line": {
+      "message": "Nakreslit čáru"
+   },
+   "screenshot_editor_pen": {
+      "message": "Volné kreslení"
+   },
+   "screenshot_editor_rect": {
+      "message": "Nakreslit obdélník"
+   },
+   "screenshot_editor_stroke_width": {
+      "message": "Šířka čáry"
+   },
+   "screenshot_editor_undo": {
+      "message": "Zrušit poslední akci"
+   },
+   "screenshot_menu_1": {
+      "message": "Snímek se zařízením"
+   },
+   "screenshot_menu_2": {
+      "message": "Snímek pouze webu"
+   },
+   "screenshot_menu_3": {
+      "message": "Snímek celé stránky"
+   },
+   "screenshot_menu_4": {
+      "message": "Snímek celé karty"
+   },
+   "screenshot_menu_stop_fullpage": {
+      "message": "Zastavit před koncem stránky"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopírovat obrázek do schránky"
+   },
+   "screenshot_modale_download_png": {
+      "message": "Stáhnout ve formátu PNG (bez komprese)"
+   },
+   "screenshot_modale_download_webp": {
+      "message": "Stáhnout ve formátu WEBP, kompatibilní téměř všude a optimalizovaná komprese (doporučeno)"
+   },
+   "screenshot_modale_edit": {
+      "message": "Upravit snímek"
+   },
+   "screenshot_modale_help": {
+      "message": "Pro uložení obrázku ve velkém formátu stačí kliknout pravým tlačítkem na něj a vybrat \"Kopírovat obrázek\" nebo \"Uložit\"."
+   },
+   "screenshot_modale_title": {
+      "message": "Snímek obrazovky"
+   },
+   "screenshot_workaround": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_workaround_context": {
+      "message": "Kontext"
+   },
+   "screenshot_workaround_context_text": {
+      "message": "Kvůli některým technickým omezením se může při pořizování snímku obrazovky zobrazit tato chybová zpráva."
+   },
+   "screenshot_workaround_solution": {
+      "message": "Alternativní řešení"
+   },
+   "screenshot_workaround_solution_text": {
+      "message": "V takovém případě stačí kliknout pravým tlačítkem kdekoli na stránce, vybrat položku „Mobilní simulátor“ a poté „📷 Pořídit snímek obrazovky“"
+   },
+   "screenshot_workaround_title": {
+      "message": "Alternativní řešení pro snímek obrazovky"
+   },
+   "see_less": {
+      "message": "Zobrazit méně"
+   },
+   "see_more": {
+      "message": "Zobrazit více"
+   },
+   "select": {
+      "message": "Vybrat..."
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_account_cta_subtitle": {
+      "message": "Zaregistrujte se pro odemknutí verze PRO, nebo se přihlaste, pokud již máte účet."
+   },
+   "settings_account_cta_title": {
+      "message": "Přístup k vašemu účtu"
+   },
+   "settings_account_greeting": {
+      "message": "Ahoj $1,"
+   },
+   "settings_batterie_level": {
+      "message": "Úroveň baterie v záhlaví zařízení (%)"
+   },
+   "settings_camera": {
+      "message": "Kamera"
+   },
+   "settings_change_analytics": {
+      "message": "Pomozte vývojáři vylepšit rozšíření sdílením 100% anonymních a neosobních údajů o používání."
+   },
+   "settings_change_background": {
+      "message": "Změnit barvu pozadí"
+   },
+   "settings_change_cursor": {
+      "message": "Dotykové rolování a zobrazení mobilního kurzoru"
+   },
+   "settings_countdown": {
+      "message": "Odpočítávání (sekundy)"
+   },
+   "settings_default_device": {
+      "message": "Výchozí zařízení při každé aktivaci"
+   },
+   "settings_default_device_placeholder": {
+      "message": "Vybrat zařízení"
+   },
+   "settings_device_default_url": {
+      "message": "Změnit URL zobrazenou v zařízení"
+   },
+   "settings_device_forced_time": {
+      "message": "Vynutit čas zobrazený na zařízení"
+   },
+   "settings_device_forced_time_reset": {
+      "message": "Vrátit se k aktuálnímu času"
+   },
+   "settings_device_hide": {
+      "message": "Zobrazit rám zařízení"
+   },
+   "settings_fullscreen": {
+      "message": "Stránka na celou obrazovku v zařízení"
+   },
+   "settings_h2_customization": {
+      "message": "Přizpůsobení"
+   },
+   "settings_h2_device": {
+      "message": "Zařízení"
+   },
+   "settings_h2_display": {
+      "message": "Globální zobrazení"
+   },
+   "settings_h2_global": {
+      "message": "Obecné"
+   },
+   "settings_h2_multiwindow": {
+      "message": "Režim více oken"
+   },
+   "settings_h2_pwa": {
+      "message": "PWA"
+   },
+   "settings_hide_header_footer": {
+      "message": "Skrýt rozhraní prohlížeče zařízení (adresní řádek atd.)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Simulovat zobrazení klávesnice při psaní"
+   },
+   "settings_login_button": {
+      "message": "Přihlásit se"
+   },
+   "settings_microphone": {
+      "message": "Mikrofon"
+   },
+   "settings_nav_account": {
+      "message": "Účet"
+   },
+   "settings_nav_appearance": {
+      "message": "Vzhled"
+   },
+   "settings_nav_device": {
+      "message": "Zařízení"
+   },
+   "settings_os_display": {
+      "message": "Zobrazení OS"
+   },
+   "settings_os_display_full_desc": {
+      "message": "Zobrazí stavový řádek OS a prohlížeč (adresní řádek)."
+   },
+   "settings_os_display_no_browser_desc": {
+      "message": "Skryje prohlížeč, ale ponechá stavový řádek OS."
+   },
+   "settings_os_display_no_os_desc": {
+      "message": "Skryje stavový řádek OS a prohlížeč."
+   },
+   "settings_presenter_mode": {
+      "message": "Prezentační režim (menu vpravo viditelné pouze při najetí myší)"
+   },
+   "settings_pro_account": {
+      "message": "Spravovat mé předplatné"
+   },
+   "settings_pro_account_cancel_at_period_end": {
+      "message": "Vaše předplatné skončí dne"
+   },
+   "settings_pro_account_past_due": {
+      "message": "Obnovení vašeho předplatného se nezdařilo. Aktualizujte prosím své platební údaje, abyste si zachovali verzi PRO."
+   },
+   "settings_pro_account_reactivate": {
+      "message": "Znovu aktivovat mé předplatné"
+   },
+   "settings_pwa_auto_detect": {
+      "message": "Automaticky detekovat a zobrazovat PWA jako mobilní aplikaci."
+   },
+   "settings_scrollbar_show": {
+      "message": "Zobrazit nativní posuvník v zařízení"
+   },
+   "settings_shortcuts": {
+      "message": "Nastavit klávesové zkratky"
+   },
+   "settings_signup_button": {
+      "message": "Zaregistrovat se"
+   },
+   "settings_subscribe": {
+      "message": "Odemknout verzi PRO"
+   },
+   "settings_subscribe_button": {
+      "message": "Předplatit"
+   },
+   "settings_sync_events": {
+      "message": "Synchronizovat události mezi okny (kliknutí, posouvání atd.)"
+   },
+   "settings_theme": {
+      "message": "Téma"
+   },
+   "settings_theme_auto": {
+      "message": "Automatické"
+   },
+   "settings_theme_dark": {
+      "message": "Tmavé"
+   },
+   "settings_theme_light": {
+      "message": "Světlé"
+   },
+   "settings_title": {
+      "message": "Nastavení"
+   },
+   "settings_transparent_background": {
+      "message": "Průhledné pozadí"
+   },
+   "settings_transparent_background_info": {
+      "message": "Tato možnost vyžaduje více výpočtů a může zpomalit zobrazení v závislosti na vašem počítači (kompatibilní pouze s formáty WEBM a GIF)"
+   },
+   "settings_video_quality": {
+      "message": "Kvalita videa"
+   },
+   "settings_video_quality_high": {
+      "message": "Vynikající"
+   },
+   "settings_video_quality_low": {
+      "message": "Střední"
+   },
+   "settings_video_quality_medium": {
+      "message": "Dobrá"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "Je tento mobilní simulátor pro vás užitečný?"
+   },
+   "sharing_h2": {
+      "message": "Pak ho sdílejte se svými kolegy nebo přáteli"
+   },
+   "sharing_review_1": {
+      "message": "A pokud máte minutu na"
+   },
+   "sharing_review_2": {
+      "message": "přidání recenze"
+   },
+   "sharing_review_3": {
+      "message": "tak to je třešnička na dortu! 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Přidat recenzi"
+   },
+   "sharing_txt": {
+      "message": "Simulátor pro testování vašeho webu na mobilu a tabletu"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "Toto je pouze obrázek. Použijte vlastní klávesnici."
+   },
+   "simulator_framing_blocked": {
+      "message": "$1 neumožňuje zobrazení svých stránek uvnitř jiné stránky: web nelze simulovat ve Firefoxu."
+   },
+   "simulator_header_info": {
+      "message": "Toto je pouze obrázek. Pro změnu URL použijte pole Chrome výše."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablety"
+   },
+   "try_it": {
+      "message": "Vyzkoušet nyní"
+   },
+   "update_4_14_5_description": {
+      "message": "Významné zlepšení rozlišení a kvality snímků obrazovky."
+   },
+   "update_4_14_5_title": {
+      "message": "Ostřejší snímky"
+   },
+   "update_4_15_0_description": {
+      "message": "Aktivace dotykového posouvání na smartphonech a tabletech."
+   },
+   "update_4_15_0_title": {
+      "message": "Dotykové posouvání"
+   },
+   "update_4_15_5_description": {
+      "message": "Celostránkové snímky na místních souborech a opravy zobrazovacích jednotek na iOS 26 (vh, dhv, lvh, svh)."
+   },
+   "update_4_15_5_title": {
+      "message": "Opravy"
+   },
+   "update_4_16_0_description": {
+      "message": "Nyní můžete přidat vlastní zařízení s konkrétními rozměry."
+   },
+   "update_4_16_0_title": {
+      "message": "Vlastní zařízení"
+   },
+   "update_4_17_0_description": {
+      "message": "Porovnejte více zařízení vedle sebe současně. Kliknutí, posouvání a klávesnice jsou synchronizovány."
+   },
+   "update_4_17_0_title": {
+      "message": "Porovnání zařízení"
+   },
+   "update_4_19_0_description": {
+      "message": "3 modely Google Pixel 10, Motorola Razr 70 Ultra, Infinix Hot 70 a Samsung Galaxy A17."
+   },
+   "update_4_19_0_title": {
+      "message": "6 nových zařízení Android"
+   },
+   "update_4_21_0_description": {
+      "message": "iPhone 18 Pro, iPhone 18 Pro Max a skládací iPhone Duo, ve složené a rozložené verzi."
+   },
+   "update_4_21_0_title": {
+      "message": "4 nové iPhony"
+   },
+   "update_tag_feature": {
+      "message": "FUNKCE"
+   },
+   "update_tag_fix": {
+      "message": "OPRAVA"
+   },
+   "update_tag_improvement": {
+      "message": "VYLEPŠENÍ"
+   },
+   "update_tag_new": {
+      "message": "NOVÉ"
+   }
+}
